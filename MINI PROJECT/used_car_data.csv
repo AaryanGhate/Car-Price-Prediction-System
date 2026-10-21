@@ -1,0 +1,1615 @@
+Car_ID,Brand,Model_Category,Year,Kms_Driven,Fuel_Type,Transmission,Owner,Mileage_kmpl,Engine_CC,Max_Power_BHP,Seats,City,Seller_Type,Selling_Price_INR
+CAR00001,Honda,Sedan,2019.0,16361.0,Petrol,Manual,Second Owner,15.0,,130.5,4.0,Chennai,Individual,525000.0
+CAR00002,BMW,Luxury,2016.0,134453.0,Petrol,Manual,First Owner,16.8,2238.0,365.4,5.0,Bengaluru,Dealer,2870000.0
+CAR00003,Toyota,MPV,2022.0,63267.0,Diesel,Manual,Second Owner,,2470.0,119.9,5.0,Pune,Dealer,1539000.0
+CAR00004,Volkswagen,Hatchback,2009.0,110695.0,Diesel,Automatic,First Owner,19.5,1065.0,63.6,5.0,Pune,Individual,146000.0
+CAR00005,Renault,MPV,2021.0,130275.0,Diesel,Manual,First Owner,19.5,2210.0,159.0,5.0,Hyderabad,Individual,567000.0
+CAR00006,Maruti,Hatchback,2014.0,260000.0,Petrol,Manual,Second Owner,14.5,1185.0,63.3,5.0,Mumbai,Individual,82000.0
+CAR00007,Maruti,Hatchback,2014.0,114383.0,Diesel,Manual,First Owner,18.3,1172.0,67.5,4.0,Hyderabad,Dealer,118000.0
+CAR00008,Maruti,Hatchback,2010.0,211102.0,Petrol,Automatic,Second Owner,13.4,1041.0,47.7,5.0,Chennai,Dealer,65000.0
+CAR00009,Ford,MPV,2019.0,123271.0,Diesel,Manual,Second Owner,25.1,1748.0,146.8,5.0,Mumbai,Dealer,542000.0
+CAR00010,Tata,Compact SUV,2021.0,70739.0,Petrol,Manual,First Owner,13.2,1285.0,103.3,5.0,Pune,Trustmark Dealer,420000.0
+CAR00011,BMW,Luxury,2009.0,260000.0,Diesel,Manual,Third Owner,20.7,2447.0,338.8,5.0,Jaipur,Dealer,851000.0
+CAR00012,Toyota,Luxury,2009.0,116481.0,Diesel,Automatic,First Owner,17.1,3700.0,199.7,5.0,Mumbai,Dealer,
+CAR00013,Kia,Hatchback,2009.0,260000.0,Petrol,Automatic,Second Owner,12.9,1202.0,56.7,5.0,Nagpur,Dealer,100000.0
+CAR00014,Mercedes-Benz,Luxury,2016.0,141655.0,Petrol,Manual,First Owner,14.8,2126.0,267.2,5.0,Nagpur,Individual,2455000.0
+CAR00015,Toyota,SUV,2023.0,68984.0,Diesel,Automatic,First Owner,16.5,,238.8,5.0,Bengaluru,Individual,1987000.0
+CAR00016,Ford,Hatchback,2010.0,124843.0,LPG,Manual,First Owner,17.2,1064.0,63.6,5.0,Pune,Individual,77000.0
+CAR00017,Honda,MPV,2020.0,35592.0,Petrol,Automatic,First Owner,18.6,1509.0,109.8,7.0,Bengaluru,Dealer,951000.0
+CAR00018,Renault,Sedan,2021.0,112877.0,Diesel,Manual,Second Owner,16.5,1900.0,156.1,7.0,Kolkata,Dealer,408000.0
+CAR00019,BMW,Sedan,2024.0,21371.0,Diesel,Automatic,Second Owner,19.8,1381.0,85.2,5.0,Chennai,Dealer,5325000.0
+CAR00020,Toyota,Sedan,2005.0,260000.0,Petrol,Manual,First Owner,14.8,1230.0,116.4,5.0,Hyderabad,Dealer,94000.0
+CAR00021,Toyota,Compact SUV,2019.0,62031.0,Petrol,Manual,Second Owner,17.6,1143.0,136.8,5.0,Hyderabad,Trustmark Dealer,895000.0
+CAR00022,Honda,Sedan,2012.0,100752.0,Petrol,Automatic,Second Owner,18.9,1396.0,154.2,5.0,Bengaluru,Individual,185000.0
+CAR00023,Hyundai,Hatchback,2015.0,219942.0,LPG,Manual,Third Owner,15.6,1086.0,69.5,5.0,Chennai,Dealer,106000.0
+CAR00024,Kia,SUV,2020.0,90889.0,Petrol,Automatic,First Owner,13.1,1980.0,219.9,5.0,Hyderabad,Individual,1557000.0
+CAR00025,Ford,Hatchback,2013.0,260000.0,Petrol,Manual,Third Owner,14.6,1077.0,74.5,5.0,Pune,Dealer,78000.0
+CAR00026,Hyundai,Sedan,2015.0,178659.0,Diesel,Manual,First Owner,18.0,2037.0,95.2,5.0,Delhi,Dealer,252000.0
+CAR00027,Volkswagen,Hatchback,2018.0,80170.0,Petrol,Manual,First Owner,20.6,842.0,69.4,5.0,Nagpur,Dealer,297000.0
+CAR00028,Maruti,Hatchback,2024.0,37023.0,Diesel,Manual,First Owner,15.8,1238.0,93.8,5.0,Pune,Dealer,544000.0
+CAR00029,Toyota,Compact SUV,2008.0,195076.0,Petrol,Manual,Second Owner,,1456.0,75.9,4.0,Mumbai,Dealer,191000.0
+CAR00030,Skoda,Sedan,2022.0,43148.0,Diesel,Automatic,First Owner,15.8,1636.0,97.3,5.0,Delhi,Dealer,1222000.0
+CAR00031,Mahindra,MPV,2022.0,56740.0,Diesel,Manual,First Owner,17.7,1890.0,144.4,7.0,Nagpur,Dealer,1228000.0
+CAR00032,Honda,MPV,2019.0,78217.0,Electric,Manual,First Owner,0.0,159.0,67.6,7.0,Nagpur,Individual,491000.0
+CAR00033,Hyundai,Luxury,2019.0,68830.0,LPG,Manual,First Owner,17.7,3247.0,325.5,5.0,Ahmedabad,Dealer,912000.0
+CAR00034,Toyota,MPV,2009.0,,Petrol,Manual,First Owner,15.7,1737.0,167.9,5.0,Pune,Trustmark Dealer,259000.0
+CAR00035,Mahindra,MPV,2023.0,29746.0,Diesel,Automatic,First Owner,19.7,1929.0,131.6,5.0,Delhi,Individual,1463000.0
+CAR00036,Tata,,2017.0,73174.0,Diesel,Manual,Third Owner,15.3,983.0,76.6,5.0,Pune,Individual,223000.0
+CAR00037,Tata,Compact SUV,2015.0,123171.0,Petrol,Automatic,First Owner,14.2,1027.0,86.5,7.0,Mumbai,Individual,262000.0
+CAR00038,Mahindra,Luxury,2020.0,,Diesel,Manual,Third Owner,22.9,3407.0,,5.0,Hyderabad,Dealer,1084000.0
+CAR00039,BMW,Compact SUV,2020.0,56562.0,Petrol,Automatic,Second Owner,,1174.0,103.4,5.0,Mumbai,Individual,2996000.0
+CAR00040,BMW,Sedan,2017.0,77978.0,Petrol,Automatic,First Owner,15.7,1768.0,162.0,5.0,Bengaluru,Individual,2735000.0
+CAR00041,Maruti,Hatchback,2015.0,227660.0,Diesel,Manual,Second Owner,18.5,1173.0,45.9,5.0,Ahmedabad,Individual,87000.0
+CAR00042,Hyundai,Hatchback,2011.0,157944.0,Petrol,Automatic,First Owner,18.0,1092.0,72.0,5.0,Bengaluru,Trustmark Dealer,119000.0
+CAR00043,Tata,SUV,2020.0,137223.0,Petrol,Automatic,First Owner,16.1,1598.0,168.5,7.0,Pune,Individual,667000.0
+CAR00044,Mahindra,MPV,2013.0,91083.0,Diesel,Manual,Second Owner,14.5,1935.0,123.5,5.0,Pune,Trustmark Dealer,485000.0
+CAR00045,Hyundai,Sedan,2011.0,156728.0,Diesel,Manual,Third Owner,15.6,1354.0,95.7,5.0,Pune,Individual,116000.0
+CAR00046,Toyota,Hatchback,2023.0,,Petrol,Manual,First Owner,16.1,966.0,78.5,5.0,Kolkata,Individual,862000.0
+CAR00047,Honda,SUV,2021.0,33763.0,Petrol,Manual,First Owner,13.5,,214.3,5.0,Jaipur,Individual,1175000.0
+CAR00048,Maruti,Sedan,2024.0,42266.0,Petrol,Automatic,Second Owner,16.3,1869.0,79.4,7.0,Kolkata,Individual,545000.0
+CAR00049,Maruti,Hatchback,2021.0,42796.0,Petrol,Automatic,First Owner,14.1,860.0,46.3,4.0,Chennai,Dealer,307000.0
+CAR00050,Maruti,Hatchback,2019.0,104703.0,Diesel,Manual,Second Owner,18.4,1155.0,73.7,5.0,Bengaluru,Dealer,236000.0
+CAR00051,Hyundai,Hatchback,2015.0,136482.0,Diesel,Manual,First Owner,21.2,1233.0,79.1,5.0,Delhi,Individual,174000.0
+CAR00052,Mahindra,MPV,2019.0,24750.0,Diesel,Manual,Second Owner,18.2,2149.0,168.4,5.0,Hyderabad,Individual,1108000.0
+CAR00053,Mercedes-Benz,Luxury,2013.0,48124.0,Petrol,Automatic,Second Owner,15.2,3065.0,279.1,5.0,Chennai,Individual,2874000.0
+CAR00054,Tata,Hatchback,2019.0,137808.0,Petrol,Manual,Second Owner,,1265.0,67.2,5.0,Bengaluru,Individual,194000.0
+CAR00055,Maruti,Hatchback,2021.0,109461.0,CNG,Manual,First Owner,21.0,1220.0,92.8,5.0,Chennai,Individual,268000.0
+CAR00056,Hyundai,Hatchback,2015.0,124262.0,LPG,Automatic,First Owner,19.8,1269.0,,5.0,Ahmedabad,Individual,177000.0
+CAR00057,Tata,SUV,2017.0,45443.0,LPG,Automatic,Second Owner,15.8,2075.0,92.6,7.0,Hyderabad,Dealer,445000.0
+CAR00058,Maruti,Sedan,2012.0,260000.0,Petrol,Manual,Third Owner,17.1,1288.0,155.3,5.0,Jaipur,Dealer,84000.0
+CAR00059,Hyundai,Sedan,2012.0,253357.0,Petrol,Manual,First Owner,16.4,1381.0,108.5,5.0,Bengaluru,Individual,145000.0
+CAR00060,Maruti,Hatchback,2019.0,73977.0,Petrol,Manual,First Owner,13.8,1089.0,86.0,5.0,Kolkata,Dealer,238000.0
+CAR00061,Ford,Hatchback,2010.0,93813.0,Petrol,Automatic,First Owner,15.7,817.0,55.6,5.0,Pune,Dealer,99000.0
+CAR00062,Tata,MPV,2011.0,241123.0,Diesel,Manual,Second Owner,19.9,2408.0,103.9,5.0,Bengaluru,Dealer,151000.0
+CAR00063,Maruti,Hatchback,2013.0,156792.0,Petrol,Manual,First Owner,19.4,835.0,49.7,5.0,Chennai,Individual,97000.0
+CAR00064,Mahindra,MPV,2012.0,185300.0,Petrol,Automatic,Second Owner,16.7,1759.0,107.2,5.0,Kolkata,Individual,266000.0
+CAR00065,Ford,Compact SUV,2018.0,100563.0,Petrol,Manual,Second Owner,20.4,1557.0,88.8,5.0,Bengaluru,Dealer,318000.0
+CAR00066,Maruti,Hatchback,2021.0,30583.0,Diesel,Automatic,Second Owner,22.0,1123.0,57.8,5.0,Pune,Individual,347000.0
+CAR00067,Toyota,Hatchback,2016.0,194504.0,Diesel,Manual,First Owner,19.2,953.0,49.7,5.0,Mumbai,Individual,274000.0
+CAR00068,Tata,SUV,2022.0,64839.0,Diesel,Automatic,First Owner,19.2,,205.4,5.0,Jaipur,Trustmark Dealer,1066000.0
+CAR00069,Mahindra,SUV,2011.0,89375.0,Petrol,Manual,First Owner,14.3,2671.0,193.8,5.0,Hyderabad,Individual,467000.0
+CAR00070,Maruti,Hatchback,2019.0,95727.0,Diesel,Automatic,First Owner,22.5,882.0,96.5,5.0,Bengaluru,Individual,235000.0
+CAR00071,Kia,Compact SUV,2015.0,173876.0,Diesel,Manual,Second Owner,18.9,1719.0,91.3,5.0,Mumbai,Dealer,392000.0
+CAR00072,Honda,MPV,2015.0,40504.0,Diesel,Manual,First Owner,16.2,1642.0,109.6,5.0,Pune,Dealer,507000.0
+CAR00073,Mahindra,Compact SUV,2023.0,40827.0,Petrol,Manual,First Owner,13.8,1433.0,156.1,4.0,Jaipur,Individual,1472000.0
+CAR00074,Honda,MPV,2018.0,103683.0,Diesel,Automatic,First Owner,18.5,1978.0,110.0,8.0,Jaipur,Individual,606000.0
+CAR00075,Hyundai,Sedan,2010.0,227033.0,Petrol,Automatic,First Owner,14.0,1939.0,141.6,5.0,Bengaluru,Dealer,167000.0
+CAR00076,Maruti,Hatchback,2024.0,41544.0,Petrol,Manual,First Owner,17.7,955.0,75.3,5.0,Jaipur,Trustmark Dealer,397000.0
+CAR00077,Tata,MPV,2015.0,118962.0,Petrol,Manual,First Owner,13.3,1463.0,83.2,6.0,Hyderabad,Dealer,239000.0
+CAR00078,Hyundai,MPV,2010.0,170766.0,Diesel,Automatic,Second Owner,21.8,2005.0,166.9,5.0,Pune,Individual,193000.0
+CAR00079,Tata,,2021.0,74924.0,Diesel,Manual,First Owner,18.6,1837.0,94.5,7.0,Pune,Individual,720000.0
+CAR00080,Mahindra,Compact SUV,2021.0,46014.0,Petrol,Manual,First Owner,14.0,1329.0,81.3,7.0,,Dealer,909000.0
+CAR00081,Honda,Sedan,2017.0,126648.0,Petrol,Automatic,First Owner,18.2,1963.0,175.4,5.0,Mumbai,Individual,506000.0
+CAR00082,Hyundai,Luxury,2016.0,103951.0,Petrol,Automatic,First Owner,16.1,3700.0,361.4,5.0,Delhi,Individual,656000.0
+CAR00083,Tata,SUV,2017.0,80110.0,Diesel,Manual,First Owner,16.3,2408.0,203.7,7.0,Jaipur,Individual,494000.0
+CAR00084,Mercedes-Benz,Sedan,2013.0,136693.0,Petrol,Automatic,First Owner,16.3,1494.0,,5.0,Bengaluru,Dealer,1696000.0
+CAR00085,Toyota,SUV,2013.0,201159.0,Diesel,Manual,First Owner,19.3,1579.0,138.7,5.0,Pune,Dealer,486000.0
+CAR00086,Maruti,Sedan,2019.0,85734.0,Petrol,Manual,First Owner,11.3,1727.0,136.4,5.0,Pune,Individual,395000.0
+CAR00087,Honda,Sedan,2016.0,70183.0,Diesel,Manual,First Owner,17.5,1467.0,84.1,5.0,Bengaluru,Individual,417000.0
+CAR00088,Maruti,Hatchback,2023.0,12835.0,Petrol,Manual,First Owner,,852.0,60.4,5.0,Mumbai,Individual,390000.0
+CAR00089,Mahindra,MPV,2011.0,179314.0,Petrol,Manual,First Owner,11.8,1556.0,152.4,5.0,Delhi,Dealer,307000.0
+CAR00090,Renault,Compact SUV,2009.0,155866.0,Petrol,Manual,First Owner,19.8,1729.0,91.5,5.0,Mumbai,Dealer,104000.0
+CAR00091,Volkswagen,Sedan,2015.0,128562.0,Petrol,Manual,Second Owner,18.7,1793.0,118.4,5.0,Kolkata,Dealer,361000.0
+CAR00092,Ford,Hatchback,2022.0,55427.0,Diesel,Manual,First Owner,19.2,1024.0,70.0,5.0,Pune,Dealer,304000.0
+CAR00093,Toyota,MPV,2020.0,83322.0,Diesel,Manual,First Owner,22.7,2248.0,111.5,5.0,Nagpur,Dealer,1043000.0
+CAR00094,Hyundai,Hatchback,2018.0,148768.0,Petrol,Manual,Third Owner,15.5,834.0,45.2,5.0,Delhi,Dealer,141000.0
+CAR00095,Mahindra,SUV,2019.0,71636.0,LPG,Automatic,First Owner,17.3,2876.0,239.4,5.0,Nagpur,Individual,1099000.0
+CAR00096,Toyota,MPV,2006.0,260000.0,Petrol,Manual,Third Owner,21.1,1489.0,141.6,5.0,Nagpur,Dealer,146000.0
+CAR00097,BMW,Compact SUV,2014.0,94489.0,Diesel,Automatic,First Owner,18.5,1058.0,141.9,5.0,Delhi,Dealer,1462000.0
+CAR00098,Maruti,Compact SUV,2019.0,71485.0,Diesel,Manual,Second Owner,17.0,1759.0,158.8,5.0,Pune,Individual,390000.0
+CAR00099,Hyundai,Hatchback,2018.0,51239.0,Petrol,Automatic,First Owner,11.1,1092.0,55.3,5.0,Mumbai,Individual,312000.0
+CAR00100,Mahindra,MPV,2014.0,91808.0,Diesel,Manual,Second Owner,,2281.0,164.3,6.0,Mumbai,Dealer,539000.0
+CAR00101,Skoda,Compact SUV,2022.0,45869.0,Petrol,Manual,First Owner,14.4,1542.0,73.8,5.0,Bengaluru,Dealer,1143000.0
+CAR00102,Toyota,Sedan,2020.0,21542.0,Petrol,Automatic,First Owner,19.7,1214.0,120.5,5.0,Mumbai,Dealer,1063000.0
+CAR00103,Hyundai,Hatchback,2023.0,40462.0,Petrol,Automatic,First Owner,17.0,1237.0,56.3,5.0,Jaipur,Trustmark Dealer,539000.0
+CAR00104,Tata,Hatchback,2011.0,200214.0,LPG,Manual,First Owner,16.7,989.0,92.8,5.0,Nagpur,Individual,65000.0
+CAR00105,Skoda,Compact SUV,2022.0,37721.0,Diesel,Manual,First Owner,17.3,1664.0,93.0,5.0,Ahmedabad,Trustmark Dealer,1252000.0
+CAR00106,Hyundai,Hatchback,2008.0,239917.0,Diesel,Manual,First Owner,18.4,844.0,86.5,5.0,Mumbai,Individual,66000.0
+CAR00107,Hyundai,MPV,2022.0,29536.0,Diesel,Manual,Second Owner,16.0,2471.0,170.1,5.0,Jaipur,Individual,846000.0
+CAR00108,Audi,Sedan,2010.0,226114.0,Petrol,Automatic,First Owner,17.4,1991.0,165.9,5.0,Pune,Individual,796000.0
+CAR00109,Maruti,Compact SUV,2015.0,155510.0,CNG,Manual,First Owner,22.2,1332.0,98.0,5.0,Mumbai,Dealer,213000.0
+CAR00110,Kia,Luxury,2010.0,198240.0,Diesel,Manual,Second Owner,15.9,3193.0,271.5,5.0,Jaipur,Individual,359000.0
+CAR00111,Ford,Compact SUV,2020.0,81805.0,Petrol,Automatic,First Owner,13.8,1683.0,106.8,5.0,Pune,Individual,651000.0
+CAR00112,Tata,SUV,2017.0,42093.0,Petrol,Manual,First Owner,14.2,1663.0,113.8,5.0,Bengaluru,Individual,603000.0
+CAR00113,Volkswagen,Sedan,2015.0,83544.0,CNG,Manual,First Owner,19.3,1349.0,156.2,5.0,,Dealer,451000.0
+CAR00114,Tata,SUV,2014.0,68625.0,Petrol,Automatic,Third Owner,11.6,2829.0,240.5,5.0,Kolkata,Individual,345000.0
+CAR00115,Toyota,Hatchback,2020.0,72341.0,Petrol,Manual,Second Owner,16.4,1225.0,90.7,5.0,Delhi,Dealer,536000.0
+CAR00116,Hyundai,Sedan,2020.0,72231.0,Petrol,Manual,Second Owner,13.5,2140.0,129.0,5.0,Jaipur,Individual,496000.0
+CAR00117,Toyota,Sedan,2019.0,90689.0,Petrol,Automatic,Second Owner,15.6,1812.0,95.5,5.0,Bengaluru,Trustmark Dealer,856000.0
+CAR00118,Toyota,MPV,2012.0,156283.0,Diesel,Manual,First Owner,17.0,2118.0,91.6,7.0,Mumbai,Individual,422000.0
+CAR00119,Mahindra,Hatchback,2014.0,165467.0,Diesel,Manual,First Owner,20.4,1286.0,64.3,5.0,Jaipur,Individual,195000.0
+CAR00120,Honda,Sedan,2017.0,85947.0,Petrol,Manual,First Owner,18.3,1852.0,94.8,,Bengaluru,Dealer,399000.0
+CAR00121,BMW,Luxury,2023.0,28217.0,Petrol,Automatic,First Owner,15.3,2967.0,177.4,5.0,Mumbai,Individual,8540000.0
+CAR00122,Mahindra,Hatchback,2011.0,155232.0,Petrol,Manual,First Owner,16.9,906.0,74.3,5.0,Jaipur,Individual,155000.0
+CAR00123,Toyota,SUV,2015.0,145668.0,Diesel,Manual,First Owner,17.8,2560.0,161.4,5.0,Pune,Individual,635000.0
+CAR00124,Tata,,2021.0,80587.0,Petrol,Manual,First Owner,16.1,1201.0,98.3,5.0,Bengaluru,Dealer,364000.0
+CAR00125,Skoda,Compact SUV,2022.0,101715.0,Diesel,Manual,First Owner,15.4,1136.0,81.4,5.0,Hyderabad,Individual,873000.0
+CAR00126,Tata,Compact SUV,2018.0,61238.0,Petrol,Manual,Second Owner,17.2,1750.0,142.4,5.0,Delhi,Individual,336000.0
+CAR00127,Maruti,Hatchback,2021.0,118684.0,Petrol,Manual,First Owner,15.9,1181.0,50.3,5.0,Bengaluru,Individual,218000.0
+CAR00128,Maruti,MPV,2009.0,137013.0,Petrol,Automatic,First Owner,15.8,1605.0,177.8,5.0,Jaipur,Trustmark Dealer,134000.0
+CAR00129,Ford,Hatchback,2008.0,248748.0,Petrol,Manual,Third Owner,15.3,1161.0,65.6,5.0,Ahmedabad,Individual,65000.0
+CAR00130,Honda,Sedan,2006.0,260000.0,LPG,Manual,First Owner,15.3,1533.0,90.1,5.0,Bengaluru,Individual,80000.0
+CAR00131,Toyota,Compact SUV,2015.0,94057.0,Petrol,Manual,First Owner,15.1,1234.0,99.4,5.0,Pune,Individual,461000.0
+CAR00132,Skoda,MPV,2012.0,68049.0,Diesel,Manual,First Owner,20.5,1900.0,,4.0,Bengaluru,Individual,499000.0
+CAR00133,Mahindra,Hatchback,2016.0,134830.0,CNG,Manual,First Owner,23.2,979.0,76.6,5.0,Mumbai,Individual,334000.0
+CAR00134,Maruti,Hatchback,2016.0,105765.0,CNG,Manual,Second Owner,25.0,959.0,59.2,5.0,Delhi,Individual,120000.0
+CAR00135,Volkswagen,Sedan,2021.0,71503.0,Petrol,Manual,First Owner,16.2,2091.0,100.7,5.0,Pune,Dealer,832000.0
+CAR00136,Volkswagen,SUV,2021.0,60580.0,Diesel,Manual,First Owner,19.3,1677.0,197.4,5.0,Mumbai,Individual,1437000.0
+CAR00137,Maruti,SUV,2011.0,203818.0,Petrol,Manual,First Owner,16.6,2427.0,148.6,7.0,Bengaluru,Individual,156000.0
+CAR00138,Hyundai,Luxury,2019.0,32466.0,Diesel,Automatic,First Owner,17.7,2036.0,285.3,5.0,Mumbai,Dealer,944000.0
+CAR00139,Hyundai,Compact SUV,2012.0,193994.0,Diesel,Manual,First Owner,18.8,1630.0,158.0,5.0,Nagpur,Individual,222000.0
+CAR00140,Maruti,Hatchback,2021.0,28693.0,Petrol,Manual,First Owner,18.0,918.0,69.0,5.0,Pune,Dealer,354000.0
+CAR00141,Maruti,Hatchback,2019.0,65155.0,Petrol,Manual,First Owner,11.1,1146.0,61.7,5.0,Chennai,Individual,237000.0
+CAR00142,BMW,Compact SUV,2016.0,97810.0,Diesel,Automatic,First Owner,18.4,1552.0,126.2,5.0,Kolkata,Trustmark Dealer,2154000.0
+CAR00143,Ford,SUV,2016.0,111042.0,Petrol,Manual,First Owner,20.2,1687.0,165.1,7.0,Mumbai,Dealer,444000.0
+CAR00144,Mahindra,SUV,2019.0,97193.0,LPG,Manual,Third Owner,12.9,2724.0,105.4,7.0,Chennai,Individual,
+CAR00145,Maruti,Sedan,2015.0,180500.0,Petrol,Automatic,First Owner,10.7,1247.0,166.1,5.0,Hyderabad,Dealer,178000.0
+CAR00146,Maruti,MPV,2014.0,141055.0,Diesel,Manual,Third Owner,13.9,1435.0,,6.0,Chennai,Individual,145000.0
+CAR00147,Hyundai,Sedan,2022.0,90175.0,Petrol,Manual,Fourth & Above,15.6,1700.0,158.9,5.0,Chennai,Dealer,516000.0
+CAR00148,Hyundai,Compact SUV,2014.0,148819.0,Petrol,Manual,Third Owner,15.8,1725.0,91.0,5.0,Pune,Dealer,226000.0
+CAR00149,Hyundai,SUV,2018.0,137481.0,Diesel,Manual,First Owner,17.2,2718.0,124.0,4.0,Hyderabad,Individual,516000.0
+CAR00150,Mahindra,SUV,2015.0,122423.0,Diesel,Manual,First Owner,18.6,2514.0,154.4,7.0,Mumbai,Dealer,645000.0
+CAR00151,Kia,,2020.0,101918.0,Diesel,Manual,First Owner,17.5,,98.4,5.0,Delhi,Individual,983000.0
+CAR00152,Honda,Hatchback,2014.0,162165.0,Petrol,Manual,First Owner,17.9,1232.0,53.5,5.0,Mumbai,Dealer,194000.0
+CAR00153,Hyundai,Sedan,2020.0,81596.0,Petrol,Manual,First Owner,16.3,1431.0,107.1,5.0,Kolkata,Individual,444000.0
+CAR00154,Hyundai,Compact SUV,2008.0,213758.0,Petrol,Manual,First Owner,,1523.0,82.7,5.0,Mumbai,Individual,112000.0
+CAR00155,Tata,Hatchback,2020.0,64844.0,Petrol,Manual,First Owner,13.5,822.0,93.7,5.0,Kolkata,Individual,264000.0
+CAR00156,Toyota,Hatchback,2015.0,182189.0,Petrol,Automatic,First Owner,14.2,,65.4,5.0,Pune,Dealer,242000.0
+CAR00157,Tata,Sedan,2012.0,108017.0,Diesel,Manual,Third Owner,24.8,1442.0,108.8,4.0,Mumbai,Dealer,153000.0
+CAR00158,Kia,Hatchback,2014.0,50761.0,Petrol,Manual,Second Owner,16.3,1061.0,87.0,5.0,Kolkata,Individual,260000.0
+CAR00159,Mercedes-Benz,Sedan,2015.0,53701.0,Petrol,Automatic,First Owner,15.9,1326.0,153.4,4.0,Mumbai,Individual,1894000.0
+CAR00160,Hyundai,Hatchback,2009.0,159913.0,Petrol,Manual,First Owner,16.4,1280.0,99.9,5.0,Bengaluru,Dealer,78000.0
+CAR00161,Hyundai,Compact SUV,2018.0,164379.0,Petrol,Manual,First Owner,13.7,1285.0,98.4,5.0,Bengaluru,Dealer,337000.0
+CAR00162,Maruti,Sedan,2021.0,40538.0,Petrol,Manual,Second Owner,16.8,1833.0,71.1,5.0,Delhi,Dealer,442000.0
+CAR00163,Renault,Hatchback,2014.0,71776.0,Diesel,Automatic,First Owner,17.6,938.0,56.6,5.0,Delhi,Individual,168000.0
+CAR00164,Hyundai,Hatchback,2016.0,192822.0,Diesel,Manual,First Owner,21.2,998.0,69.4,5.0,Pune,Individual,161000.0
+CAR00165,Hyundai,Compact SUV,2020.0,49207.0,Diesel,Manual,First Owner,20.2,1645.0,140.1,6.0,Pune,Individual,652000.0
+CAR00166,Honda,MPV,2018.0,119825.0,Petrol,Manual,First Owner,17.6,1862.0,128.6,5.0,Mumbai,Individual,570000.0
+CAR00167,Volkswagen,Hatchback,2014.0,233056.0,Petrol,Manual,First Owner,20.1,985.0,53.5,5.0,Bengaluru,Individual,161000.0
+CAR00168,Hyundai,Sedan,2022.0,94632.0,Petrol,Manual,First Owner,16.6,1529.0,150.2,7.0,Ahmedabad,Individual,574000.0
+CAR00169,Ford,Compact SUV,2023.0,29271.0,Petrol,Manual,First Owner,16.5,1628.0,80.9,5.0,Pune,Dealer,848000.0
+CAR00170,Toyota,MPV,2015.0,96489.0,Diesel,Manual,First Owner,17.1,1701.0,93.0,7.0,Mumbai,Dealer,626000.0
+CAR00171,Toyota,Sedan,2023.0,79137.0,Petrol,Manual,First Owner,14.9,1867.0,86.1,5.0,Delhi,Dealer,1203000.0
+CAR00172,Renault,Hatchback,2009.0,142307.0,Diesel,Manual,Second Owner,20.4,1040.0,70.0,5.0,Bengaluru,Individual,73000.0
+CAR00173,Maruti,Hatchback,2014.0,157326.0,Petrol,Manual,Second Owner,17.1,885.0,81.2,5.0,Pune,Dealer,97000.0
+CAR00174,,Hatchback,2021.0,32125.0,Diesel,Automatic,Third Owner,20.8,1178.0,80.4,5.0,Chennai,Dealer,268000.0
+CAR00175,Hyundai,Sedan,2012.0,260000.0,Petrol,Manual,Fourth & Above,14.8,1620.0,168.8,5.0,Mumbai,Dealer,112000.0
+CAR00176,Hyundai,Compact SUV,2019.0,90504.0,Diesel,Automatic,Second Owner,13.9,1086.0,72.8,5.0,Mumbai,Individual,495000.0
+CAR00177,Renault,Sedan,2017.0,180488.0,Petrol,Manual,Third Owner,18.3,1666.0,153.2,,Hyderabad,Trustmark Dealer,213000.0
+CAR00178,Volkswagen,Sedan,2017.0,140002.0,Petrol,Automatic,First Owner,16.2,1126.0,176.9,5.0,Pune,Individual,452000.0
+CAR00179,Mercedes-Benz,Luxury,2020.0,40583.0,Diesel,Manual,First Owner,19.1,2128.0,214.2,5.0,Hyderabad,Individual,5661000.0
+CAR00180,Renault,Hatchback,2018.0,143218.0,Petrol,Manual,First Owner,15.9,1166.0,55.4,5.0,Bengaluru,Individual,192000.0
+CAR00181,Hyundai,Compact SUV,2016.0,86306.0,Diesel,Automatic,First Owner,22.2,1034.0,155.5,5.0,Ahmedabad,Individual,351000.0
+CAR00182,Maruti,Hatchback,2021.0,80095.0,Diesel,Manual,Third Owner,20.0,834.0,46.6,4.0,Mumbai,Dealer,221000.0
+CAR00183,Maruti,MPV,2022.0,26495.0,Diesel,Manual,First Owner,18.9,2180.0,167.3,5.0,Hyderabad,Individual,963000.0
+CAR00184,Maruti,Hatchback,2018.0,94507.0,Petrol,Manual,First Owner,16.0,905.0,85.9,5.0,Kolkata,Dealer,210000.0
+CAR00185,Hyundai,Sedan,2013.0,204288.0,CNG,Manual,First Owner,24.3,1388.0,143.6,5.0,Mumbai,Individual,172000.0
+CAR00186,Maruti,Hatchback,,72304.0,Petrol,Manual,Second Owner,14.6,1250.0,72.5,4.0,Pune,Trustmark Dealer,225000.0
+CAR00187,,Compact SUV,2013.0,178919.0,Petrol,Manual,First Owner,10.3,1285.0,106.6,5.0,Delhi,Individual,183000.0
+CAR00188,Tata,Compact SUV,2015.0,196045.0,Petrol,Manual,Second Owner,11.2,1799.0,119.6,5.0,Hyderabad,Individual,200000.0
+CAR00189,Honda,SUV,2014.0,174478.0,Diesel,Manual,First Owner,20.7,2499.0,227.2,5.0,Ahmedabad,Individual,470000.0
+CAR00190,Maruti,Hatchback,2017.0,169498.0,Diesel,Manual,First Owner,17.2,1138.0,46.1,5.0,Nagpur,Individual,123000.0
+CAR00191,Skoda,Compact SUV,2011.0,260000.0,Diesel,Manual,Second Owner,17.4,1582.0,153.6,5.0,Chennai,Dealer,199000.0
+CAR00192,Volkswagen,Sedan,2019.0,105662.0,Petrol,Manual,First Owner,20.2,1735.0,139.8,5.0,Delhi,Individual,571000.0
+CAR00193,Maruti,Hatchback,2010.0,219436.0,Diesel,Manual,Third Owner,18.3,1206.0,85.4,5.0,Bengaluru,Individual,65000.0
+CAR00194,Hyundai,Hatchback,2012.0,125020.0,Diesel,Manual,First Owner,20.3,1044.0,52.8,5.0,Mumbai,Individual,115000.0
+CAR00195,Honda,Hatchback,2018.0,85599.0,CNG,Manual,First Owner,25.1,1022.0,,5.0,Mumbai,Individual,328000.0
+CAR00196,Tata,SUV,2013.0,255207.0,Diesel,Automatic,Third Owner,15.9,1656.0,148.7,5.0,Chennai,Individual,190000.0
+CAR00197,Maruti,Compact SUV,2020.0,69944.0,Diesel,Manual,First Owner,15.9,1759.0,77.5,5.0,Bengaluru,Dealer,522000.0
+CAR00198,Kia,SUV,2021.0,120484.0,Petrol,Automatic,Second Owner,19.7,2490.0,98.3,5.0,Hyderabad,Dealer,1303000.0
+CAR00199,Kia,SUV,2021.0,64505.0,Petrol,Automatic,Second Owner,17.5,2043.0,178.5,5.0,Hyderabad,Individual,1206000.0
+CAR00200,Mahindra,MPV,2017.0,66400.0,Petrol,Automatic,Second Owner,14.2,2201.0,88.6,5.0,Pune,Dealer,689000.0
+CAR00201,Honda,Sedan,2008.0,260000.0,Petrol,Manual,Second Owner,14.0,1761.0,94.3,5.0,Hyderabad,Individual,90000.0
+CAR00202,Tata,Hatchback,2021.0,93319.0,Petrol,Manual,First Owner,16.6,1211.0,73.9,5.0,Pune,Dealer,338000.0
+CAR00203,Toyota,SUV,2014.0,90218.0,Petrol,Manual,First Owner,16.3,2095.0,153.5,5.0,Chennai,Dealer,677000.0
+CAR00204,Renault,Compact SUV,2015.0,83650.0,Petrol,Manual,Third Owner,14.1,1218.0,129.1,5.0,Delhi,Individual,201000.0
+CAR00205,Audi,Luxury,2006.0,74267.0,Petrol,Automatic,Second Owner,16.2,,288.9,5.0,Bengaluru,Dealer,1442000.0
+CAR00206,Maruti,Hatchback,2022.0,66327.0,Petrol,Manual,First Owner,15.6,1157.0,87.1,5.0,Pune,Dealer,344000.0
+CAR00207,Skoda,Compact SUV,2022.0,36273.0,Petrol,Manual,First Owner,17.7,1510.0,144.8,5.0,Delhi,Individual,1289000.0
+CAR00208,Mahindra,MPV,2020.0,51666.0,Petrol,Manual,First Owner,18.2,2485.0,92.8,5.0,Bengaluru,Dealer,1179000.0
+CAR00209,Mahindra,Compact SUV,2013.0,185287.0,Petrol,Automatic,First Owner,15.5,1588.0,143.3,5.0,Mumbai,Individual,329000.0
+CAR00210,Toyota,MPV,2007.0,183981.0,Petrol,Manual,First Owner,17.4,2407.0,155.4,6.0,Bengaluru,Trustmark Dealer,267000.0
+CAR00211,Tata,Hatchback,2021.0,51031.0,Diesel,Manual,Fourth & Above,18.4,1013.0,71.0,5.0,Bengaluru,Dealer,313000.0
+CAR00212,Hyundai,Hatchback,2008.0,260000.0,Petrol,Manual,First Owner,13.8,992.0,55.7,5.0,Delhi,Dealer,65000.0
+CAR00213,Mahindra,Compact SUV,2024.0,,Diesel,Manual,First Owner,18.1,1161.0,145.8,5.0,Chennai,Individual,1533000.0
+CAR00214,Tata,Sedan,2018.0,47269.0,Diesel,Manual,First Owner,20.5,1105.0,137.6,,Mumbai,Individual,400000.0
+CAR00215,BMW,Luxury,2022.0,44501.0,Diesel,Manual,Third Owner,22.3,2575.0,266.2,5.0,Bengaluru,Individual,6194000.0
+CAR00216,Kia,Compact SUV,,158095.0,Petrol,Manual,Fourth & Above,14.2,1407.0,140.6,5.0,Kolkata,Individual,203000.0
+CAR00217,Skoda,Sedan,2018.0,63585.0,Diesel,Manual,First Owner,20.3,1213.0,75.5,5.0,Pune,Dealer,546000.0
+CAR00218,Tata,MPV,2011.0,168399.0,Petrol,Manual,First Owner,14.2,2039.0,,6.0,Nagpur,Individual,161000.0
+CAR00219,Honda,Sedan,2018.0,148682.0,Petrol,Manual,First Owner,14.3,1159.0,124.0,5.0,Pune,Dealer,367000.0
+CAR00220,Maruti,Sedan,2021.0,40230.0,Petrol,Manual,First Owner,16.4,1368.0,138.9,5.0,Mumbai,Dealer,515000.0
+CAR00221,Ford,Sedan,2018.0,104704.0,Diesel,Automatic,First Owner,19.1,1447.0,147.5,5.0,Bengaluru,Individual,405000.0
+CAR00222,Hyundai,SUV,2017.0,104552.0,Electric,Manual,First Owner,0.0,77.0,180.4,5.0,Hyderabad,Individual,455000.0
+CAR00223,Skoda,Hatchback,2016.0,115412.0,Petrol,Automatic,First Owner,17.7,856.0,64.7,5.0,Jaipur,Individual,230000.0
+CAR00224,Maruti,Hatchback,2020.0,83811.0,Diesel,Automatic,First Owner,19.4,886.0,78.5,5.0,Mumbai,Individual,315000.0
+CAR00225,Honda,SUV,2013.0,181608.0,Petrol,Manual,First Owner,17.0,2990.0,191.3,5.0,Mumbai,Trustmark Dealer,360000.0
+CAR00226,Ford,Compact SUV,2013.0,162225.0,Petrol,Manual,First Owner,17.2,1687.0,98.6,5.0,Pune,Individual,209000.0
+CAR00227,Honda,SUV,2023.0,83651.0,Diesel,Manual,Second Owner,18.5,2092.0,210.9,5.0,Delhi,Dealer,1270000.0
+CAR00228,Honda,Hatchback,2009.0,182261.0,Petrol,Manual,Second Owner,15.4,858.0,52.3,4.0,Kolkata,Dealer,65000.0
+CAR00229,Kia,SUV,2023.0,35092.0,Diesel,Manual,First Owner,18.7,2473.0,103.8,7.0,Bengaluru,Dealer,2223000.0
+CAR00230,,MPV,2019.0,99139.0,Diesel,Manual,Second Owner,19.1,2011.0,95.8,5.0,Pune,Individual,915000.0
+CAR00231,Honda,Sedan,2021.0,60585.0,Petrol,Manual,First Owner,12.3,1166.0,97.2,5.0,Nagpur,Trustmark Dealer,636000.0
+CAR00232,Toyota,Sedan,2007.0,260000.0,Diesel,Manual,First Owner,17.5,1131.0,170.3,5.0,Delhi,Individual,113000.0
+CAR00233,Mahindra,MPV,2007.0,260000.0,Diesel,Automatic,First Owner,19.0,1920.0,142.5,4.0,Ahmedabad,Individual,197000.0
+CAR00234,Tata,Compact SUV,2020.0,116721.0,Petrol,Manual,First Owner,13.7,1323.0,84.4,5.0,Bengaluru,Individual,454000.0
+CAR00235,Mercedes-Benz,Luxury,2019.0,100113.0,Petrol,Automatic,Second Owner,17.3,2607.0,297.8,5.0,Ahmedabad,Individual,4310000.0
+CAR00236,Toyota,SUV,2008.0,260000.0,Diesel,Automatic,Second Owner,16.6,2788.0,171.2,5.0,Bengaluru,Individual,227000.0
+CAR00237,BMW,,2011.0,210780.0,Petrol,Automatic,First Owner,10.5,1517.0,127.1,7.0,Bengaluru,Trustmark Dealer,1163000.0
+CAR00238,Tata,SUV,2013.0,108699.0,Diesel,Manual,First Owner,20.8,2800.0,159.4,5.0,Nagpur,Individual,344000.0
+CAR00239,Hyundai,Hatchback,2009.0,194226.0,Petrol,Automatic,First Owner,15.6,1235.0,52.3,5.0,Hyderabad,Dealer,90000.0
+CAR00240,Mahindra,MPV,2011.0,203182.0,Diesel,Manual,First Owner,17.7,1634.0,124.2,7.0,Chennai,Trustmark Dealer,311000.0
+CAR00241,Maruti,Compact SUV,2024.0,34368.0,LPG,Manual,Second Owner,16.8,1501.0,73.9,5.0,Mumbai,Dealer,584000.0
+CAR00242,Honda,Hatchback,2013.0,162153.0,Petrol,Manual,First Owner,20.9,842.0,59.5,5.0,Bengaluru,Dealer,131000.0
+CAR00243,Mahindra,Compact SUV,2022.0,19005.0,CNG,Manual,First Owner,20.6,1165.0,112.0,5.0,Bengaluru,Dealer,1016000.0
+CAR00244,Toyota,Compact SUV,2021.0,27179.0,Diesel,Manual,Second Owner,17.5,1393.0,111.7,5.0,Delhi,Trustmark Dealer,1069000.0
+CAR00245,Audi,Luxury,2015.0,167811.0,Diesel,Automatic,Second Owner,18.1,3666.0,344.2,4.0,Hyderabad,Dealer,2973000.0
+CAR00246,Tata,SUV,2024.0,42430.0,Petrol,Automatic,Second Owner,13.6,1531.0,181.8,5.0,Kolkata,Dealer,1163000.0
+CAR00247,Hyundai,Hatchback,2018.0,54174.0,Diesel,Manual,First Owner,18.8,1103.0,95.5,5.0,Bengaluru,Dealer,252000.0
+CAR00248,Honda,Sedan,2018.0,112956.0,Petrol,Manual,Third Owner,16.2,1999.0,72.7,5.0,Bengaluru,Dealer,383000.0
+CAR00249,Mahindra,MPV,2016.0,150696.0,Petrol,Automatic,Second Owner,17.8,,121.4,5.0,Pune,Dealer,612000.0
+CAR00250,Maruti,Hatchback,2021.0,77186.0,Diesel,Automatic,First Owner,20.3,849.0,68.1,5.0,Mumbai,Dealer,394000.0
+CAR00251,Hyundai,Hatchback,2022.0,42344.0,Diesel,Manual,Third Owner,22.6,832.0,95.0,5.0,Delhi,Dealer,376000.0
+CAR00252,Hyundai,Hatchback,2017.0,114435.0,Diesel,Manual,Second Owner,21.1,1290.0,75.7,5.0,Kolkata,Individual,168000.0
+CAR00253,Honda,MPV,2015.0,193838.0,LPG,Manual,First Owner,18.3,1499.0,82.2,5.0,Pune,Trustmark Dealer,295000.0
+CAR00254,Hyundai,Hatchback,2007.0,260000.0,Petrol,Automatic,Fourth & Above,17.2,878.0,79.9,5.0,Hyderabad,Dealer,65000.0
+CAR00255,Maruti,Hatchback,2023.0,29815.0,Diesel,Manual,Second Owner,17.3,844.0,64.9,5.0,Pune,Dealer,429000.0
+CAR00256,Hyundai,Sedan,2007.0,260000.0,CNG,Manual,First Owner,23.7,1991.0,99.6,5.0,Jaipur,Individual,65000.0
+CAR00257,Renault,Hatchback,2019.0,91814.0,Petrol,Manual,Second Owner,13.6,1076.0,92.1,4.0,Ahmedabad,Individual,202000.0
+CAR00258,Mahindra,Compact SUV,2018.0,140762.0,Petrol,Automatic,First Owner,17.1,1731.0,119.8,5.0,Mumbai,Dealer,616000.0
+CAR00259,Maruti,Sedan,2018.0,97739.0,Diesel,Manual,First Owner,18.3,1932.0,119.7,5.0,Jaipur,Individual,279000.0
+CAR00260,Tata,MPV,2019.0,99918.0,Petrol,Manual,Second Owner,,1736.0,170.8,,,Individual,475000.0
+CAR00261,Kia,SUV,2016.0,144164.0,Diesel,Manual,First Owner,19.8,2657.0,214.8,7.0,Mumbai,Individual,763000.0
+CAR00262,Kia,Sedan,2019.0,116590.0,Petrol,Manual,Second Owner,15.2,2154.0,135.5,5.0,Mumbai,Dealer,698000.0
+CAR00263,Honda,MPV,2015.0,101347.0,Diesel,Manual,First Owner,17.9,2358.0,,5.0,Delhi,Individual,380000.0
+CAR00264,Tata,Sedan,2022.0,66899.0,Petrol,Manual,Second Owner,15.2,1658.0,101.4,5.0,Delhi,Individual,547000.0
+CAR00265,Maruti,Hatchback,2021.0,81085.0,Diesel,Manual,First Owner,15.2,971.0,90.6,5.0,Pune,Individual,305000.0
+CAR00266,Toyota,Hatchback,2020.0,98789.0,Petrol,Manual,First Owner,19.0,1003.0,85.3,5.0,Mumbai,Individual,575000.0
+CAR00267,Renault,Hatchback,2016.0,177402.0,Petrol,Manual,First Owner,12.8,1085.0,64.5,7.0,Bengaluru,Individual,121000.0
+CAR00268,Skoda,Sedan,2019.0,45586.0,Petrol,Manual,First Owner,18.3,1216.0,117.1,4.0,Pune,Individual,725000.0
+CAR00269,Kia,MPV,2006.0,260000.0,Petrol,Manual,Second Owner,15.1,,100.3,7.0,Kolkata,Individual,133000.0
+CAR00270,Honda,Hatchback,2022.0,46438.0,Diesel,Manual,Second Owner,17.6,863.0,98.8,5.0,Pune,Dealer,635000.0
+CAR00271,Maruti,Hatchback,2019.0,78853.0,Petrol,Manual,First Owner,17.2,1295.0,71.4,5.0,Bengaluru,Dealer,251000.0
+CAR00272,BMW,SUV,2010.0,176818.0,Diesel,Automatic,Second Owner,21.6,2071.0,171.6,7.0,Bengaluru,Dealer,1195000.0
+CAR00273,Tata,Luxury,2020.0,138556.0,Petrol,Manual,Third Owner,11.7,3405.0,429.8,5.0,Nagpur,Individual,586000.0
+CAR00274,Mahindra,MPV,2017.0,182897.0,Petrol,Manual,First Owner,16.1,1677.0,156.2,5.0,Chennai,Individual,528000.0
+CAR00275,Toyota,Sedan,2017.0,137326.0,Petrol,Manual,First Owner,18.5,1854.0,102.1,5.0,Chennai,Dealer,563000.0
+CAR00276,Renault,Hatchback,2012.0,235264.0,Petrol,Manual,First Owner,15.4,,65.8,5.0,Ahmedabad,Individual,65000.0
+CAR00277,Hyundai,Sedan,2021.0,63825.0,Petrol,Manual,First Owner,15.7,1257.0,130.2,5.0,Hyderabad,Individual,544000.0
+CAR00278,Maruti,Hatchback,2012.0,56403.0,Diesel,Manual,Second Owner,16.8,885.0,57.7,5.0,Mumbai,Individual,114000.0
+CAR00279,,Compact SUV,2014.0,142355.0,Diesel,Manual,First Owner,19.1,1305.0,114.9,5.0,Pune,,233000.0
+CAR00280,Hyundai,Hatchback,2016.0,98873.0,Petrol,Manual,First Owner,17.0,883.0,90.8,5.0,Hyderabad,Dealer,210000.0
+CAR00281,Mercedes-Benz,Luxury,2020.0,107350.0,Diesel,Automatic,First Owner,16.7,2692.0,175.2,5.0,Delhi,Dealer,6313000.0
+CAR00282,Honda,Hatchback,2021.0,77530.0,Petrol,Manual,Second Owner,18.5,847.0,89.6,7.0,Bengaluru,Individual,391000.0
+CAR00283,Honda,Sedan,2013.0,224327.0,Petrol,Automatic,Fourth & Above,16.6,1490.0,153.3,5.0,Delhi,Individual,161000.0
+CAR00284,Hyundai,Compact SUV,2018.0,126239.0,Petrol,Manual,Third Owner,17.1,1709.0,155.9,5.0,Chennai,Individual,297000.0
+CAR00285,Hyundai,Hatchback,2015.0,161142.0,Petrol,Manual,First Owner,12.3,1008.0,65.5,5.0,Jaipur,Individual,141000.0
+CAR00286,Mahindra,Hatchback,2018.0,127816.0,Petrol,Manual,Second Owner,18.0,1272.0,61.3,5.0,Pune,Individual,321000.0
+CAR00287,Maruti,Hatchback,2009.0,217443.0,Diesel,Manual,Second Owner,19.6,1208.0,90.2,5.0,Delhi,Individual,65000.0
+CAR00288,Honda,Sedan,2013.0,178177.0,Petrol,Manual,Fourth & Above,14.9,1142.0,142.0,5.0,Ahmedabad,Dealer,149000.0
+CAR00289,Maruti,Hatchback,2022.0,71028.0,Diesel,Manual,Second Owner,16.4,1078.0,90.9,5.0,Jaipur,Individual,306000.0
+CAR00290,Hyundai,Hatchback,2021.0,46389.0,Diesel,Manual,Second Owner,20.0,1163.0,96.9,5.0,Delhi,Individual,356000.0
+CAR00291,Honda,Sedan,2021.0,73218.0,Diesel,Manual,Second Owner,20.7,1284.0,104.6,5.0,Ahmedabad,Individual,554000.0
+CAR00292,Maruti,Hatchback,2015.0,100255.0,Petrol,Manual,First Owner,14.8,1101.0,53.0,5.0,Delhi,Trustmark Dealer,149000.0
+CAR00293,Honda,Sedan,2021.0,89487.0,Diesel,Manual,First Owner,17.6,1925.0,105.6,5.0,Mumbai,Individual,683000.0
+CAR00294,Volkswagen,MPV,2014.0,183533.0,Petrol,Manual,First Owner,19.7,1423.0,92.5,7.0,Pune,Individual,344000.0
+CAR00295,Hyundai,Hatchback,2016.0,121287.0,Diesel,Automatic,First Owner,18.3,955.0,77.2,5.0,Hyderabad,Individual,227000.0
+CAR00296,Hyundai,Compact SUV,2012.0,,Petrol,Manual,Second Owner,15.6,1739.0,118.7,5.0,Pune,Individual,158000.0
+CAR00297,Ford,SUV,2014.0,202556.0,Petrol,Automatic,First Owner,11.5,2108.0,210.0,7.0,Nagpur,Dealer,323000.0
+CAR00298,Maruti,Hatchback,2021.0,75766.0,Petrol,Manual,First Owner,16.1,812.0,55.7,5.0,Nagpur,Dealer,249000.0
+CAR00299,Renault,,2022.0,67119.0,Diesel,Manual,First Owner,18.8,991.0,97.9,7.0,Pune,Individual,346000.0
+CAR00300,Maruti,Hatchback,2021.0,73384.0,Petrol,Manual,First Owner,15.8,1263.0,64.0,5.0,Mumbai,Individual,269000.0
+CAR00301,Hyundai,SUV,2020.0,32569.0,Petrol,Manual,First Owner,16.4,2307.0,115.5,5.0,Chennai,Dealer,862000.0
+CAR00302,Ford,Hatchback,2013.0,194383.0,Petrol,Manual,First Owner,12.1,1268.0,56.8,5.0,Kolkata,Dealer,108000.0
+CAR00303,Maruti,Hatchback,2024.0,2586.0,Petrol,Manual,First Owner,13.0,1095.0,,5.0,Pune,Dealer,486000.0
+CAR00304,Maruti,Hatchback,2010.0,156300.0,Diesel,Manual,Third Owner,23.4,1118.0,94.9,5.0,Mumbai,Individual,70000.0
+CAR00305,Mahindra,SUV,2019.0,132785.0,Diesel,Automatic,First Owner,23.1,1557.0,203.8,5.0,Hyderabad,Individual,952000.0
+CAR00306,Volkswagen,Hatchback,2013.0,201920.0,CNG,Automatic,First Owner,22.2,1069.0,81.1,5.0,Mumbai,Trustmark Dealer,195000.0
+CAR00307,Honda,Compact SUV,2005.0,260000.0,Electric,Manual,Second Owner,0.0,143.0,78.3,5.0,Pune,Dealer,71000.0
+CAR00308,Tata,Hatchback,2016.0,219298.0,Diesel,Automatic,First Owner,15.8,1070.0,49.7,5.0,Jaipur,Dealer,145000.0
+CAR00309,Mercedes-Benz,Luxury,2022.0,72821.0,Petrol,Manual,First Owner,,3239.0,260.2,5.0,Delhi,Dealer,7053000.0
+CAR00310,Toyota,Hatchback,2015.0,168323.0,Petrol,Manual,First Owner,15.9,1027.0,77.2,5.0,Jaipur,Individual,221000.0
+CAR00311,Tata,Hatchback,2009.0,260000.0,Diesel,Manual,Second Owner,21.4,882.0,60.1,6.0,Bengaluru,Individual,65000.0
+CAR00312,Mahindra,Compact SUV,2019.0,94364.0,Petrol,Manual,First Owner,16.3,1385.0,92.2,5.0,Chennai,Dealer,617000.0
+CAR00313,Honda,Sedan,2021.0,54758.0,Diesel,Manual,First Owner,22.0,1178.0,118.5,5.0,Pune,Dealer,745000.0
+CAR00314,Hyundai,Sedan,2019.0,85063.0,Petrol,Automatic,Second Owner,22.7,1673.0,92.5,5.0,Delhi,Individual,437000.0
+CAR00315,BMW,Luxury,2013.0,166121.0,Diesel,Automatic,First Owner,20.3,3741.0,427.3,5.0,Hyderabad,Individual,2251000.0
+CAR00316,Honda,Hatchback,2024.0,19016.0,Petrol,Manual,First Owner,16.8,1210.0,49.1,4.0,Delhi,Individual,651000.0
+CAR00317,Ford,Hatchback,2006.0,260000.0,CNG,Automatic,Second Owner,23.0,925.0,71.7,5.0,,Trustmark Dealer,65000.0
+CAR00318,Honda,Sedan,2012.0,220888.0,Diesel,Manual,First Owner,,1346.0,175.5,5.0,,Dealer,171000.0
+CAR00319,Maruti,SUV,2010.0,99991.0,Petrol,Automatic,Second Owner,14.4,1515.0,179.2,5.0,Nagpur,Individual,202000.0
+CAR00320,Honda,MPV,2005.0,181204.0,Petrol,Automatic,First Owner,14.7,1736.0,178.0,4.0,Mumbai,Dealer,169000.0
+CAR00321,Hyundai,Compact SUV,2022.0,47937.0,Diesel,Manual,Second Owner,19.5,1094.0,90.0,5.0,Chennai,Individual,614000.0
+CAR00322,Toyota,MPV,2014.0,141126.0,Diesel,Automatic,First Owner,19.7,2461.0,83.4,5.0,Pune,Individual,575000.0
+CAR00323,Honda,SUV,2020.0,86684.0,,Manual,First Owner,12.5,2425.0,228.2,5.0,Bengaluru,Individual,1177000.0
+CAR00324,Hyundai,Compact SUV,2013.0,168530.0,CNG,Manual,First Owner,,1100.0,106.3,5.0,Nagpur,Dealer,185000.0
+CAR00325,Honda,MPV,2020.0,69421.0,Diesel,Manual,First Owner,19.8,1935.0,107.6,5.0,Bengaluru,Individual,811000.0
+CAR00326,Maruti,Sedan,2014.0,219718.0,Petrol,Manual,First Owner,16.2,1974.0,148.3,5.0,Pune,Individual,174000.0
+CAR00327,Honda,Hatchback,2015.0,175979.0,Petrol,Automatic,Second Owner,19.6,944.0,69.0,5.0,Mumbai,Individual,185000.0
+CAR00328,Maruti,Hatchback,2014.0,141248.0,Petrol,Manual,First Owner,19.2,960.0,52.4,5.0,Delhi,Individual,125000.0
+CAR00329,Honda,Sedan,2018.0,90275.0,Petrol,Manual,First Owner,17.4,1194.0,103.7,5.0,Chennai,Trustmark Dealer,415000.0
+CAR00330,Hyundai,Compact SUV,2012.0,98132.0,Petrol,Manual,First Owner,14.4,1146.0,124.3,5.0,Jaipur,Dealer,204000.0
+CAR00331,Maruti,Hatchback,2014.0,173344.0,CNG,Manual,First Owner,23.6,1196.0,45.7,5.0,Pune,Individual,79000.0
+CAR00332,Toyota,SUV,2020.0,78444.0,Petrol,Manual,Second Owner,17.6,2467.0,123.2,7.0,Hyderabad,Individual,952000.0
+CAR00333,Renault,Hatchback,2017.0,113458.0,Diesel,Manual,First Owner,22.9,1237.0,89.8,7.0,Pune,Individual,223000.0
+CAR00334,Mahindra,SUV,2021.0,60078.0,Petrol,Automatic,Second Owner,14.6,1568.0,126.2,5.0,Pune,Dealer,1335000.0
+CAR00335,Renault,Sedan,2022.0,19253.0,Diesel,Manual,First Owner,18.4,1177.0,178.9,5.0,Kolkata,Individual,497000.0
+CAR00336,Maruti,Hatchback,2007.0,241129.0,Diesel,Manual,First Owner,18.6,1092.0,94.4,5.0,Delhi,Individual,65000.0
+CAR00337,Kia,SUV,2014.0,108327.0,Diesel,Automatic,Second Owner,20.7,2886.0,194.8,5.0,Mumbai,Individual,741000.0
+CAR00338,Hyundai,Hatchback,2020.0,22691.0,Petrol,Manual,Second Owner,,1255.0,45.4,5.0,Pune,Individual,318000.0
+CAR00339,Hyundai,SUV,2020.0,79943.0,CNG,Manual,First Owner,18.5,2690.0,167.5,5.0,Hyderabad,Dealer,665000.0
+CAR00340,Mercedes-Benz,Sedan,2017.0,66432.0,Petrol,Automatic,Third Owner,15.4,2168.0,155.6,5.0,Pune,Dealer,2572000.0
+CAR00341,BMW,SUV,2022.0,66671.0,Diesel,Automatic,First Owner,17.9,2190.0,140.3,7.0,Pune,Individual,6516000.0
+CAR00342,Mahindra,Luxury,2022.0,32591.0,Diesel,Automatic,Second Owner,19.2,1807.0,365.4,5.0,Nagpur,Individual,1682000.0
+CAR00343,Hyundai,Hatchback,2014.0,180015.0,Petrol,Manual,Second Owner,12.1,929.0,53.2,5.0,Jaipur,Dealer,105000.0
+CAR00344,Honda,Sedan,2008.0,184128.0,Diesel,Manual,First Owner,16.1,1206.0,146.0,5.0,Pune,Individual,107000.0
+CAR00345,Toyota,Sedan,2017.0,111244.0,Petrol,Manual,Fourth & Above,16.8,1470.0,174.9,5.0,Chennai,Individual,369000.0
+CAR00346,Ford,Hatchback,2015.0,60775.0,Diesel,Manual,Third Owner,17.8,976.0,82.2,5.0,Delhi,Dealer,163000.0
+CAR00347,Maruti,Compact SUV,2012.0,193923.0,Diesel,Automatic,First Owner,23.1,1441.0,126.0,5.0,Pune,Dealer,167000.0
+CAR00348,Tata,Hatchback,2016.0,69754.0,Petrol,Manual,First Owner,14.7,1092.0,57.3,5.0,Pune,Dealer,231000.0
+CAR00349,Hyundai,Sedan,2016.0,,Petrol,Manual,Second Owner,15.4,2070.0,103.2,5.0,Nagpur,Individual,196000.0
+CAR00350,Mahindra,MPV,2016.0,60844.0,Diesel,Manual,Fourth & Above,12.8,2096.0,80.1,5.0,Nagpur,Individual,456000.0
+CAR00351,Mahindra,SUV,2023.0,36296.0,Petrol,Automatic,First Owner,17.8,2056.0,206.7,5.0,Bengaluru,Dealer,1940000.0
+CAR00352,Volkswagen,Compact SUV,2020.0,86410.0,Electric,Manual,First Owner,0.0,171.0,130.7,5.0,Delhi,Dealer,764000.0
+CAR00353,Ford,Compact SUV,2020.0,60023.0,Petrol,Manual,First Owner,16.2,1298.0,118.7,5.0,Pune,Individual,371000.0
+CAR00354,Hyundai,Hatchback,2009.0,260000.0,Diesel,Automatic,Third Owner,20.8,957.0,54.2,6.0,Delhi,Individual,65000.0
+CAR00355,Honda,MPV,2022.0,46371.0,Diesel,Manual,First Owner,19.1,2051.0,165.7,5.0,Mumbai,Individual,1314000.0
+CAR00356,Kia,Compact SUV,2011.0,90253.0,Diesel,Manual,First Owner,18.8,1424.0,135.5,5.0,Jaipur,Individual,309000.0
+CAR00357,Kia,Hatchback,2016.0,126376.0,CNG,Manual,First Owner,28.5,1074.0,91.2,6.0,Bengaluru,Individual,324000.0
+CAR00358,Tata,Compact SUV,2021.0,52064.0,Diesel,Manual,First Owner,14.4,1743.0,89.4,5.0,Hyderabad,Individual,613000.0
+CAR00359,Toyota,SUV,2015.0,169434.0,Diesel,Manual,First Owner,16.7,1685.0,241.1,4.0,Delhi,Individual,694000.0
+CAR00360,Kia,SUV,2020.0,,Diesel,Automatic,First Owner,21.4,1934.0,143.3,7.0,Chennai,Individual,1509000.0
+CAR00361,Tata,Compact SUV,2013.0,137900.0,Petrol,Manual,First Owner,16.9,1156.0,133.2,5.0,Hyderabad,Individual,184000.0
+CAR00362,Tata,Hatchback,2021.0,72296.0,Diesel,Manual,Third Owner,15.0,1236.0,82.4,5.0,Chennai,Dealer,250000.0
+CAR00363,Tata,Compact SUV,2017.0,169415.0,Petrol,Manual,First Owner,12.0,1740.0,79.7,5.0,Chennai,Individual,249000.0
+CAR00364,Ford,Sedan,2013.0,124713.0,Petrol,Manual,First Owner,13.5,1104.0,128.9,7.0,Delhi,Individual,185000.0
+CAR00365,Hyundai,Compact SUV,2019.0,63632.0,Diesel,Automatic,First Owner,17.6,1504.0,139.0,5.0,Mumbai,Dealer,706000.0
+CAR00366,Toyota,SUV,2022.0,68582.0,Petrol,Automatic,First Owner,15.6,2732.0,251.8,5.0,Ahmedabad,Trustmark Dealer,1727000.0
+CAR00367,Renault,Sedan,2020.0,132280.0,Petrol,Manual,Fourth & Above,15.9,1147.0,163.4,5.0,Bengaluru,Individual,243000.0
+CAR00368,Skoda,SUV,2017.0,71725.0,Petrol,Manual,First Owner,16.8,1843.0,99.7,5.0,Pune,Dealer,778000.0
+CAR00369,Maruti,Compact SUV,2020.0,97785.0,Petrol,Manual,First Owner,17.1,1196.0,87.6,5.0,Bengaluru,Individual,423000.0
+CAR00370,Tata,Sedan,2013.0,51901.0,Petrol,Manual,First Owner,21.7,1297.0,155.0,5.0,Pune,Dealer,211000.0
+CAR00371,BMW,Hatchback,2020.0,94636.0,Petrol,Automatic,First Owner,17.0,1073.0,85.2,6.0,Hyderabad,Individual,1740000.0
+CAR00372,Honda,SUV,2016.0,,Petrol,Automatic,Second Owner,14.2,2993.0,122.4,7.0,Mumbai,Individual,819000.0
+CAR00373,Maruti,Hatchback,2022.0,78738.0,Petrol,Manual,First Owner,13.8,1106.0,47.6,5.0,Jaipur,Individual,296000.0
+CAR00374,Maruti,Sedan,2019.0,102300.0,Diesel,Manual,First Owner,19.7,1433.0,70.4,5.0,Mumbai,Dealer,282000.0
+CAR00375,Tata,Compact SUV,2018.0,94808.0,Petrol,Automatic,First Owner,15.0,1029.0,100.5,5.0,,Individual,317000.0
+CAR00376,,MPV,2015.0,196031.0,Diesel,Manual,First Owner,21.1,1801.0,159.9,5.0,Jaipur,Dealer,460000.0
+CAR00377,Maruti,Hatchback,2010.0,83179.0,Electric,Automatic,First Owner,0.0,137.0,115.3,5.0,Chennai,Individual,96000.0
+CAR00378,BMW,Luxury,2020.0,120578.0,Petrol,Automatic,First Owner,14.1,1904.0,365.4,5.0,Mumbai,Individual,4637000.0
+CAR00379,Mercedes-Benz,Luxury,2018.0,180144.0,Petrol,Automatic,First Owner,12.0,3113.0,440.4,5.0,Hyderabad,Dealer,3844000.0
+CAR00380,Mahindra,Compact SUV,2021.0,100472.0,Diesel,Automatic,First Owner,13.2,1675.0,132.0,5.0,Jaipur,Dealer,937000.0
+CAR00381,Tata,Sedan,2019.0,148025.0,Diesel,Automatic,First Owner,20.3,1414.0,98.6,5.0,Pune,Individual,402000.0
+CAR00382,Maruti,Sedan,2019.0,109899.0,Petrol,Automatic,First Owner,17.0,1318.0,163.2,5.0,Jaipur,Individual,375000.0
+CAR00383,Mahindra,Compact SUV,2020.0,66839.0,CNG,Manual,First Owner,25.7,1654.0,135.8,4.0,Hyderabad,Trustmark Dealer,897000.0
+CAR00384,Toyota,SUV,2017.0,83076.0,Petrol,Manual,Third Owner,13.1,1828.0,98.8,5.0,Delhi,Individual,580000.0
+CAR00385,Hyundai,Compact SUV,2022.0,,Petrol,Manual,First Owner,17.2,1120.0,102.7,5.0,Kolkata,,503000.0
+CAR00386,Mercedes-Benz,Luxury,2019.0,111604.0,Diesel,Automatic,First Owner,18.0,2282.0,315.2,5.0,Bengaluru,Dealer,5009000.0
+CAR00387,Hyundai,Hatchback,2011.0,260000.0,Electric,Manual,First Owner,0.0,80.0,101.2,4.0,Delhi,Dealer,76000.0
+CAR00388,Hyundai,MPV,2020.0,74977.0,Diesel,Manual,First Owner,22.0,1740.0,98.1,5.0,Pune,Individual,643000.0
+CAR00389,Maruti,Hatchback,2013.0,162645.0,Petrol,Manual,Second Owner,,1108.0,71.6,5.0,Mumbai,Individual,83000.0
+CAR00390,Toyota,Sedan,2015.0,168878.0,Diesel,Manual,First Owner,19.1,1418.0,,5.0,Chennai,Dealer,432000.0
+CAR00391,Tata,Hatchback,2024.0,25308.0,Diesel,Manual,First Owner,17.8,1135.0,84.3,5.0,Ahmedabad,Individual,566000.0
+CAR00392,Honda,Hatchback,2013.0,204110.0,Diesel,Manual,First Owner,14.6,1232.0,62.5,5.0,Hyderabad,Individual,132000.0
+CAR00393,Mahindra,Compact SUV,2020.0,116765.0,Diesel,Manual,First Owner,20.7,1080.0,101.2,5.0,Pune,Dealer,692000.0
+CAR00394,Tata,SUV,2012.0,187759.0,Diesel,Manual,First Owner,18.2,2503.0,127.3,5.0,Pune,Dealer,256000.0
+CAR00395,Maruti,Hatchback,2011.0,214041.0,Diesel,Manual,First Owner,22.3,883.0,97.6,5.0,Mumbai,Individual,74000.0
+CAR00396,Ford,Hatchback,2020.0,102510.0,Petrol,Manual,First Owner,17.7,1112.0,97.1,5.0,Bengaluru,Dealer,301000.0
+CAR00397,Volkswagen,Sedan,2018.0,9848.0,Petrol,Manual,First Owner,16.1,1161.0,168.5,5.0,Mumbai,Individual,774000.0
+CAR00398,Maruti,Compact SUV,2021.0,67396.0,Petrol,Manual,First Owner,15.3,1230.0,88.6,6.0,Bengaluru,Dealer,517000.0
+CAR00399,Ford,Hatchback,2014.0,133184.0,Diesel,Automatic,First Owner,18.6,1086.0,84.6,5.0,Nagpur,Dealer,165000.0
+CAR00400,Volkswagen,MPV,2020.0,69533.0,Petrol,Manual,Second Owner,13.3,2299.0,86.1,7.0,Pune,Dealer,671000.0
+CAR00401,Mahindra,MPV,2016.0,196666.0,Petrol,Manual,Second Owner,13.9,2486.0,158.8,7.0,Ahmedabad,Individual,462000.0
+CAR00402,Skoda,MPV,2021.0,111183.0,Diesel,Manual,First Owner,15.9,1728.0,,5.0,Kolkata,Individual,1106000.0
+CAR00403,Honda,Hatchback,2018.0,133573.0,Petrol,Automatic,First Owner,14.5,1239.0,85.7,5.0,Nagpur,Individual,232000.0
+CAR00404,Honda,Hatchback,2016.0,166890.0,Petrol,Manual,First Owner,16.7,1182.0,59.3,5.0,Kolkata,,175000.0
+CAR00405,Renault,SUV,2017.0,126781.0,LPG,Manual,First Owner,16.9,2799.0,147.5,5.0,Kolkata,,385000.0
+CAR00406,Skoda,Hatchback,2011.0,105987.0,Petrol,Automatic,First Owner,14.4,988.0,48.9,4.0,Chennai,Dealer,162000.0
+CAR00407,Kia,SUV,2019.0,39494.0,Diesel,Automatic,First Owner,19.0,2387.0,126.4,5.0,Pune,Dealer,1583000.0
+CAR00408,Maruti,Hatchback,2015.0,121568.0,Diesel,Manual,Second Owner,22.2,965.0,96.9,5.0,Pune,Individual,136000.0
+CAR00409,Maruti,Hatchback,2019.0,77404.0,Petrol,Manual,First Owner,15.6,1083.0,85.6,5.0,Pune,Trustmark Dealer,231000.0
+CAR00410,Maruti,MPV,2009.0,87399.0,Diesel,Manual,First Owner,20.1,1678.0,116.1,5.0,Pune,Trustmark Dealer,161000.0
+CAR00411,Renault,Hatchback,2019.0,86721.0,Petrol,Manual,First Owner,13.6,959.0,58.2,5.0,Bengaluru,Individual,232000.0
+CAR00412,Mahindra,SUV,2016.0,182270.0,Diesel,Automatic,Second Owner,21.2,1597.0,168.2,5.0,Pune,Individual,593000.0
+CAR00413,Maruti,Compact SUV,2020.0,50423.0,Petrol,Manual,Second Owner,13.4,1196.0,,5.0,Pune,Individual,391000.0
+CAR00414,Tata,MPV,2019.0,111456.0,Diesel,Manual,Second Owner,19.5,1575.0,90.8,5.0,Mumbai,Dealer,465000.0
+CAR00415,Mahindra,Hatchback,2021.0,56907.0,Petrol,Manual,Second Owner,18.0,853.0,53.8,5.0,Bengaluru,Individual,457000.0
+CAR00416,Honda,Compact SUV,2022.0,50143.0,Petrol,Automatic,Second Owner,14.6,1544.0,85.6,5.0,Mumbai,Dealer,870000.0
+CAR00417,Hyundai,SUV,2015.0,199510.0,Petrol,Automatic,First Owner,15.0,2982.0,208.1,5.0,Delhi,Dealer,306000.0
+CAR00418,Ford,Sedan,2018.0,83585.0,Petrol,Manual,First Owner,17.8,1149.0,126.9,5.0,Nagpur,Individual,298000.0
+CAR00419,,Sedan,2014.0,118351.0,Diesel,Automatic,First Owner,23.7,2054.0,164.5,5.0,Bengaluru,Individual,315000.0
+CAR00420,Honda,Hatchback,2020.0,98555.0,Petrol,Manual,Second Owner,17.8,960.0,65.9,5.0,Chennai,Dealer,295000.0
+CAR00421,Mahindra,Hatchback,2024.0,29708.0,Petrol,Automatic,First Owner,12.8,1199.0,67.2,7.0,Kolkata,Individual,823000.0
+CAR00422,Skoda,Sedan,2017.0,132976.0,Petrol,Manual,Second Owner,13.0,1553.0,171.1,5.0,Ahmedabad,Individual,375000.0
+CAR00423,Toyota,Sedan,2015.0,110484.0,Diesel,Automatic,Second Owner,22.0,1266.0,129.2,5.0,Mumbai,Individual,463000.0
+CAR00424,Kia,SUV,2022.0,63400.0,Petrol,Automatic,First Owner,15.8,2335.0,185.8,5.0,Nagpur,Dealer,1740000.0
+CAR00425,Maruti,Hatchback,2017.0,132021.0,Petrol,Manual,First Owner,15.8,1251.0,88.8,5.0,Mumbai,Trustmark Dealer,194000.0
+CAR00426,Maruti,Hatchback,2011.0,141814.0,Diesel,Automatic,First Owner,17.1,1249.0,76.1,5.0,Chennai,Individual,90000.0
+CAR00427,Tata,Sedan,2019.0,45158.0,Diesel,Automatic,First Owner,19.6,1871.0,129.6,5.0,Ahmedabad,Individual,530000.0
+CAR00428,Mahindra,Compact SUV,2006.0,260000.0,Diesel,Manual,First Owner,16.8,1105.0,95.0,5.0,Chennai,Trustmark Dealer,134000.0
+CAR00429,Hyundai,Sedan,2012.0,114354.0,Petrol,Manual,First Owner,17.1,1525.0,179.5,5.0,Ahmedabad,Individual,197000.0
+CAR00430,Maruti,Hatchback,2018.0,122368.0,Petrol,Automatic,First Owner,13.9,1077.0,49.9,5.0,Pune,Individual,214000.0
+CAR00431,Skoda,SUV,2012.0,216531.0,Diesel,Automatic,Second Owner,20.4,1748.0,129.8,5.0,Kolkata,Dealer,402000.0
+CAR00432,Renault,Hatchback,2012.0,163406.0,LPG,Manual,First Owner,21.9,1094.0,65.0,5.0,Mumbai,Individual,84000.0
+CAR00433,Kia,SUV,2018.0,80512.0,Petrol,Automatic,First Owner,19.9,1808.0,182.7,7.0,Chennai,Individual,1064000.0
+CAR00434,Maruti,Hatchback,2015.0,67216.0,Petrol,Manual,First Owner,17.3,1239.0,74.6,5.0,Nagpur,Dealer,155000.0
+CAR00435,Maruti,Hatchback,2016.0,112388.0,CNG,Manual,Second Owner,22.8,917.0,49.0,5.0,Chennai,Dealer,130000.0
+CAR00436,Skoda,Hatchback,2017.0,96651.0,Petrol,Automatic,First Owner,13.7,1058.0,88.0,5.0,Jaipur,Individual,432000.0
+CAR00437,Maruti,Compact SUV,2020.0,40675.0,Petrol,Automatic,Third Owner,16.9,1160.0,134.5,5.0,Mumbai,Individual,491000.0
+CAR00438,Maruti,MPV,2012.0,195027.0,Petrol,Manual,Second Owner,19.4,1571.0,172.6,5.0,Bengaluru,Individual,156000.0
+CAR00439,Ford,Hatchback,2017.0,194539.0,Petrol,Manual,Second Owner,15.9,1045.0,50.8,5.0,Delhi,Individual,161000.0
+CAR00440,Maruti,SUV,2011.0,257043.0,Diesel,Manual,Second Owner,20.8,2135.0,162.4,5.0,Delhi,Individual,144000.0
+CAR00441,Maruti,Hatchback,2007.0,153349.0,Petrol,Automatic,First Owner,18.4,1251.0,87.0,4.0,Delhi,Dealer,65000.0
+CAR00442,Hyundai,Hatchback,2015.0,182909.0,Petrol,Manual,Second Owner,12.7,1133.0,49.4,4.0,Delhi,Dealer,132000.0
+CAR00443,Kia,Sedan,2008.0,221577.0,Petrol,Manual,Fourth & Above,16.9,1538.0,152.3,5.0,Delhi,Individual,118000.0
+CAR00444,Kia,Compact SUV,2023.0,54462.0,Petrol,Manual,Third Owner,17.3,1237.0,98.4,4.0,Hyderabad,Trustmark Dealer,1105000.0
+CAR00445,Maruti,Compact SUV,2015.0,46216.0,Diesel,Automatic,First Owner,19.6,1225.0,117.9,5.0,Ahmedabad,Individual,241000.0
+CAR00446,Hyundai,Sedan,2012.0,165617.0,LPG,Manual,Second Owner,15.5,1963.0,79.0,5.0,Bengaluru,Individual,144000.0
+CAR00447,Maruti,Compact SUV,2023.0,49258.0,Petrol,Manual,First Owner,14.0,1042.0,75.5,5.0,Nagpur,Trustmark Dealer,563000.0
+CAR00448,Hyundai,Hatchback,2019.0,107213.0,Petrol,Manual,Second Owner,17.8,1080.0,,5.0,Pune,Dealer,261000.0
+CAR00449,Toyota,Sedan,2020.0,84531.0,Petrol,Manual,First Owner,16.2,1603.0,98.1,7.0,Jaipur,Dealer,787000.0
+CAR00450,Mahindra,Hatchback,2008.0,215982.0,Petrol,Manual,Third Owner,17.9,999.0,73.4,5.0,Bengaluru,Trustmark Dealer,86000.0
+CAR00451,Volkswagen,Compact SUV,2017.0,33608.0,Diesel,Manual,First Owner,18.6,1116.0,98.7,5.0,Kolkata,Dealer,663000.0
+CAR00452,Tata,SUV,2018.0,118950.0,Diesel,Manual,First Owner,21.3,1733.0,94.2,5.0,Mumbai,Individual,541000.0
+CAR00453,Hyundai,SUV,2017.0,155008.0,Diesel,Manual,First Owner,19.9,2242.0,167.6,5.0,Bengaluru,Individual,483000.0
+CAR00454,Honda,MPV,2020.0,96700.0,Diesel,Automatic,First Owner,13.6,1446.0,164.3,7.0,Delhi,Individual,812000.0
+CAR00455,Hyundai,Compact SUV,2014.0,153070.0,Petrol,Automatic,First Owner,14.5,1043.0,144.6,5.0,Pune,Dealer,204000.0
+CAR00456,Maruti,Hatchback,2015.0,145848.0,Petrol,Automatic,First Owner,12.4,1114.0,50.3,5.0,Hyderabad,Trustmark Dealer,111000.0
+CAR00457,Hyundai,Sedan,2016.0,116406.0,Petrol,Manual,First Owner,16.4,2140.0,88.2,5.0,Mumbai,Dealer,333000.0
+CAR00458,Mahindra,SUV,2006.0,211511.0,Diesel,Automatic,First Owner,20.9,1679.0,182.8,7.0,Nagpur,Trustmark Dealer,234000.0
+CAR00459,Maruti,Hatchback,2011.0,160222.0,Petrol,Manual,Second Owner,14.7,999.0,95.7,5.0,Nagpur,Individual,76000.0
+CAR00460,Honda,Hatchback,2015.0,206025.0,Petrol,Manual,First Owner,15.1,1045.0,47.5,5.0,Hyderabad,Dealer,160000.0
+CAR00461,Kia,MPV,2014.0,159062.0,Petrol,Manual,First Owner,21.0,1785.0,91.4,7.0,Chennai,Individual,438000.0
+CAR00462,Maruti,Compact SUV,2016.0,99890.0,Petrol,Automatic,First Owner,15.9,,145.9,5.0,Bengaluru,Dealer,323000.0
+CAR00463,Honda,Hatchback,2015.0,182752.0,Petrol,Manual,Second Owner,13.0,1112.0,93.3,5.0,Mumbai,Dealer,191000.0
+CAR00464,Maruti,Compact SUV,2017.0,121299.0,Petrol,Manual,Second Owner,15.1,1756.0,134.6,5.0,Hyderabad,Dealer,260000.0
+CAR00465,Tata,Hatchback,2012.0,180695.0,Diesel,Manual,Second Owner,14.8,1185.0,91.2,5.0,Hyderabad,Dealer,115000.0
+CAR00466,Maruti,Hatchback,2016.0,50118.0,Petrol,Manual,Third Owner,15.1,1023.0,45.5,5.0,Mumbai,Trustmark Dealer,167000.0
+CAR00467,Volkswagen,Sedan,2017.0,116763.0,Diesel,Manual,First Owner,18.6,1591.0,149.6,5.0,,Dealer,609000.0
+CAR00468,BMW,Luxury,2024.0,34734.0,Diesel,Automatic,First Owner,21.6,3364.0,296.3,5.0,Pune,Individual,10735000.0
+CAR00469,Audi,MPV,2021.0,108571.0,Petrol,Manual,Fourth & Above,,2488.0,,7.0,Bengaluru,Dealer,2635000.0
+CAR00470,Hyundai,MPV,2023.0,61182.0,Diesel,Manual,First Owner,18.5,2151.0,142.7,5.0,Kolkata,Individual,1013000.0
+CAR00471,Honda,Hatchback,2019.0,75338.0,Petrol,Automatic,First Owner,15.9,823.0,46.7,5.0,Pune,Individual,282000.0
+CAR00472,Mercedes-Benz,SUV,2017.0,29900.0,Diesel,Automatic,First Owner,17.9,1753.0,96.6,5.0,Hyderabad,Dealer,4373000.0
+CAR00473,Toyota,MPV,2006.0,260000.0,Petrol,Manual,First Owner,,2081.0,167.2,5.0,Mumbai,Dealer,164000.0
+CAR00474,Honda,Compact SUV,2020.0,75265.0,Diesel,Automatic,First Owner,21.9,1350.0,88.0,5.0,Hyderabad,Dealer,796000.0
+CAR00475,Renault,Hatchback,2014.0,248766.0,Petrol,Automatic,First Owner,14.8,1242.0,48.1,5.0,Jaipur,Dealer,75000.0
+CAR00476,BMW,SUV,2020.0,94673.0,Petrol,Manual,First Owner,16.7,2402.0,117.7,5.0,Jaipur,Trustmark Dealer,3866000.0
+CAR00477,Hyundai,Hatchback,2021.0,72326.0,Diesel,Automatic,First Owner,19.4,914.0,83.6,7.0,Pune,Individual,436000.0
+CAR00478,Hyundai,Hatchback,2019.0,96301.0,Petrol,Manual,Second Owner,12.3,1101.0,57.2,4.0,Mumbai,Individual,280000.0
+CAR00479,Honda,Compact SUV,2017.0,79468.0,Petrol,Manual,Second Owner,15.3,1660.0,142.8,5.0,Kolkata,Individual,504000.0
+CAR00480,Renault,Hatchback,2019.0,100502.0,Petrol,Manual,First Owner,20.5,953.0,86.7,5.0,Bengaluru,Dealer,243000.0
+CAR00481,Renault,Hatchback,2007.0,180011.0,CNG,Manual,First Owner,21.3,880.0,58.1,5.0,Jaipur,Trustmark Dealer,65000.0
+CAR00482,Tata,Compact SUV,2017.0,106697.0,Diesel,Manual,First Owner,19.8,1285.0,100.8,5.0,Mumbai,Individual,430000.0
+CAR00483,Maruti,Compact SUV,2022.0,72776.0,Petrol,Automatic,First Owner,15.1,1647.0,112.9,5.0,Mumbai,Individual,571000.0
+CAR00484,Renault,SUV,2014.0,186368.0,Petrol,Automatic,First Owner,13.4,1686.0,190.2,5.0,Pune,Individual,257000.0
+CAR00485,Hyundai,Hatchback,2019.0,63019.0,CNG,Automatic,Third Owner,22.0,909.0,71.2,5.0,Delhi,Dealer,235000.0
+CAR00486,Maruti,Compact SUV,2017.0,87174.0,Diesel,Manual,First Owner,17.1,1496.0,154.1,5.0,Mumbai,Individual,302000.0
+CAR00487,Kia,SUV,2022.0,43054.0,Petrol,Manual,First Owner,17.3,2394.0,154.3,7.0,Delhi,Dealer,1793000.0
+CAR00488,Maruti,Sedan,2020.0,55024.0,Diesel,Manual,First Owner,19.9,1925.0,126.3,5.0,Delhi,Individual,468000.0
+CAR00489,Kia,SUV,2016.0,121628.0,LPG,Manual,First Owner,16.7,2448.0,171.3,5.0,Hyderabad,Individual,741000.0
+CAR00490,Renault,Sedan,2017.0,114110.0,Diesel,Automatic,First Owner,21.2,1387.0,120.9,5.0,Delhi,Dealer,370000.0
+CAR00491,Tata,Hatchback,2006.0,260000.0,Diesel,Manual,First Owner,17.4,1001.0,77.9,5.0,Jaipur,Dealer,65000.0
+CAR00492,Skoda,Sedan,2018.0,153114.0,Diesel,Automatic,Second Owner,,1930.0,141.5,6.0,Pune,Dealer,610000.0
+CAR00493,Maruti,,2021.0,50700.0,Petrol,Manual,First Owner,20.3,910.0,61.1,5.0,Bengaluru,Individual,280000.0
+CAR00494,Hyundai,MPV,2021.0,72115.0,Petrol,Manual,First Owner,17.5,2444.0,113.3,7.0,Chennai,Dealer,774000.0
+CAR00495,Toyota,Hatchback,,127463.0,Petrol,Manual,First Owner,10.2,1291.0,81.8,5.0,Hyderabad,Individual,428000.0
+CAR00496,Hyundai,Hatchback,2020.0,60916.0,Petrol,Automatic,First Owner,15.1,1180.0,65.2,5.0,Delhi,Dealer,402000.0
+CAR00497,Maruti,Compact SUV,2012.0,139261.0,Petrol,Manual,First Owner,16.6,1699.0,136.3,5.0,Bengaluru,Dealer,157000.0
+CAR00498,Mercedes-Benz,SUV,2022.0,29257.0,Petrol,Automatic,First Owner,19.7,2154.0,90.2,4.0,Jaipur,Individual,6920000.0
+CAR00499,Mahindra,SUV,2022.0,43160.0,Petrol,Manual,First Owner,18.8,1759.0,165.6,7.0,Hyderabad,Trustmark Dealer,1933000.0
+CAR00500,Renault,Sedan,2023.0,35130.0,Diesel,Manual,First Owner,19.1,2050.0,98.4,5.0,Delhi,Dealer,788000.0
+CAR00501,Honda,Sedan,2022.0,55461.0,Petrol,Manual,Second Owner,17.3,1355.0,86.5,5.0,Jaipur,Individual,563000.0
+CAR00502,Hyundai,Sedan,2013.0,97406.0,Petrol,Automatic,First Owner,11.4,1227.0,102.6,5.0,Ahmedabad,Dealer,257000.0
+CAR00503,Renault,Compact SUV,2012.0,232622.0,Petrol,Manual,Third Owner,,1565.0,73.1,5.0,Nagpur,Trustmark Dealer,93000.0
+CAR00504,Hyundai,Compact SUV,2014.0,112208.0,Petrol,Manual,First Owner,21.4,1262.0,106.3,7.0,Hyderabad,Individual,207000.0
+CAR00505,Hyundai,Hatchback,2014.0,104815.0,Petrol,Automatic,First Owner,13.3,911.0,58.7,5.0,Hyderabad,Individual,165000.0
+CAR00506,Hyundai,Hatchback,2009.0,129082.0,Petrol,Manual,Second Owner,17.8,978.0,67.2,,Mumbai,Dealer,79000.0
+CAR00507,Skoda,Compact SUV,2013.0,161123.0,Petrol,Manual,First Owner,16.1,1601.0,115.7,5.0,Hyderabad,Individual,261000.0
+CAR00508,Maruti,MPV,2011.0,125927.0,Petrol,Manual,Second Owner,18.7,1689.0,166.5,5.0,Bengaluru,Dealer,182000.0
+CAR00509,Kia,Compact SUV,2022.0,97521.0,Electric,Manual,First Owner,,55.0,,5.0,Nagpur,Individual,859000.0
+CAR00510,Hyundai,SUV,2016.0,104766.0,Diesel,Manual,First Owner,18.4,2666.0,153.4,5.0,Nagpur,Individual,443000.0
+CAR00511,Ford,MPV,2011.0,129981.0,LPG,Manual,First Owner,21.5,1911.0,90.7,5.0,Pune,Individual,189000.0
+CAR00512,Hyundai,Hatchback,2017.0,115264.0,Petrol,Manual,First Owner,15.8,990.0,67.9,5.0,Delhi,Individual,224000.0
+CAR00513,Honda,Sedan,2012.0,159600.0,CNG,Manual,First Owner,25.2,1969.0,148.9,5.0,Mumbai,Dealer,235000.0
+CAR00514,Mercedes-Benz,SUV,2013.0,100246.0,Petrol,Automatic,Second Owner,17.8,1988.0,249.1,5.0,Bengaluru,Individual,
+CAR00515,Hyundai,Hatchback,,106783.0,Diesel,Manual,Third Owner,19.0,884.0,67.0,5.0,Jaipur,Individual,152000.0
+CAR00516,BMW,Luxury,2016.0,134486.0,Diesel,Manual,Second Owner,18.4,3660.0,181.9,5.0,Jaipur,Dealer,2740000.0
+CAR00517,Hyundai,Hatchback,2018.0,60588.0,,Manual,First Owner,21.1,1054.0,87.4,5.0,Chennai,Dealer,233000.0
+CAR00518,Toyota,Luxury,2015.0,87636.0,Petrol,Manual,Second Owner,17.6,2822.0,206.6,5.0,Ahmedabad,Individual,699000.0
+CAR00519,Volkswagen,Hatchback,2016.0,165744.0,Electric,Manual,First Owner,3.0,83.0,81.8,7.0,Chennai,Individual,245000.0
+CAR00520,Tata,Compact SUV,2020.0,70125.0,Petrol,Automatic,First Owner,14.5,1066.0,91.0,5.0,Chennai,Individual,479000.0
+CAR00521,Hyundai,Compact SUV,2014.0,133102.0,Petrol,Manual,First Owner,18.4,1773.0,156.5,5.0,Delhi,Individual,253000.0
+CAR00522,Mahindra,MPV,2020.0,63016.0,Diesel,Manual,First Owner,19.7,2284.0,114.1,5.0,Delhi,Dealer,1073000.0
+CAR00523,Volkswagen,Sedan,2016.0,142751.0,LPG,Automatic,First Owner,17.5,2152.0,90.5,5.0,Delhi,Individual,383000.0
+CAR00524,Volkswagen,Sedan,2021.0,91915.0,Petrol,Manual,Second Owner,15.7,1895.0,142.9,5.0,Jaipur,Individual,727000.0
+CAR00525,Maruti,Hatchback,2021.0,53940.0,Petrol,Manual,First Owner,17.8,1223.0,58.6,5.0,Bengaluru,Individual,259000.0
+CAR00526,Kia,Hatchback,2013.0,214659.0,,Manual,First Owner,22.0,1063.0,80.2,5.0,Ahmedabad,Individual,182000.0
+CAR00527,Hyundai,Hatchback,2014.0,123613.0,Petrol,Manual,Second Owner,18.3,1203.0,80.5,5.0,Delhi,Dealer,147000.0
+CAR00528,,Sedan,2021.0,104092.0,Diesel,Manual,First Owner,12.5,1618.0,99.1,5.0,Hyderabad,Dealer,769000.0
+CAR00529,Maruti,Compact SUV,2020.0,112628.0,Petrol,Manual,Second Owner,12.8,1504.0,130.6,5.0,Kolkata,Individual,349000.0
+CAR00530,Toyota,Sedan,2022.0,56420.0,Petrol,Manual,First Owner,15.5,1463.0,155.4,5.0,Delhi,Individual,1001000.0
+CAR00531,Maruti,Hatchback,2023.0,67052.0,Petrol,Manual,Fourth & Above,19.0,1075.0,,5.0,Mumbai,Dealer,238000.0
+CAR00532,Mercedes-Benz,Luxury,2015.0,145011.0,Petrol,Automatic,First Owner,17.4,3169.0,281.9,5.0,Hyderabad,Individual,2685000.0
+CAR00533,Kia,SUV,2008.0,260000.0,Diesel,Automatic,Third Owner,17.5,1996.0,252.4,5.0,Bengaluru,Individual,198000.0
+CAR00534,Renault,Compact SUV,2021.0,73483.0,Diesel,Manual,First Owner,17.3,1730.0,126.3,5.0,Nagpur,Individual,480000.0
+CAR00535,Honda,Sedan,2014.0,223604.0,Diesel,Manual,First Owner,14.6,1169.0,162.7,5.0,Hyderabad,Dealer,216000.0
+CAR00536,Honda,SUV,2017.0,147165.0,Petrol,Automatic,Second Owner,17.3,1735.0,113.7,5.0,Bengaluru,Dealer,602000.0
+CAR00537,Mahindra,SUV,2022.0,75431.0,Petrol,Manual,First Owner,,2730.0,221.7,5.0,Mumbai,Individual,1550000.0
+CAR00538,Kia,Sedan,2018.0,72139.0,Petrol,Manual,First Owner,13.5,1378.0,132.4,5.0,Mumbai,Dealer,855000.0
+CAR00539,Maruti,Sedan,2020.0,31256.0,Diesel,Manual,First Owner,18.5,1140.0,126.9,5.0,Nagpur,Individual,425000.0
+CAR00540,Volkswagen,Compact SUV,2016.0,93709.0,Petrol,Automatic,First Owner,15.8,1051.0,151.2,5.0,Nagpur,Individual,474000.0
+CAR00541,BMW,SUV,2017.0,160072.0,Petrol,Automatic,First Owner,18.4,2414.0,218.8,5.0,Hyderabad,Individual,3005000.0
+CAR00542,Mercedes-Benz,MPV,2014.0,137436.0,Petrol,Automatic,Second Owner,14.1,1493.0,122.8,5.0,Hyderabad,Individual,1632000.0
+CAR00543,Kia,Compact SUV,2019.0,126123.0,Petrol,Manual,First Owner,17.1,1609.0,130.7,5.0,Ahmedabad,Individual,760000.0
+CAR00544,Mahindra,Hatchback,2021.0,60851.0,Diesel,Automatic,Second Owner,,1062.0,73.9,5.0,Pune,Trustmark Dealer,451000.0
+CAR00545,Volkswagen,Hatchback,2011.0,130407.0,Electric,Manual,First Owner,0.0,58.0,82.1,5.0,Mumbai,Individual,147000.0
+CAR00546,BMW,Luxury,2014.0,256503.0,Electric,Manual,Fourth & Above,0.2,103.0,200.4,5.0,Hyderabad,Trustmark Dealer,827000.0
+CAR00547,Tata,SUV,2019.0,133157.0,Petrol,Manual,Second Owner,11.1,2482.0,99.9,5.0,Chennai,Individual,568000.0
+CAR00548,Maruti,Hatchback,2011.0,,Diesel,Manual,First Owner,21.4,1219.0,58.0,5.0,Hyderabad,Individual,68000.0
+CAR00549,Tata,MPV,2005.0,250130.0,Diesel,Manual,First Owner,22.7,2345.0,126.8,7.0,Delhi,Trustmark Dealer,118000.0
+CAR00550,Maruti,Hatchback,2017.0,95632.0,Diesel,Automatic,First Owner,20.6,1041.0,84.2,6.0,Ahmedabad,Trustmark Dealer,192000.0
+CAR00551,Hyundai,Hatchback,2020.0,99718.0,Petrol,Manual,First Owner,14.5,802.0,66.9,5.0,Pune,Individual,323000.0
+CAR00552,Maruti,Hatchback,2007.0,161015.0,Petrol,Manual,First Owner,14.5,992.0,76.6,5.0,Hyderabad,Individual,65000.0
+CAR00553,Honda,Luxury,2020.0,132979.0,Petrol,Manual,First Owner,13.3,3743.0,422.6,5.0,Mumbai,Trustmark Dealer,1266000.0
+CAR00554,Renault,Hatchback,2011.0,260000.0,Petrol,Manual,First Owner,19.3,927.0,71.3,5.0,Hyderabad,Trustmark Dealer,73000.0
+CAR00555,Maruti,Compact SUV,2018.0,135818.0,Diesel,Manual,First Owner,21.1,1045.0,119.4,5.0,Jaipur,Individual,279000.0
+CAR00556,Toyota,Compact SUV,2021.0,50987.0,Petrol,Manual,Second Owner,20.4,1768.0,110.0,5.0,Jaipur,Trustmark Dealer,1097000.0
+CAR00557,Skoda,Sedan,2016.0,235003.0,Diesel,Manual,First Owner,17.9,1590.0,97.5,5.0,Chennai,Dealer,327000.0
+CAR00558,Honda,MPV,2013.0,184922.0,Petrol,Manual,Second Owner,18.3,1838.0,93.9,5.0,Delhi,Individual,220000.0
+CAR00559,Maruti,Sedan,2020.0,,Petrol,Manual,First Owner,16.3,1135.0,129.7,5.0,Pune,Dealer,324000.0
+CAR00560,Mahindra,Hatchback,2014.0,137979.0,CNG,Automatic,First Owner,21.3,1178.0,97.2,5.0,Pune,Trustmark Dealer,236000.0
+CAR00561,Ford,MPV,2017.0,181098.0,LPG,Automatic,First Owner,17.7,2297.0,165.2,6.0,Delhi,Individual,304000.0
+CAR00562,Honda,Sedan,2020.0,109112.0,CNG,Automatic,First Owner,27.3,1381.0,121.1,5.0,Bengaluru,Individual,516000.0
+CAR00563,Tata,SUV,2019.0,93865.0,Diesel,Automatic,Second Owner,18.9,2338.0,168.1,5.0,Mumbai,Individual,415000.0
+CAR00564,Maruti,Hatchback,2021.0,76429.0,Petrol,Manual,First Owner,16.6,1058.0,46.7,5.0,Jaipur,Individual,253000.0
+CAR00565,Honda,Sedan,2023.0,28641.0,Petrol,Manual,Third Owner,19.2,1795.0,111.1,4.0,Pune,Individual,798000.0
+CAR00566,Hyundai,Hatchback,2006.0,260000.0,Petrol,Automatic,Third Owner,13.1,941.0,70.6,5.0,Pune,Trustmark Dealer,65000.0
+CAR00567,Renault,Compact SUV,2020.0,87587.0,Petrol,Manual,First Owner,11.4,1793.0,157.8,4.0,Kolkata,Dealer,522000.0
+CAR00568,Hyundai,Hatchback,2008.0,260000.0,Diesel,Automatic,First Owner,,1291.0,71.3,5.0,Delhi,Individual,65000.0
+CAR00569,Toyota,SUV,2017.0,31657.0,Diesel,Automatic,Second Owner,21.4,,,5.0,Pune,Individual,908000.0
+CAR00570,Mahindra,SUV,2017.0,99478.0,Petrol,Automatic,First Owner,15.9,1946.0,118.5,4.0,Hyderabad,Dealer,875000.0
+CAR00571,Hyundai,Sedan,2020.0,28107.0,Diesel,Manual,First Owner,21.3,1605.0,120.8,5.0,Nagpur,Dealer,555000.0
+CAR00572,Maruti,Hatchback,2012.0,140978.0,CNG,Automatic,First Owner,23.8,856.0,48.9,5.0,Hyderabad,Individual,83000.0
+CAR00573,Hyundai,Hatchback,2021.0,119646.0,Diesel,Manual,First Owner,22.3,1055.0,73.7,5.0,Pune,Individual,344000.0
+CAR00574,Tata,Sedan,2007.0,247386.0,Diesel,Automatic,Second Owner,21.1,1851.0,162.1,5.0,Jaipur,Individual,69000.0
+CAR00575,,Hatchback,2018.0,30831.0,Diesel,Manual,First Owner,16.6,1227.0,56.7,6.0,Mumbai,Individual,253000.0
+CAR00576,Renault,MPV,2018.0,89521.0,Diesel,Manual,Second Owner,15.4,1431.0,121.0,5.0,Bengaluru,Dealer,411000.0
+CAR00577,Hyundai,Sedan,2023.0,38905.0,CNG,Automatic,First Owner,26.9,1321.0,158.3,5.0,Chennai,Dealer,761000.0
+CAR00578,Hyundai,Hatchback,2019.0,37282.0,Petrol,Automatic,First Owner,9.0,1235.0,58.9,5.0,Mumbai,Individual,370000.0
+CAR00579,Ford,Sedan,2009.0,86973.0,Petrol,Manual,First Owner,14.1,1310.0,77.5,5.0,Mumbai,Dealer,130000.0
+CAR00580,Mercedes-Benz,Luxury,2018.0,122057.0,Diesel,Automatic,First Owner,12.5,2275.0,222.7,5.0,Bengaluru,Individual,5243000.0
+CAR00581,Honda,Compact SUV,2006.0,260000.0,Petrol,Manual,First Owner,17.0,1022.0,111.0,5.0,Hyderabad,Dealer,96000.0
+CAR00582,Hyundai,MPV,2020.0,43878.0,Petrol,Automatic,First Owner,17.7,1511.0,87.4,5.0,Pune,Trustmark Dealer,891000.0
+CAR00583,Mercedes-Benz,Sedan,2018.0,90377.0,Petrol,Automatic,First Owner,17.7,1271.0,161.5,5.0,Mumbai,Individual,2899000.0
+CAR00584,Hyundai,Compact SUV,2015.0,183922.0,Petrol,Manual,Third Owner,18.7,1593.0,107.5,5.0,Kolkata,Individual,180000.0
+CAR00585,Hyundai,Hatchback,2019.0,117433.0,Petrol,Manual,Fourth & Above,20.2,1074.0,74.9,5.0,Nagpur,Dealer,192000.0
+CAR00586,Tata,Sedan,2020.0,106968.0,Diesel,Manual,First Owner,16.6,1400.0,154.3,5.0,Nagpur,,495000.0
+CAR00587,Toyota,Compact SUV,2021.0,37395.0,Petrol,Manual,First Owner,18.5,1563.0,122.0,5.0,Delhi,Individual,973000.0
+CAR00588,Ford,Hatchback,2009.0,128628.0,Diesel,Manual,Second Owner,16.9,1053.0,92.7,5.0,Pune,Trustmark Dealer,84000.0
+CAR00589,Toyota,MPV,2021.0,102848.0,LPG,Manual,First Owner,15.7,1819.0,103.7,5.0,Hyderabad,Dealer,966000.0
+CAR00590,Hyundai,Compact SUV,2011.0,223507.0,Petrol,Manual,First Owner,10.0,1429.0,128.2,5.0,Bengaluru,Dealer,143000.0
+CAR00591,Maruti,Hatchback,2021.0,76060.0,Petrol,Automatic,First Owner,16.3,1158.0,66.7,5.0,Hyderabad,Individual,288000.0
+CAR00592,Maruti,Compact SUV,2009.0,224738.0,Petrol,Manual,First Owner,18.4,1083.0,133.1,5.0,Delhi,Individual,88000.0
+CAR00593,Maruti,Compact SUV,2021.0,82369.0,Diesel,Manual,First Owner,13.8,1604.0,110.5,4.0,Ahmedabad,Individual,480000.0
+CAR00594,Mahindra,MPV,2014.0,171012.0,Petrol,Manual,Third Owner,17.2,2459.0,168.5,5.0,Bengaluru,Individual,426000.0
+CAR00595,BMW,Compact SUV,2022.0,52567.0,Diesel,Automatic,Second Owner,22.3,1305.0,101.4,5.0,Delhi,Dealer,4257000.0
+CAR00596,Mahindra,SUV,2010.0,222316.0,Diesel,Manual,First Owner,16.6,2604.0,184.1,5.0,Nagpur,Dealer,301000.0
+CAR00597,Hyundai,Hatchback,2022.0,48572.0,Petrol,Automatic,Second Owner,14.0,1166.0,63.7,5.0,Ahmedabad,Individual,373000.0
+CAR00598,Mahindra,MPV,2022.0,99869.0,Petrol,Automatic,Second Owner,21.3,2326.0,170.0,7.0,Chennai,Individual,1095000.0
+CAR00599,Kia,Compact SUV,2019.0,27844.0,Petrol,Automatic,First Owner,14.5,1373.0,135.2,5.0,Hyderabad,Dealer,1098000.0
+CAR00600,Maruti,Hatchback,2007.0,252016.0,Petrol,Manual,First Owner,17.4,1000.0,60.7,5.0,Pune,Individual,65000.0
+CAR00601,Renault,Compact SUV,2017.0,77598.0,Diesel,Manual,First Owner,15.4,1495.0,72.0,5.0,Nagpur,Individual,318000.0
+CAR00602,Toyota,Luxury,2022.0,60459.0,Petrol,Automatic,Second Owner,15.3,3611.0,336.9,7.0,Hyderabad,Individual,2222000.0
+CAR00603,Hyundai,Sedan,2011.0,184973.0,CNG,Manual,First Owner,18.8,2190.0,153.2,5.0,Mumbai,Trustmark Dealer,147000.0
+CAR00604,Tata,Hatchback,2019.0,95130.0,Diesel,Manual,Second Owner,16.5,875.0,87.0,4.0,Bengaluru,Individual,240000.0
+CAR00605,Maruti,Sedan,2015.0,106765.0,Petrol,Automatic,First Owner,17.1,1247.0,70.8,5.0,Jaipur,Trustmark Dealer,232000.0
+CAR00606,Honda,Hatchback,2015.0,147645.0,Petrol,Automatic,First Owner,16.5,958.0,70.0,4.0,Kolkata,Dealer,231000.0
+CAR00607,Ford,Compact SUV,2007.0,191557.0,Petrol,Automatic,First Owner,17.7,1164.0,,5.0,Jaipur,Dealer,102000.0
+CAR00608,Renault,Compact SUV,2018.0,170947.0,CNG,Manual,First Owner,30.0,1616.0,128.2,5.0,Jaipur,Dealer,251000.0
+CAR00609,Toyota,Compact SUV,2020.0,134463.0,Petrol,Manual,First Owner,18.8,1720.0,125.2,5.0,Pune,Dealer,1007000.0
+CAR00610,Mercedes-Benz,SUV,2016.0,106772.0,Diesel,Automatic,Second Owner,23.6,1808.0,250.2,5.0,Chennai,Dealer,3099000.0
+CAR00611,Ford,Sedan,2018.0,156289.0,Petrol,Manual,First Owner,17.4,1727.0,89.5,5.0,Mumbai,Trustmark Dealer,339000.0
+CAR00612,Skoda,Hatchback,2017.0,140907.0,Petrol,Manual,First Owner,18.3,1245.0,88.7,5.0,Pune,Dealer,335000.0
+CAR00613,Volkswagen,Sedan,2009.0,103039.0,Petrol,Automatic,First Owner,14.3,1898.0,177.4,5.0,Nagpur,Individual,225000.0
+CAR00614,Renault,Sedan,2022.0,18712.0,Diesel,Automatic,Third Owner,17.0,1224.0,159.3,5.0,Pune,Individual,525000.0
+CAR00615,Hyundai,Hatchback,2020.0,44997.0,Diesel,Manual,First Owner,19.5,1155.0,55.1,5.0,Bengaluru,Dealer,370000.0
+CAR00616,Tata,Compact SUV,2017.0,108470.0,CNG,Automatic,Third Owner,23.9,1364.0,86.9,5.0,Ahmedabad,Individual,252000.0
+CAR00617,Mahindra,MPV,2010.0,155563.0,Petrol,Manual,First Owner,17.1,1427.0,85.2,5.0,Hyderabad,Dealer,250000.0
+CAR00618,Tata,MPV,2005.0,260000.0,Petrol,Automatic,Second Owner,17.7,1954.0,179.7,7.0,Pune,Individual,128000.0
+CAR00619,Maruti,Hatchback,2008.0,260000.0,Diesel,Automatic,Fourth & Above,22.6,1218.0,49.2,5.0,Jaipur,Individual,65000.0
+CAR00620,Volkswagen,SUV,2022.0,25583.0,LPG,Manual,Third Owner,,2898.0,205.3,5.0,Chennai,Individual,1033000.0
+CAR00621,Hyundai,MPV,2019.0,62620.0,Petrol,Manual,First Owner,13.6,1522.0,178.4,5.0,Delhi,Individual,546000.0
+CAR00622,Maruti,Hatchback,2017.0,87995.0,Diesel,Automatic,First Owner,18.7,1057.0,47.9,5.0,Hyderabad,Dealer,199000.0
+CAR00623,Maruti,Hatchback,2020.0,66524.0,Diesel,Manual,First Owner,18.8,813.0,57.5,5.0,Pune,Dealer,289000.0
+CAR00624,Mahindra,Hatchback,2021.0,44778.0,Diesel,Manual,First Owner,20.8,1296.0,66.1,7.0,Ahmedabad,Dealer,543000.0
+CAR00625,Hyundai,Sedan,2015.0,206548.0,Petrol,Manual,Second Owner,14.3,1492.0,159.8,4.0,Mumbai,Dealer,196000.0
+CAR00626,Volkswagen,Sedan,2018.0,129280.0,Diesel,Automatic,First Owner,20.6,1638.0,103.1,5.0,Pune,Individual,731000.0
+CAR00627,Mercedes-Benz,Luxury,2017.0,118729.0,Petrol,Automatic,Second Owner,15.0,2834.0,440.2,5.0,Nagpur,Individual,3078000.0
+CAR00628,Skoda,Compact SUV,2014.0,,Petrol,Automatic,Second Owner,20.6,1139.0,121.1,5.0,Delhi,Dealer,338000.0
+CAR00629,Hyundai,Hatchback,2018.0,52870.0,CNG,Manual,Third Owner,,,83.4,5.0,Hyderabad,Individual,178000.0
+CAR00630,Audi,Luxury,2011.0,193023.0,Petrol,Automatic,First Owner,15.5,2405.0,352.1,6.0,Chennai,Individual,1538000.0
+CAR00631,Volkswagen,Sedan,2011.0,146701.0,Petrol,Manual,First Owner,17.0,1718.0,116.6,5.0,Pune,Dealer,241000.0
+CAR00632,Maruti,Sedan,2005.0,116197.0,Petrol,Automatic,First Owner,16.1,1233.0,82.6,5.0,Pune,Individual,83000.0
+CAR00633,Maruti,Hatchback,2020.0,76017.0,Petrol,Manual,Second Owner,17.2,867.0,66.3,5.0,Nagpur,Dealer,194000.0
+CAR00634,Volkswagen,Compact SUV,2019.0,94053.0,Diesel,Manual,First Owner,17.3,1745.0,134.3,5.0,Kolkata,Individual,663000.0
+CAR00635,Renault,Compact SUV,2007.0,245675.0,Diesel,Manual,First Owner,19.1,1415.0,133.6,5.0,Hyderabad,Individual,70000.0
+CAR00636,Audi,Luxury,2011.0,131270.0,Petrol,Manual,First Owner,13.6,3051.0,250.2,4.0,Mumbai,Individual,1696000.0
+CAR00637,Honda,Sedan,2022.0,35722.0,Petrol,Automatic,First Owner,12.8,2200.0,167.8,7.0,Pune,Individual,1074000.0
+CAR00638,Skoda,Hatchback,2022.0,34889.0,Diesel,Manual,Second Owner,17.7,1231.0,72.9,5.0,Hyderabad,Dealer,631000.0
+CAR00639,Kia,Compact SUV,2020.0,85901.0,Petrol,Manual,First Owner,15.8,1170.0,111.3,6.0,Bengaluru,Dealer,792000.0
+CAR00640,Mahindra,Compact SUV,2013.0,102040.0,Diesel,Manual,First Owner,19.4,1688.0,123.3,5.0,Delhi,Dealer,352000.0
+CAR00641,Hyundai,Hatchback,2012.0,170445.0,CNG,Manual,First Owner,23.7,1189.0,76.2,5.0,Pune,Dealer,107000.0
+CAR00642,Hyundai,Compact SUV,,37452.0,Diesel,Manual,First Owner,19.3,1082.0,146.3,5.0,Pune,Trustmark Dealer,650000.0
+CAR00643,Hyundai,Sedan,2021.0,68959.0,Petrol,Manual,Third Owner,17.4,1756.0,146.8,5.0,Delhi,Individual,585000.0
+CAR00644,Volkswagen,Hatchback,2013.0,59729.0,CNG,Manual,First Owner,19.6,1196.0,88.3,5.0,Nagpur,Dealer,240000.0
+CAR00645,Ford,Hatchback,2012.0,229465.0,Petrol,Manual,Second Owner,16.3,1281.0,,5.0,Mumbai,Individual,81000.0
+CAR00646,Hyundai,Compact SUV,2016.0,124221.0,Petrol,Manual,First Owner,19.0,1626.0,80.8,5.0,Mumbai,Individual,246000.0
+CAR00647,Hyundai,Compact SUV,2022.0,69306.0,CNG,Manual,Third Owner,20.7,1130.0,154.8,5.0,Chennai,Individual,465000.0
+CAR00648,Toyota,Sedan,2020.0,93982.0,Petrol,Manual,First Owner,15.2,1230.0,101.0,5.0,Chennai,Individual,806000.0
+CAR00649,Tata,Compact SUV,2022.0,21032.0,Diesel,Manual,Second Owner,,1009.0,113.7,7.0,Chennai,Individual,635000.0
+CAR00650,Skoda,Compact SUV,2018.0,173465.0,Electric,Automatic,Second Owner,0.0,159.0,194.8,5.0,Delhi,Dealer,384000.0
+CAR00651,Hyundai,Hatchback,2017.0,61545.0,CNG,Manual,First Owner,22.0,888.0,45.0,5.0,Bengaluru,Individual,183000.0
+CAR00652,Honda,Hatchback,2018.0,103492.0,Petrol,Manual,First Owner,,974.0,88.3,5.0,Pune,Individual,298000.0
+CAR00653,Maruti,MPV,2021.0,82675.0,Diesel,Automatic,First Owner,19.7,1692.0,126.2,5.0,Pune,Individual,661000.0
+CAR00654,Toyota,Sedan,2017.0,98902.0,Diesel,Manual,Second Owner,21.5,1951.0,131.1,5.0,Pune,Dealer,635000.0
+CAR00655,Honda,Sedan,2010.0,209491.0,Petrol,Automatic,First Owner,16.2,1364.0,109.4,5.0,Pune,Individual,181000.0
+CAR00656,Mahindra,Sedan,2005.0,260000.0,,Manual,Third Owner,18.5,1290.0,111.1,5.0,Delhi,Dealer,103000.0
+CAR00657,Hyundai,Compact SUV,2013.0,151015.0,Petrol,Manual,Second Owner,19.5,1389.0,137.1,5.0,Jaipur,Individual,188000.0
+CAR00658,Maruti,Hatchback,2018.0,158366.0,Petrol,Automatic,Fourth & Above,16.8,1246.0,88.5,5.0,Hyderabad,Dealer,138000.0
+CAR00659,Honda,Hatchback,2019.0,67904.0,Petrol,Manual,Second Owner,16.0,1072.0,58.4,5.0,Mumbai,Individual,307000.0
+CAR00660,Toyota,Sedan,2018.0,35176.0,CNG,Manual,Fourth & Above,25.6,1469.0,84.2,5.0,Ahmedabad,Trustmark Dealer,429000.0
+CAR00661,Maruti,SUV,2014.0,109861.0,Petrol,Automatic,Second Owner,13.1,1968.0,122.5,5.0,Hyderabad,Dealer,269000.0
+CAR00662,Maruti,Hatchback,2020.0,88128.0,CNG,Automatic,Third Owner,20.8,812.0,98.1,5.0,Kolkata,Dealer,231000.0
+CAR00663,Kia,Hatchback,2018.0,100116.0,Petrol,Automatic,First Owner,16.8,1001.0,51.3,,Bengaluru,Dealer,422000.0
+CAR00664,Skoda,Compact SUV,2023.0,20719.0,Petrol,Manual,First Owner,17.3,1758.0,125.2,5.0,Nagpur,Individual,1283000.0
+CAR00665,Skoda,Compact SUV,2011.0,236861.0,LPG,Manual,First Owner,18.7,1516.0,128.0,5.0,Pune,Individual,188000.0
+CAR00666,Tata,SUV,2010.0,174610.0,Petrol,Automatic,First Owner,15.9,1865.0,137.6,5.0,Delhi,Dealer,206000.0
+CAR00667,Honda,Sedan,2024.0,26670.0,Diesel,Manual,Third Owner,,1108.0,72.0,5.0,Ahmedabad,Individual,656000.0
+CAR00668,Honda,SUV,2018.0,139631.0,Petrol,Automatic,First Owner,16.4,2529.0,194.6,5.0,Hyderabad,Individual,714000.0
+CAR00669,Maruti,Hatchback,2016.0,,Diesel,Manual,First Owner,17.7,1013.0,83.9,5.0,Bengaluru,Individual,188000.0
+CAR00670,Maruti,Hatchback,2020.0,82325.0,Diesel,Automatic,First Owner,22.7,889.0,92.2,5.0,Delhi,Individual,256000.0
+CAR00671,Tata,SUV,2021.0,51093.0,Diesel,Manual,Second Owner,19.5,2173.0,225.9,5.0,Bengaluru,Individual,1030000.0
+CAR00672,Honda,Hatchback,2020.0,93196.0,Petrol,Manual,First Owner,17.8,889.0,95.7,5.0,Nagpur,Dealer,416000.0
+CAR00673,Tata,Hatchback,2024.0,14627.0,Petrol,Manual,Second Owner,21.8,1072.0,61.2,6.0,Pune,Individual,538000.0
+CAR00674,Maruti,MPV,2011.0,203937.0,LPG,Manual,First Owner,15.5,1685.0,117.5,5.0,Chennai,Dealer,94000.0
+CAR00675,Hyundai,Sedan,2015.0,127010.0,Petrol,Automatic,First Owner,14.9,1963.0,90.2,5.0,,Individual,255000.0
+CAR00676,Hyundai,Compact SUV,2018.0,122233.0,Diesel,Manual,First Owner,22.4,1107.0,127.0,4.0,Kolkata,Individual,322000.0
+CAR00677,Tata,Hatchback,2010.0,181961.0,Diesel,Manual,Second Owner,19.5,1068.0,90.7,5.0,Delhi,Dealer,85000.0
+CAR00678,Hyundai,MPV,2014.0,,LPG,Manual,First Owner,18.2,1445.0,135.3,5.0,Mumbai,Trustmark Dealer,250000.0
+CAR00679,Honda,Hatchback,2013.0,136568.0,CNG,Manual,First Owner,24.2,1132.0,65.3,5.0,Pune,Individual,142000.0
+CAR00680,Honda,Sedan,2016.0,172503.0,Petrol,Manual,First Owner,17.3,1553.0,79.4,5.0,Chennai,Dealer,253000.0
+CAR00681,Toyota,MPV,2008.0,162191.0,Petrol,Manual,First Owner,16.0,2316.0,178.3,7.0,Bengaluru,Individual,232000.0
+CAR00682,BMW,Luxury,2010.0,125206.0,Petrol,Automatic,First Owner,12.8,3620.0,264.4,5.0,Pune,Trustmark Dealer,1814000.0
+CAR00683,Hyundai,Hatchback,2018.0,19074.0,Petrol,Manual,Second Owner,16.1,1166.0,73.4,5.0,Pune,Individual,311000.0
+CAR00684,Hyundai,Sedan,2021.0,60599.0,Petrol,Automatic,Second Owner,16.0,1565.0,163.0,5.0,Pune,Individual,686000.0
+CAR00685,Maruti,Hatchback,2018.0,103498.0,Petrol,Manual,First Owner,17.9,971.0,50.6,5.0,Delhi,Individual,183000.0
+CAR00686,Maruti,Sedan,2016.0,184730.0,Petrol,Manual,First Owner,10.7,2109.0,126.7,5.0,Hyderabad,Trustmark Dealer,191000.0
+CAR00687,Mahindra,Hatchback,2016.0,182272.0,Petrol,Manual,First Owner,18.1,1243.0,66.1,5.0,Delhi,Individual,273000.0
+CAR00688,Tata,MPV,2021.0,88882.0,Diesel,Manual,First Owner,15.3,2355.0,109.5,5.0,Delhi,Dealer,598000.0
+CAR00689,Renault,SUV,2021.0,44327.0,Diesel,Manual,First Owner,18.1,1546.0,157.4,6.0,Ahmedabad,Individual,817000.0
+CAR00690,Maruti,Hatchback,2020.0,67936.0,Diesel,Manual,Second Owner,21.9,1174.0,49.6,8.0,Pune,Individual,257000.0
+CAR00691,Kia,MPV,2017.0,68404.0,Diesel,Manual,First Owner,17.3,1488.0,177.3,5.0,Mumbai,Individual,909000.0
+CAR00692,Maruti,Hatchback,2015.0,197900.0,Diesel,Manual,Fourth & Above,23.1,1210.0,81.3,5.0,Ahmedabad,Individual,73000.0
+CAR00693,Mahindra,MPV,2018.0,83206.0,Diesel,Automatic,First Owner,15.7,1738.0,110.3,5.0,Nagpur,Dealer,966000.0
+CAR00694,Hyundai,Luxury,2016.0,51280.0,Petrol,Automatic,Second Owner,14.5,1839.0,334.7,4.0,Nagpur,Individual,657000.0
+CAR00695,Maruti,MPV,2021.0,98908.0,Diesel,Manual,First Owner,16.7,1577.0,140.0,5.0,Delhi,Trustmark Dealer,515000.0
+CAR00696,Toyota,MPV,2020.0,94994.0,Diesel,Manual,Third Owner,21.4,1575.0,83.7,5.0,Mumbai,Dealer,781000.0
+CAR00697,Mahindra,SUV,2022.0,110697.0,Diesel,Manual,First Owner,,2325.0,101.8,7.0,Bengaluru,Dealer,1454000.0
+CAR00698,Kia,Compact SUV,2014.0,99641.0,Diesel,Manual,First Owner,21.4,,80.9,5.0,Pune,Individual,409000.0
+CAR00699,Hyundai,Hatchback,2017.0,106438.0,Petrol,Manual,First Owner,14.4,851.0,65.8,5.0,Hyderabad,Trustmark Dealer,191000.0
+CAR00700,Ford,Hatchback,2018.0,150366.0,Petrol,Manual,Third Owner,13.6,1129.0,72.1,5.0,Nagpur,Individual,131000.0
+CAR00701,Honda,Sedan,2011.0,131580.0,Petrol,Manual,First Owner,15.5,1286.0,86.5,7.0,Mumbai,Dealer,195000.0
+CAR00702,Tata,Hatchback,2023.0,20629.0,Diesel,Automatic,First Owner,21.2,1171.0,96.2,5.0,Hyderabad,Individual,527000.0
+CAR00703,Hyundai,Compact SUV,2007.0,260000.0,Petrol,Manual,Third Owner,16.1,1436.0,119.9,5.0,Pune,Dealer,70000.0
+CAR00704,Toyota,Hatchback,2021.0,96621.0,Petrol,Manual,First Owner,16.8,1287.0,59.4,5.0,Pune,Individual,662000.0
+CAR00705,Hyundai,Hatchback,2011.0,260000.0,Diesel,Manual,First Owner,15.7,829.0,78.5,5.0,Kolkata,Individual,73000.0
+CAR00706,Honda,Sedan,,105411.0,CNG,Manual,First Owner,22.9,1697.0,146.8,5.0,Bengaluru,Individual,178000.0
+CAR00707,Maruti,Hatchback,2013.0,123715.0,Petrol,Manual,First Owner,14.2,886.0,74.8,5.0,Bengaluru,Dealer,109000.0
+CAR00708,Hyundai,Hatchback,2016.0,214669.0,CNG,Automatic,First Owner,23.1,1050.0,57.1,5.0,Bengaluru,Dealer,144000.0
+CAR00709,Toyota,Compact SUV,2013.0,119815.0,Diesel,Manual,First Owner,19.5,1399.0,111.4,5.0,Kolkata,Dealer,426000.0
+CAR00710,Kia,Hatchback,2017.0,51130.0,Petrol,Manual,First Owner,15.5,1031.0,58.4,5.0,Jaipur,Individual,352000.0
+CAR00711,Renault,Hatchback,2021.0,46852.0,Petrol,Manual,First Owner,18.8,985.0,92.1,5.0,Delhi,Individual,335000.0
+CAR00712,Kia,Hatchback,2023.0,53870.0,Petrol,Manual,First Owner,18.0,1045.0,93.4,5.0,Delhi,Dealer,729000.0
+CAR00713,Maruti,Hatchback,2014.0,196832.0,CNG,Manual,First Owner,19.7,806.0,56.0,5.0,Ahmedabad,Dealer,69000.0
+CAR00714,Toyota,SUV,2022.0,72225.0,Petrol,Automatic,First Owner,15.1,2711.0,170.7,5.0,Delhi,Individual,2056000.0
+CAR00715,Toyota,MPV,2015.0,191403.0,,Manual,First Owner,15.8,2111.0,119.7,5.0,Delhi,Individual,488000.0
+CAR00716,Volkswagen,Sedan,2023.0,27551.0,Petrol,Manual,First Owner,14.4,1907.0,171.1,5.0,Bengaluru,Dealer,1407000.0
+CAR00717,Honda,Compact SUV,2017.0,121427.0,Petrol,Manual,First Owner,19.1,1085.0,90.6,5.0,Nagpur,Individual,375000.0
+CAR00718,Maruti,Compact SUV,2018.0,86207.0,Diesel,Manual,Second Owner,18.8,1215.0,155.4,5.0,Delhi,Dealer,318000.0
+CAR00719,Mercedes-Benz,Luxury,2008.0,147496.0,,Manual,First Owner,17.6,2849.0,276.7,6.0,Chennai,Individual,1208000.0
+CAR00720,Renault,MPV,2015.0,46518.0,Diesel,Manual,First Owner,13.7,1971.0,109.3,7.0,Jaipur,Individual,352000.0
+CAR00721,Mahindra,SUV,2017.0,124620.0,Petrol,Automatic,Third Owner,16.5,1549.0,92.2,5.0,Bengaluru,Dealer,642000.0
+CAR00722,Ford,Hatchback,2021.0,71591.0,Diesel,Manual,First Owner,23.0,1227.0,87.2,5.0,Pune,Individual,389000.0
+CAR00723,Tata,MPV,2007.0,260000.0,Petrol,Automatic,First Owner,15.9,2123.0,128.0,7.0,Bengaluru,Dealer,101000.0
+CAR00724,Honda,Hatchback,2011.0,260000.0,Diesel,Manual,First Owner,17.9,1278.0,86.4,5.0,Delhi,Dealer,103000.0
+CAR00725,Toyota,Hatchback,2020.0,56492.0,CNG,Manual,First Owner,20.3,1065.0,63.6,7.0,Hyderabad,Individual,452000.0
+CAR00726,BMW,Luxury,2005.0,115509.0,Diesel,Automatic,First Owner,18.6,3123.0,355.2,5.0,Pune,Dealer,1386000.0
+CAR00727,Honda,,2021.0,119485.0,CNG,Automatic,First Owner,24.6,1389.0,136.9,5.0,Delhi,Individual,582000.0
+CAR00728,Hyundai,MPV,2016.0,71637.0,LPG,Manual,Second Owner,16.5,1634.0,114.2,7.0,Pune,Individual,296000.0
+CAR00729,Kia,MPV,2013.0,253134.0,Petrol,Manual,First Owner,18.5,1820.0,109.2,5.0,Pune,Individual,333000.0
+CAR00730,Honda,MPV,2015.0,154376.0,Diesel,Manual,Second Owner,20.7,2490.0,141.2,5.0,Ahmedabad,Trustmark Dealer,368000.0
+CAR00731,Maruti,Compact SUV,2022.0,90458.0,Petrol,Automatic,Second Owner,20.6,1526.0,102.8,5.0,Chennai,Dealer,481000.0
+CAR00732,BMW,Luxury,2010.0,210016.0,Petrol,Automatic,Second Owner,16.4,2699.0,388.9,5.0,Mumbai,Individual,1383000.0
+CAR00733,Ford,MPV,2018.0,119630.0,Diesel,Manual,First Owner,18.8,1688.0,138.1,5.0,Nagpur,Dealer,503000.0
+CAR00734,Hyundai,Hatchback,2019.0,71173.0,Petrol,Automatic,First Owner,16.4,1157.0,68.6,5.0,Mumbai,Individual,325000.0
+CAR00735,Honda,Sedan,2011.0,229047.0,Petrol,Automatic,First Owner,17.7,1778.0,81.3,5.0,Nagpur,Dealer,160000.0
+CAR00736,Hyundai,Hatchback,2022.0,92332.0,Diesel,Automatic,First Owner,20.9,854.0,63.4,5.0,Delhi,Individual,394000.0
+CAR00737,Maruti,Compact SUV,2019.0,57966.0,Petrol,Automatic,Fourth & Above,19.1,1135.0,96.9,5.0,Kolkata,Individual,275000.0
+CAR00738,Renault,Hatchback,2009.0,212790.0,Petrol,Manual,First Owner,17.2,894.0,69.7,5.0,Mumbai,Individual,65000.0
+CAR00739,Hyundai,Sedan,2019.0,100833.0,Petrol,Automatic,First Owner,15.7,1310.0,163.6,5.0,Bengaluru,Dealer,443000.0
+CAR00740,Kia,SUV,2016.0,113723.0,Diesel,Automatic,Second Owner,21.3,2897.0,141.9,7.0,Chennai,Individual,711000.0
+CAR00741,Renault,Compact SUV,2008.0,197404.0,Diesel,Automatic,First Owner,17.1,1173.0,83.0,5.0,Jaipur,Dealer,83000.0
+CAR00742,Tata,MPV,2015.0,161842.0,Petrol,Automatic,First Owner,16.8,2402.0,126.2,5.0,Mumbai,Individual,365000.0
+CAR00743,Hyundai,Hatchback,2020.0,68313.0,Petrol,Manual,First Owner,17.4,1006.0,70.5,6.0,Hyderabad,Trustmark Dealer,381000.0
+CAR00744,Volkswagen,Compact SUV,2017.0,143667.0,Petrol,Automatic,First Owner,14.9,1386.0,130.6,5.0,Delhi,Individual,581000.0
+CAR00745,Skoda,Sedan,2016.0,149161.0,Petrol,Manual,Second Owner,11.6,1530.0,134.9,5.0,Hyderabad,Individual,395000.0
+CAR00746,Maruti,Hatchback,2012.0,50334.0,CNG,Automatic,First Owner,23.3,830.0,57.5,5.0,Ahmedabad,Individual,103000.0
+CAR00747,Renault,Compact SUV,2021.0,42911.0,Petrol,Manual,First Owner,12.3,1786.0,127.1,5.0,Ahmedabad,Individual,591000.0
+CAR00748,Hyundai,Compact SUV,2009.0,80945.0,Petrol,Automatic,First Owner,16.6,1759.0,85.5,5.0,Mumbai,Individual,211000.0
+CAR00749,Ford,Hatchback,2019.0,44654.0,Petrol,Manual,First Owner,16.5,879.0,73.3,5.0,Hyderabad,Individual,288000.0
+CAR00750,Maruti,Hatchback,2011.0,161892.0,Diesel,Automatic,First Owner,22.3,1202.0,47.7,5.0,Ahmedabad,Individual,83000.0
+CAR00751,Maruti,Hatchback,2022.0,53554.0,Petrol,Manual,Second Owner,13.0,1069.0,95.5,5.0,Kolkata,Dealer,254000.0
+CAR00752,Kia,SUV,2015.0,220324.0,Diesel,Manual,Third Owner,,2571.0,155.2,5.0,Nagpur,Individual,507000.0
+CAR00753,Maruti,Compact SUV,2014.0,195616.0,Diesel,Manual,First Owner,17.9,1061.0,85.5,5.0,Ahmedabad,Dealer,147000.0
+CAR00754,Ford,Sedan,2006.0,194938.0,Petrol,Automatic,First Owner,15.2,1413.0,93.7,5.0,Mumbai,Individual,90000.0
+CAR00755,Honda,Hatchback,2013.0,199086.0,Petrol,Manual,Second Owner,16.8,916.0,63.1,5.0,Mumbai,Individual,127000.0
+CAR00756,Hyundai,Hatchback,2013.0,176457.0,Petrol,Automatic,First Owner,20.3,1135.0,62.1,5.0,Pune,Individual,117000.0
+CAR00757,Maruti,Hatchback,2021.0,104098.0,LPG,Manual,Second Owner,20.0,1044.0,97.2,5.0,Ahmedabad,Trustmark Dealer,204000.0
+CAR00758,Maruti,Hatchback,2010.0,260000.0,Diesel,Manual,First Owner,17.0,1253.0,65.9,7.0,Mumbai,Individual,65000.0
+CAR00759,Volkswagen,Hatchback,2014.0,176876.0,Petrol,Manual,First Owner,13.1,1199.0,71.6,5.0,Bengaluru,Individual,178000.0
+CAR00760,,Hatchback,2018.0,150450.0,Petrol,Manual,First Owner,17.7,1181.0,60.2,7.0,Pune,Dealer,225000.0
+CAR00761,Tata,Compact SUV,2024.0,20358.0,Petrol,Manual,Second Owner,15.5,1281.0,124.8,7.0,Pune,Individual,853000.0
+CAR00762,Maruti,Hatchback,2006.0,260000.0,Petrol,Manual,First Owner,15.5,985.0,54.9,5.0,Pune,Dealer,65000.0
+CAR00763,Toyota,SUV,2023.0,38541.0,Petrol,Automatic,Second Owner,15.8,2340.0,230.8,4.0,Pune,Individual,2142000.0
+CAR00764,Maruti,SUV,2009.0,250250.0,Diesel,Automatic,Second Owner,19.0,1858.0,218.9,5.0,Hyderabad,Individual,118000.0
+CAR00765,Honda,Hatchback,2019.0,127979.0,Petrol,Manual,First Owner,13.2,1185.0,86.5,5.0,Nagpur,Individual,236000.0
+CAR00766,Hyundai,Sedan,2015.0,105950.0,,Manual,First Owner,15.0,1613.0,169.7,5.0,Pune,Individual,290000.0
+CAR00767,Toyota,Luxury,2016.0,102804.0,Diesel,Automatic,Second Owner,19.3,3822.0,233.9,5.0,Bengaluru,Individual,960000.0
+CAR00768,Mercedes-Benz,Luxury,2018.0,181721.0,Petrol,Automatic,Second Owner,14.4,3093.0,184.4,4.0,Mumbai,Individual,3616000.0
+CAR00769,Maruti,Hatchback,2011.0,209800.0,Diesel,Manual,First Owner,18.5,918.0,97.7,5.0,Ahmedabad,Dealer,69000.0
+CAR00770,Renault,Sedan,2018.0,117277.0,Petrol,Manual,Second Owner,18.1,1496.0,125.9,5.0,Chennai,Individual,268000.0
+CAR00771,Renault,Compact SUV,2016.0,141521.0,Petrol,Manual,First Owner,17.8,1505.0,115.4,5.0,Hyderabad,Dealer,271000.0
+CAR00772,Maruti,SUV,2013.0,167000.0,Petrol,Automatic,First Owner,16.0,2738.0,242.4,5.0,Nagpur,Individual,260000.0
+CAR00773,Ford,Hatchback,2019.0,112484.0,Petrol,Manual,Third Owner,18.6,1298.0,79.6,5.0,Bengaluru,Individual,237000.0
+CAR00774,Audi,Luxury,2014.0,222389.0,Electric,Automatic,First Owner,1.1,145.0,104.3,5.0,Bengaluru,Individual,2068000.0
+CAR00775,Kia,Hatchback,2007.0,260000.0,Diesel,Manual,First Owner,18.3,1120.0,90.1,5.0,Ahmedabad,Individual,92000.0
+CAR00776,BMW,SUV,2023.0,78371.0,Diesel,Manual,First Owner,19.9,2213.0,196.4,5.0,Bengaluru,Dealer,6245000.0
+CAR00777,Maruti,Hatchback,2023.0,10396.0,Diesel,Manual,First Owner,14.5,926.0,57.3,5.0,Pune,Dealer,400000.0
+CAR00778,Kia,Compact SUV,2018.0,80341.0,Diesel,Automatic,Second Owner,20.1,1717.0,153.4,5.0,Mumbai,Dealer,782000.0
+CAR00779,Mahindra,SUV,2018.0,132621.0,Petrol,Manual,First Owner,16.2,1697.0,229.9,5.0,Pune,Individual,935000.0
+CAR00780,BMW,Luxury,2007.0,133387.0,Diesel,Manual,First Owner,21.5,2498.0,402.8,,Bengaluru,Individual,1132000.0
+CAR00781,Tata,Sedan,2020.0,44456.0,Petrol,Automatic,Second Owner,14.0,1114.0,121.9,5.0,Bengaluru,Individual,541000.0
+CAR00782,Audi,Luxury,2012.0,117705.0,Diesel,Manual,First Owner,17.2,3185.0,369.8,5.0,Hyderabad,Individual,2140000.0
+CAR00783,Volkswagen,Compact SUV,2016.0,146879.0,Electric,Manual,Second Owner,0.8,168.0,207.4,6.0,Mumbai,Dealer,343000.0
+CAR00784,Tata,Hatchback,2018.0,141982.0,Petrol,Manual,Third Owner,18.3,966.0,95.1,5.0,Hyderabad,Individual,212000.0
+CAR00785,Kia,Sedan,2013.0,168212.0,Petrol,Manual,First Owner,15.5,2196.0,94.1,5.0,Pune,Individual,245000.0
+CAR00786,Mahindra,Hatchback,2021.0,37990.0,Diesel,Manual,Third Owner,19.4,996.0,81.8,4.0,Delhi,Dealer,441000.0
+CAR00787,Ford,SUV,2020.0,121941.0,Electric,Manual,First Owner,0.0,62.0,203.0,5.0,Pune,Individual,631000.0
+CAR00788,Kia,SUV,2022.0,41002.0,Diesel,Automatic,First Owner,21.4,2134.0,196.3,5.0,Bengaluru,Individual,2166000.0
+CAR00789,Kia,Compact SUV,2015.0,173831.0,Petrol,Manual,First Owner,17.4,1380.0,130.7,5.0,Mumbai,Individual,436000.0
+CAR00790,BMW,Luxury,2006.0,260000.0,Diesel,Manual,Second Owner,18.4,2722.0,,5.0,,Individual,717000.0
+CAR00791,Toyota,MPV,2020.0,124788.0,Diesel,Manual,Third Owner,18.8,1670.0,130.3,5.0,Hyderabad,Dealer,745000.0
+CAR00792,Renault,Hatchback,2024.0,10470.0,Petrol,Manual,First Owner,16.9,961.0,61.1,4.0,Mumbai,Trustmark Dealer,526000.0
+CAR00793,Tata,Hatchback,2010.0,144889.0,Petrol,Manual,First Owner,17.7,884.0,81.0,5.0,Jaipur,Trustmark Dealer,85000.0
+CAR00794,Honda,Compact SUV,2007.0,212139.0,Petrol,Manual,First Owner,18.8,1479.0,155.3,5.0,Kolkata,Individual,135000.0
+CAR00795,Ford,Sedan,2014.0,157800.0,Petrol,Manual,First Owner,14.7,1179.0,70.6,5.0,Jaipur,Dealer,176000.0
+CAR00796,Maruti,MPV,2012.0,107336.0,Diesel,Manual,First Owner,,1458.0,150.7,,Bengaluru,Individual,238000.0
+CAR00797,Toyota,Compact SUV,2018.0,121972.0,CNG,Manual,First Owner,23.6,1756.0,148.4,5.0,Mumbai,Individual,762000.0
+CAR00798,Maruti,Hatchback,2018.0,29076.0,Petrol,Manual,Second Owner,16.5,1211.0,58.8,6.0,Pune,Individual,195000.0
+CAR00799,Mahindra,Sedan,2023.0,50679.0,Diesel,Automatic,Second Owner,20.2,1472.0,96.9,5.0,Mumbai,Trustmark Dealer,1318000.0
+CAR00800,Maruti,Sedan,2015.0,51670.0,Petrol,Manual,Second Owner,13.8,1895.0,85.3,5.0,Delhi,,196000.0
+CAR00801,Maruti,Sedan,2013.0,177401.0,Petrol,Automatic,Second Owner,17.0,1192.0,110.7,6.0,Bengaluru,Individual,128000.0
+CAR00802,Honda,Compact SUV,2016.0,222153.0,CNG,Manual,Second Owner,,1234.0,128.8,5.0,Hyderabad,Dealer,216000.0
+CAR00803,Hyundai,Hatchback,2015.0,45131.0,Diesel,Manual,Second Owner,18.3,881.0,56.8,5.0,Delhi,Dealer,216000.0
+CAR00804,Maruti,Hatchback,2022.0,62965.0,Petrol,Manual,First Owner,18.4,846.0,95.3,5.0,Bengaluru,Individual,374000.0
+CAR00805,Mahindra,Luxury,2012.0,142656.0,Petrol,Manual,Second Owner,16.3,2887.0,411.2,5.0,Bengaluru,Individual,452000.0
+CAR00806,Tata,MPV,2019.0,88653.0,Petrol,Manual,Second Owner,14.5,2103.0,153.3,5.0,Pune,Individual,502000.0
+CAR00807,Kia,SUV,2017.0,118476.0,Diesel,Manual,First Owner,13.8,1656.0,172.7,5.0,Chennai,Individual,842000.0
+CAR00808,Tata,Hatchback,2017.0,168485.0,Petrol,Manual,First Owner,13.0,1001.0,78.1,5.0,Delhi,Dealer,161000.0
+CAR00809,Tata,SUV,2023.0,60118.0,Diesel,Automatic,Second Owner,20.3,1942.0,185.9,5.0,Delhi,Dealer,1183000.0
+CAR00810,Maruti,Hatchback,2015.0,129645.0,Petrol,Manual,First Owner,17.4,1102.0,77.2,5.0,Mumbai,Dealer,131000.0
+CAR00811,Tata,MPV,2005.0,196676.0,Petrol,Manual,Second Owner,17.0,1568.0,115.2,5.0,Mumbai,Dealer,99000.0
+CAR00812,,SUV,2015.0,150321.0,Petrol,Automatic,First Owner,12.7,2224.0,220.6,7.0,Pune,Individual,469000.0
+CAR00813,Mercedes-Benz,Luxury,2016.0,134831.0,Diesel,Automatic,Second Owner,15.7,2316.0,184.8,4.0,Chennai,Individual,3533000.0
+CAR00814,Maruti,Compact SUV,2019.0,119540.0,CNG,Manual,First Owner,22.5,1450.0,78.5,5.0,Nagpur,Individual,244000.0
+CAR00815,Ford,Compact SUV,2021.0,73774.0,Petrol,Manual,First Owner,17.6,1489.0,151.4,5.0,Delhi,Individual,603000.0
+CAR00816,Mahindra,MPV,2019.0,94422.0,Petrol,Manual,First Owner,13.1,,170.7,7.0,Mumbai,Individual,981000.0
+CAR00817,Tata,Hatchback,2011.0,147386.0,Petrol,Manual,First Owner,15.6,1261.0,47.1,5.0,Delhi,Individual,115000.0
+CAR00818,Maruti,Hatchback,2018.0,74973.0,Diesel,Manual,First Owner,22.4,1175.0,83.8,5.0,Pune,Individual,247000.0
+CAR00819,Renault,Compact SUV,2016.0,232117.0,Diesel,Manual,First Owner,,1453.0,100.7,4.0,Pune,Individual,158000.0
+CAR00820,Volkswagen,SUV,2010.0,150916.0,Diesel,Automatic,First Owner,19.1,2941.0,242.4,7.0,Pune,Dealer,337000.0
+CAR00821,Hyundai,Hatchback,2008.0,260000.0,Diesel,Manual,First Owner,21.4,928.0,80.9,5.0,Pune,Dealer,65000.0
+CAR00822,Renault,Compact SUV,2011.0,139168.0,Petrol,Manual,First Owner,18.8,1462.0,119.3,5.0,Pune,Trustmark Dealer,155000.0
+CAR00823,Kia,Hatchback,2010.0,139019.0,Petrol,Manual,First Owner,16.9,817.0,54.0,6.0,Nagpur,Trustmark Dealer,143000.0
+CAR00824,Toyota,Sedan,2011.0,195751.0,CNG,Automatic,Third Owner,21.2,1281.0,90.3,5.0,Pune,Trustmark Dealer,189000.0
+CAR00825,Tata,MPV,2020.0,,Petrol,Automatic,First Owner,19.6,1816.0,161.3,5.0,Hyderabad,Trustmark Dealer,743000.0
+CAR00826,Volkswagen,Compact SUV,,83357.0,Petrol,Manual,Third Owner,16.0,1466.0,96.1,5.0,Mumbai,Individual,511000.0
+CAR00827,Honda,Compact SUV,2023.0,55753.0,Diesel,Manual,First Owner,17.3,1605.0,,4.0,Nagpur,Trustmark Dealer,924000.0
+CAR00828,Honda,Hatchback,2009.0,113997.0,Petrol,Manual,First Owner,13.5,848.0,83.4,,Delhi,Dealer,109000.0
+CAR00829,Maruti,Hatchback,2018.0,26448.0,Petrol,Manual,First Owner,18.9,1050.0,94.9,7.0,Delhi,Individual,260000.0
+CAR00830,Honda,MPV,2018.0,128107.0,Diesel,Manual,First Owner,17.3,2029.0,81.9,7.0,Nagpur,Individual,401000.0
+CAR00831,Honda,MPV,2023.0,21336.0,Diesel,Manual,Second Owner,18.0,1895.0,141.9,5.0,Bengaluru,Dealer,1080000.0
+CAR00832,Honda,Hatchback,2020.0,91709.0,Petrol,Automatic,First Owner,16.2,1057.0,82.1,5.0,Delhi,Dealer,478000.0
+CAR00833,Maruti,Hatchback,2013.0,138662.0,Diesel,Automatic,Second Owner,19.6,932.0,86.1,5.0,Pune,Individual,135000.0
+CAR00834,Renault,SUV,2023.0,58423.0,Diesel,Automatic,First Owner,16.2,1521.0,184.1,5.0,Delhi,Trustmark Dealer,1072000.0
+CAR00835,Tata,MPV,2015.0,148616.0,Diesel,Manual,First Owner,19.9,2475.0,162.4,5.0,Hyderabad,Individual,371000.0
+CAR00836,Tata,Sedan,2017.0,163211.0,Diesel,Manual,Second Owner,20.3,1820.0,116.2,5.0,Hyderabad,Dealer,326000.0
+CAR00837,Skoda,Hatchback,2019.0,123953.0,Diesel,Manual,First Owner,16.0,885.0,90.3,5.0,Chennai,Individual,333000.0
+CAR00838,BMW,Sedan,2020.0,52573.0,Diesel,Automatic,First Owner,18.0,1466.0,129.8,5.0,Hyderabad,Individual,3007000.0
+CAR00839,Honda,Sedan,2012.0,248613.0,Petrol,Manual,First Owner,17.1,1416.0,121.9,4.0,Pune,Dealer,177000.0
+CAR00840,Mahindra,Hatchback,2022.0,95561.0,Diesel,Automatic,Third Owner,15.0,1206.0,65.7,5.0,Chennai,Dealer,617000.0
+CAR00841,Tata,,2013.0,169675.0,Petrol,Manual,First Owner,19.2,1298.0,63.0,5.0,Ahmedabad,Individual,118000.0
+CAR00842,Volkswagen,Sedan,2021.0,29504.0,CNG,Automatic,First Owner,24.3,1880.0,82.0,5.0,Hyderabad,Dealer,945000.0
+CAR00843,Maruti,Hatchback,2015.0,148693.0,Petrol,Manual,First Owner,18.9,1114.0,83.3,5.0,Pune,Dealer,132000.0
+CAR00844,Hyundai,Hatchback,2005.0,106650.0,Petrol,Manual,First Owner,19.0,1021.0,50.7,5.0,Ahmedabad,Dealer,66000.0
+CAR00845,Hyundai,Hatchback,2014.0,112712.0,Petrol,Manual,First Owner,15.8,847.0,51.8,5.0,Pune,Dealer,120000.0
+CAR00846,Tata,Hatchback,2015.0,146582.0,Diesel,Manual,Second Owner,15.4,1143.0,59.3,5.0,Pune,Individual,145000.0
+CAR00847,Maruti,Compact SUV,2020.0,59563.0,Petrol,Manual,First Owner,18.6,1234.0,123.2,5.0,Pune,Individual,482000.0
+CAR00848,Kia,SUV,2016.0,212800.0,Electric,Manual,First Owner,2.4,62.0,117.5,5.0,Hyderabad,Individual,461000.0
+CAR00849,Tata,SUV,2009.0,210235.0,Diesel,Automatic,Second Owner,22.7,2793.0,138.6,7.0,Nagpur,Dealer,114000.0
+CAR00850,Mahindra,Luxury,2010.0,238218.0,LPG,Manual,First Owner,18.6,2473.0,371.1,5.0,Hyderabad,Dealer,278000.0
+CAR00851,Honda,Compact SUV,2019.0,91885.0,Petrol,Manual,Second Owner,16.0,1614.0,108.2,5.0,Bengaluru,Individual,580000.0
+CAR00852,Volkswagen,Compact SUV,2011.0,139300.0,CNG,Manual,Second Owner,24.3,1306.0,84.4,5.0,Bengaluru,Individual,199000.0
+CAR00853,Toyota,Luxury,2020.0,89970.0,Diesel,Automatic,First Owner,11.4,2874.0,360.9,5.0,Nagpur,Individual,2043000.0
+CAR00854,Renault,Hatchback,2021.0,33819.0,CNG,Manual,First Owner,22.9,1020.0,48.5,5.0,Ahmedabad,Trustmark Dealer,336000.0
+CAR00855,BMW,Luxury,2008.0,260000.0,Diesel,Automatic,Fourth & Above,21.3,3786.0,182.8,,Chennai,Individual,553000.0
+CAR00856,Hyundai,Hatchback,2010.0,63548.0,Petrol,Manual,First Owner,17.8,1093.0,74.7,5.0,Mumbai,Dealer,117000.0
+CAR00857,Tata,Sedan,2016.0,84022.0,Petrol,Manual,First Owner,15.5,1437.0,127.1,4.0,Pune,Trustmark Dealer,295000.0
+CAR00858,Tata,Sedan,2021.0,50437.0,Petrol,Automatic,First Owner,12.3,1559.0,155.1,5.0,Chennai,Dealer,745000.0
+CAR00859,Mahindra,SUV,2010.0,260000.0,Diesel,Manual,Second Owner,19.4,2077.0,127.4,5.0,Pune,Individual,210000.0
+CAR00860,Maruti,Hatchback,2017.0,129909.0,Petrol,Automatic,First Owner,18.7,919.0,64.2,5.0,Delhi,Individual,201000.0
+CAR00861,,Sedan,2018.0,90327.0,LPG,Manual,First Owner,16.1,1792.0,135.9,7.0,Jaipur,Individual,317000.0
+CAR00862,Toyota,Compact SUV,2020.0,103334.0,Electric,Manual,First Owner,0.9,161.0,209.7,5.0,Chennai,Individual,641000.0
+CAR00863,Maruti,Compact SUV,2016.0,,Diesel,Manual,Third Owner,,1783.0,82.7,5.0,Delhi,Individual,204000.0
+CAR00864,Maruti,Compact SUV,2021.0,54336.0,Petrol,Manual,First Owner,17.3,1520.0,79.3,4.0,Chennai,Individual,474000.0
+CAR00865,Toyota,Luxury,2017.0,148722.0,CNG,Manual,First Owner,20.6,3104.0,286.0,5.0,Delhi,Individual,1014000.0
+CAR00866,Honda,Hatchback,2024.0,37499.0,Petrol,Automatic,First Owner,12.7,941.0,91.1,5.0,Mumbai,Dealer,844000.0
+CAR00867,Hyundai,Hatchback,2017.0,94298.0,Diesel,Manual,First Owner,16.6,833.0,91.3,5.0,Delhi,Individual,221000.0
+CAR00868,Mahindra,SUV,2012.0,218623.0,Petrol,Manual,First Owner,16.7,2043.0,253.1,7.0,Mumbai,Individual,400000.0
+CAR00869,Renault,Luxury,2010.0,228431.0,Petrol,Automatic,First Owner,14.1,3467.0,217.8,5.0,Mumbai,Trustmark Dealer,205000.0
+CAR00870,Volkswagen,Hatchback,2021.0,81948.0,Diesel,Automatic,Second Owner,18.4,1275.0,71.5,6.0,Hyderabad,Individual,586000.0
+CAR00871,Honda,SUV,2015.0,184207.0,Electric,Automatic,Second Owner,0.0,149.0,225.2,5.0,Kolkata,Individual,282000.0
+CAR00872,Mahindra,SUV,2009.0,194776.0,LPG,Manual,First Owner,14.3,2449.0,259.6,7.0,Hyderabad,Dealer,256000.0
+CAR00873,Kia,Compact SUV,2020.0,105499.0,Petrol,Automatic,First Owner,13.0,1605.0,133.7,5.0,Bengaluru,Individual,1092000.0
+CAR00874,BMW,Sedan,2020.0,83346.0,Diesel,Automatic,First Owner,16.7,1914.0,,5.0,Pune,Individual,3063000.0
+CAR00875,Toyota,Hatchback,2014.0,117025.0,CNG,Manual,Second Owner,23.6,922.0,71.9,5.0,Bengaluru,Individual,214000.0
+CAR00876,Honda,Sedan,2019.0,81942.0,LPG,Manual,Second Owner,19.1,1635.0,168.5,5.0,Delhi,Dealer,521000.0
+CAR00877,Honda,Sedan,2014.0,130175.0,Petrol,Automatic,Second Owner,16.1,1812.0,122.6,5.0,Pune,Dealer,302000.0
+CAR00878,Honda,Sedan,2010.0,102205.0,Petrol,Manual,First Owner,15.4,1208.0,118.4,5.0,Chennai,Individual,144000.0
+CAR00879,Mahindra,SUV,2019.0,117973.0,Petrol,Automatic,First Owner,13.8,2772.0,245.3,5.0,Ahmedabad,,1204000.0
+CAR00880,Toyota,MPV,2012.0,174221.0,Diesel,Manual,Fourth & Above,19.2,2107.0,144.8,5.0,Ahmedabad,Individual,240000.0
+CAR00881,Hyundai,Hatchback,2016.0,37792.0,Petrol,Manual,First Owner,13.2,1292.0,95.7,5.0,Mumbai,Dealer,278000.0
+CAR00882,Maruti,Sedan,2018.0,101910.0,Diesel,Manual,First Owner,16.5,2018.0,143.4,5.0,Delhi,Dealer,355000.0
+CAR00883,Volkswagen,SUV,2018.0,121272.0,Diesel,Automatic,First Owner,19.6,2287.0,194.6,6.0,Bengaluru,Individual,1041000.0
+CAR00884,Maruti,Hatchback,2017.0,71307.0,Petrol,Manual,First Owner,13.9,1023.0,45.8,5.0,Bengaluru,Dealer,187000.0
+CAR00885,Maruti,Sedan,2011.0,65954.0,Diesel,Manual,First Owner,18.3,1759.0,88.7,5.0,Delhi,Dealer,148000.0
+CAR00886,Tata,Sedan,2009.0,260000.0,Diesel,Manual,First Owner,16.7,1555.0,164.5,5.0,Bengaluru,Dealer,104000.0
+CAR00887,Hyundai,Hatchback,2024.0,37340.0,Petrol,Manual,First Owner,15.1,1216.0,54.0,5.0,Ahmedabad,Individual,496000.0
+CAR00888,Hyundai,Sedan,2019.0,67586.0,Petrol,Manual,Second Owner,17.1,2003.0,176.0,5.0,Ahmedabad,Individual,447000.0
+CAR00889,BMW,Sedan,2011.0,220142.0,Petrol,Automatic,First Owner,15.5,1107.0,95.8,5.0,Ahmedabad,Dealer,711000.0
+CAR00890,Skoda,Sedan,2020.0,66622.0,Diesel,Manual,First Owner,18.1,2032.0,84.9,5.0,Pune,Individual,832000.0
+CAR00891,Maruti,Compact SUV,2014.0,151895.0,CNG,Manual,First Owner,25.1,1029.0,130.2,5.0,Hyderabad,Dealer,181000.0
+CAR00892,Maruti,Hatchback,2018.0,143431.0,Diesel,Automatic,First Owner,19.7,1286.0,68.7,5.0,Chennai,Individual,209000.0
+CAR00893,Mahindra,Compact SUV,2021.0,12142.0,Diesel,Manual,First Owner,18.0,1672.0,79.4,5.0,Pune,Dealer,1151000.0
+CAR00894,Maruti,Hatchback,2011.0,73882.0,Diesel,Manual,First Owner,20.1,932.0,45.4,4.0,Bengaluru,Dealer,104000.0
+CAR00895,Maruti,Sedan,2009.0,95040.0,Petrol,Manual,First Owner,11.5,1431.0,85.4,7.0,Mumbai,Individual,98000.0
+CAR00896,Kia,SUV,2006.0,260000.0,Diesel,Manual,First Owner,21.6,2266.0,117.0,7.0,Delhi,Dealer,229000.0
+CAR00897,Toyota,Sedan,2007.0,260000.0,Petrol,Manual,First Owner,16.8,2018.0,178.0,4.0,Mumbai,Individual,145000.0
+CAR00898,Maruti,Hatchback,2010.0,260000.0,Diesel,Manual,First Owner,20.0,1182.0,56.4,5.0,Pune,Dealer,65000.0
+CAR00899,Maruti,Hatchback,2015.0,136886.0,Petrol,Manual,First Owner,13.2,801.0,,5.0,Delhi,Dealer,140000.0
+CAR00900,Maruti,Hatchback,2008.0,260000.0,Diesel,Manual,Third Owner,24.5,1195.0,91.6,5.0,Jaipur,Individual,65000.0
+CAR00901,Mahindra,SUV,2017.0,145843.0,Petrol,Manual,Second Owner,19.2,2033.0,228.3,5.0,Bengaluru,Individual,583000.0
+CAR00902,Ford,Compact SUV,2020.0,81378.0,Petrol,Manual,First Owner,19.1,1153.0,118.2,4.0,Bengaluru,Individual,408000.0
+CAR00903,Hyundai,Hatchback,2015.0,162816.0,Petrol,Automatic,First Owner,15.4,1123.0,54.6,5.0,Nagpur,Trustmark Dealer,173000.0
+CAR00904,Renault,SUV,2022.0,61114.0,Petrol,Manual,First Owner,16.5,2636.0,101.5,5.0,Chennai,Individual,783000.0
+CAR00905,Hyundai,Hatchback,2021.0,34541.0,Diesel,Manual,Second Owner,16.9,1037.0,63.0,4.0,Nagpur,Individual,303000.0
+CAR00906,Maruti,Hatchback,2020.0,57746.0,Petrol,Manual,Second Owner,12.1,854.0,73.3,5.0,Pune,Dealer,221000.0
+CAR00907,Skoda,Compact SUV,2010.0,147248.0,Diesel,Manual,First Owner,15.0,1276.0,120.0,5.0,Mumbai,Individual,221000.0
+CAR00908,Tata,Hatchback,2009.0,235673.0,Diesel,Manual,Second Owner,19.1,1082.0,55.8,5.0,Hyderabad,Dealer,65000.0
+CAR00909,Tata,Sedan,2011.0,246337.0,Petrol,Manual,First Owner,15.9,1214.0,126.7,7.0,Delhi,Individual,103000.0
+CAR00910,Tata,Hatchback,2019.0,58081.0,Petrol,Manual,Second Owner,16.9,1286.0,73.4,5.0,Kolkata,Individual,255000.0
+CAR00911,Toyota,MPV,2014.0,171321.0,Diesel,Manual,Second Owner,15.6,2075.0,123.6,7.0,Hyderabad,Individual,369000.0
+CAR00912,Hyundai,Hatchback,2013.0,185259.0,Petrol,Manual,Second Owner,13.7,1241.0,82.4,5.0,Mumbai,Individual,104000.0
+CAR00913,Tata,SUV,2012.0,260000.0,Diesel,Manual,First Owner,16.7,2977.0,209.6,5.0,Kolkata,Dealer,191000.0
+CAR00914,Honda,Compact SUV,2016.0,164429.0,Petrol,Automatic,Second Owner,15.4,1266.0,96.5,5.0,Bengaluru,Individual,265000.0
+CAR00915,Renault,Hatchback,,65493.0,Petrol,Manual,First Owner,13.3,1063.0,71.1,5.0,Jaipur,Dealer,236000.0
+CAR00916,Kia,Compact SUV,2013.0,201819.0,Petrol,Automatic,First Owner,17.1,1025.0,132.2,5.0,Delhi,,345000.0
+CAR00917,Renault,Compact SUV,2005.0,260000.0,Petrol,Manual,Second Owner,16.0,1274.0,71.2,5.0,Chennai,Dealer,65000.0
+CAR00918,Honda,Sedan,2024.0,35831.0,Petrol,Manual,Third Owner,12.6,2125.0,111.2,5.0,Kolkata,Individual,954000.0
+CAR00919,Hyundai,Compact SUV,2021.0,63318.0,Petrol,Automatic,Third Owner,12.9,1654.0,82.0,5.0,Pune,Individual,514000.0
+CAR00920,Maruti,Hatchback,2013.0,,Petrol,Manual,Second Owner,21.1,827.0,62.6,5.0,Nagpur,Dealer,74000.0
+CAR00921,Hyundai,Hatchback,2019.0,142056.0,Petrol,Manual,Second Owner,17.5,940.0,95.0,5.0,Hyderabad,Dealer,243000.0
+CAR00922,Toyota,Hatchback,2021.0,111737.0,Petrol,Manual,First Owner,,1175.0,96.4,5.0,Mumbai,Individual,601000.0
+CAR00923,Renault,Hatchback,2020.0,60024.0,Diesel,Manual,First Owner,17.8,910.0,75.7,7.0,Pune,Dealer,325000.0
+CAR00924,Honda,Sedan,2019.0,49967.0,CNG,Automatic,Second Owner,23.7,1973.0,133.2,4.0,Bengaluru,Individual,582000.0
+CAR00925,Honda,MPV,2024.0,11176.0,Petrol,Manual,First Owner,16.1,2230.0,113.1,5.0,Pune,Individual,1542000.0
+CAR00926,Toyota,Luxury,2017.0,161497.0,Diesel,Manual,Second Owner,16.2,2897.0,409.0,5.0,Ahmedabad,Individual,759000.0
+CAR00927,Toyota,Luxury,2010.0,140821.0,Diesel,Manual,First Owner,20.8,1833.0,305.7,5.0,Mumbai,Dealer,569000.0
+CAR00928,,Hatchback,2016.0,159104.0,Petrol,Automatic,First Owner,17.6,983.0,78.6,5.0,Ahmedabad,Dealer,127000.0
+CAR00929,Maruti,Sedan,2021.0,22457.0,Diesel,Manual,Second Owner,17.6,1354.0,134.2,5.0,Mumbai,Individual,451000.0
+CAR00930,Maruti,Sedan,2015.0,77313.0,Petrol,Manual,First Owner,13.5,2184.0,119.3,5.0,Bengaluru,Individual,260000.0
+CAR00931,Kia,MPV,2021.0,101342.0,Diesel,Manual,Third Owner,18.1,1951.0,175.5,7.0,Jaipur,Individual,936000.0
+CAR00932,Kia,SUV,2016.0,113631.0,Petrol,Automatic,First Owner,17.8,1768.0,113.9,5.0,Pune,Individual,751000.0
+CAR00933,Tata,Hatchback,2023.0,53544.0,Petrol,Automatic,Third Owner,17.9,903.0,73.2,5.0,Hyderabad,Individual,378000.0
+CAR00934,Mahindra,Hatchback,2017.0,125720.0,Petrol,Manual,Second Owner,18.2,1205.0,91.7,5.0,Jaipur,Individual,304000.0
+CAR00935,Hyundai,SUV,2021.0,45016.0,Petrol,Automatic,First Owner,12.7,2827.0,228.0,5.0,Pune,Dealer,1037000.0
+CAR00936,Hyundai,Sedan,2022.0,51282.0,Petrol,Manual,First Owner,14.5,1458.0,111.3,5.0,Mumbai,Individual,730000.0
+CAR00937,Tata,MPV,2014.0,260000.0,Diesel,Manual,First Owner,20.2,1873.0,96.0,7.0,Bengaluru,Individual,185000.0
+CAR00938,Hyundai,Hatchback,2006.0,161539.0,Petrol,Manual,Fourth & Above,19.0,1290.0,83.0,5.0,Pune,Individual,65000.0
+CAR00939,Maruti,Hatchback,2012.0,182021.0,CNG,Manual,First Owner,24.9,959.0,70.4,5.0,Chennai,Individual,68000.0
+CAR00940,Mahindra,MPV,2011.0,131577.0,Diesel,Automatic,First Owner,14.5,1708.0,83.4,7.0,Chennai,Dealer,349000.0
+CAR00941,Skoda,SUV,2014.0,149801.0,Petrol,Manual,Second Owner,19.9,2247.0,246.0,5.0,Mumbai,Individual,457000.0
+CAR00942,Tata,Compact SUV,2023.0,27144.0,Petrol,Manual,First Owner,18.0,1459.0,153.2,5.0,Delhi,Individual,990000.0
+CAR00943,Honda,SUV,2019.0,67573.0,Diesel,Automatic,Second Owner,17.5,1593.0,246.3,5.0,Bengaluru,Dealer,973000.0
+CAR00944,Hyundai,Sedan,2018.0,155275.0,Petrol,Automatic,Third Owner,17.1,1210.0,154.6,5.0,Chennai,Individual,262000.0
+CAR00945,Mahindra,SUV,,98244.0,LPG,Automatic,First Owner,17.2,1550.0,177.4,5.0,Kolkata,Individual,783000.0
+CAR00946,Volkswagen,Hatchback,2021.0,49748.0,Petrol,Automatic,First Owner,13.5,904.0,82.4,5.0,Mumbai,Individual,539000.0
+CAR00947,Maruti,MPV,2012.0,213004.0,Diesel,Automatic,First Owner,18.3,1581.0,123.4,5.0,Chennai,Dealer,167000.0
+CAR00948,Honda,Hatchback,2020.0,118933.0,LPG,Manual,First Owner,21.3,997.0,96.0,5.0,Hyderabad,Dealer,340000.0
+CAR00949,Mahindra,SUV,2012.0,258515.0,LPG,Manual,First Owner,12.7,2234.0,137.7,5.0,Mumbai,Individual,302000.0
+CAR00950,Maruti,Compact SUV,2017.0,123175.0,Petrol,Manual,Second Owner,10.9,1301.0,96.8,5.0,Mumbai,Individual,233000.0
+CAR00951,Ford,Hatchback,2020.0,97639.0,Petrol,Manual,Third Owner,19.3,1189.0,94.7,5.0,Hyderabad,Individual,254000.0
+CAR00952,Kia,Compact SUV,2006.0,242122.0,Petrol,Manual,Third Owner,15.9,1324.0,130.6,5.0,Mumbai,Dealer,103000.0
+CAR00953,Tata,Compact SUV,2016.0,134818.0,Diesel,Manual,Second Owner,16.8,1398.0,93.7,4.0,Mumbai,Individual,253000.0
+CAR00954,Maruti,Hatchback,2015.0,165131.0,Diesel,Manual,Second Owner,20.0,1063.0,45.1,5.0,Delhi,Individual,108000.0
+CAR00955,Maruti,Hatchback,2013.0,260000.0,Diesel,Manual,First Owner,17.6,1025.0,75.3,5.0,Mumbai,Individual,66000.0
+CAR00956,Honda,Hatchback,2015.0,89634.0,Petrol,Manual,First Owner,15.2,1113.0,78.4,5.0,Delhi,Individual,221000.0
+CAR00957,Kia,Hatchback,2018.0,139938.0,Petrol,Manual,Second Owner,14.7,1101.0,63.8,5.0,Chennai,Dealer,340000.0
+CAR00958,Hyundai,Sedan,2018.0,129855.0,Diesel,Manual,First Owner,13.8,1809.0,81.8,5.0,Mumbai,Dealer,387000.0
+CAR00959,Honda,Sedan,2018.0,87198.0,CNG,Manual,Second Owner,,2175.0,169.8,5.0,Mumbai,Individual,479000.0
+CAR00960,Tata,Compact SUV,2022.0,43357.0,Petrol,Manual,First Owner,15.6,1609.0,105.1,5.0,Mumbai,Individual,742000.0
+CAR00961,Ford,Hatchback,2010.0,260000.0,Diesel,Manual,Third Owner,19.5,1077.0,93.5,5.0,Kolkata,Trustmark Dealer,66000.0
+CAR00962,Hyundai,Sedan,2020.0,42875.0,Petrol,Manual,First Owner,15.2,1647.0,105.6,5.0,Pune,Individual,361000.0
+CAR00963,Mahindra,Compact SUV,2023.0,55123.0,CNG,Manual,First Owner,23.4,1544.0,72.1,5.0,Bengaluru,Trustmark Dealer,1048000.0
+CAR00964,Renault,Compact SUV,2021.0,48395.0,Petrol,Manual,First Owner,18.2,1636.0,103.9,5.0,Pune,Dealer,663000.0
+CAR00965,Maruti,Hatchback,2011.0,260000.0,CNG,Manual,First Owner,21.5,899.0,82.0,5.0,Pune,Individual,65000.0
+CAR00966,Tata,,2011.0,220981.0,Diesel,Manual,First Owner,23.3,1961.0,158.6,5.0,Bengaluru,Individual,131000.0
+CAR00967,Hyundai,Hatchback,2024.0,24305.0,Petrol,Automatic,First Owner,18.2,1055.0,55.3,5.0,Bengaluru,Individual,734000.0
+CAR00968,Honda,Hatchback,2013.0,118373.0,Diesel,Automatic,First Owner,20.7,1152.0,90.4,5.0,Hyderabad,Individual,185000.0
+CAR00969,Maruti,Hatchback,2015.0,161669.0,CNG,Manual,Second Owner,18.4,927.0,84.2,5.0,Chennai,Dealer,122000.0
+CAR00970,Mahindra,Compact SUV,2024.0,66486.0,Diesel,Manual,First Owner,21.7,1313.0,110.2,5.0,Bengaluru,Individual,1463000.0
+CAR00971,Ford,Hatchback,2019.0,108746.0,Petrol,Manual,First Owner,14.4,893.0,60.5,5.0,Delhi,Trustmark Dealer,260000.0
+CAR00972,Hyundai,Luxury,2012.0,137713.0,Diesel,Manual,First Owner,17.4,2380.0,377.2,5.0,Ahmedabad,Trustmark Dealer,365000.0
+CAR00973,Maruti,Sedan,2007.0,231103.0,Diesel,Automatic,First Owner,21.7,2111.0,89.5,5.0,Bengaluru,Individual,70000.0
+CAR00974,Tata,SUV,2017.0,165125.0,Petrol,Manual,First Owner,13.9,1554.0,221.3,5.0,Jaipur,Dealer,458000.0
+CAR00975,Audi,Luxury,2019.0,9063.0,Diesel,Automatic,First Owner,16.9,2029.0,275.1,5.0,Bengaluru,Dealer,7641000.0
+CAR00976,Hyundai,Hatchback,2021.0,112787.0,Petrol,Automatic,First Owner,15.7,934.0,56.6,5.0,Kolkata,Dealer,359000.0
+CAR00977,Renault,Compact SUV,2017.0,74934.0,Petrol,Automatic,First Owner,16.8,1401.0,146.2,5.0,Mumbai,Individual,356000.0
+CAR00978,Maruti,Hatchback,2020.0,43817.0,Diesel,Manual,First Owner,14.8,1287.0,73.0,5.0,Bengaluru,Dealer,335000.0
+CAR00979,Tata,Hatchback,2017.0,169774.0,Diesel,Automatic,Second Owner,18.5,1011.0,48.8,5.0,Delhi,Individual,178000.0
+CAR00980,Maruti,Sedan,2021.0,34721.0,Petrol,Automatic,Second Owner,17.4,1803.0,170.3,5.0,Hyderabad,Dealer,594000.0
+CAR00981,Maruti,Hatchback,2005.0,202678.0,Petrol,Manual,First Owner,14.4,852.0,60.5,5.0,Hyderabad,Dealer,65000.0
+CAR00982,Hyundai,MPV,2010.0,224853.0,Petrol,Manual,First Owner,14.7,1456.0,139.7,5.0,Delhi,Trustmark Dealer,128000.0
+CAR00983,Tata,SUV,2015.0,115052.0,Petrol,Manual,Second Owner,19.2,,259.2,5.0,Pune,Individual,361000.0
+CAR00984,Maruti,Hatchback,2017.0,141696.0,CNG,Manual,First Owner,23.9,1086.0,92.2,5.0,Bengaluru,Individual,168000.0
+CAR00985,Tata,Hatchback,2011.0,247702.0,Petrol,Manual,First Owner,17.9,1212.0,50.5,5.0,Delhi,Dealer,70000.0
+CAR00986,Maruti,Hatchback,2020.0,107887.0,Petrol,Manual,First Owner,13.0,1206.0,99.2,5.0,Delhi,Dealer,235000.0
+CAR00987,Hyundai,Hatchback,2013.0,134300.0,Diesel,Manual,First Owner,18.6,1007.0,49.3,5.0,Bengaluru,Individual,108000.0
+CAR00988,Tata,Sedan,,119675.0,Petrol,Manual,First Owner,18.8,1702.0,119.9,5.0,Nagpur,Individual,321000.0
+CAR00989,Maruti,Hatchback,2018.0,79036.0,Petrol,Manual,First Owner,17.2,1239.0,95.5,5.0,Nagpur,Individual,180000.0
+CAR00990,Volkswagen,Compact SUV,2013.0,120623.0,CNG,Manual,Fourth & Above,24.7,1780.0,120.5,5.0,Mumbai,Dealer,277000.0
+CAR00991,Tata,Hatchback,2021.0,66462.0,Petrol,Manual,First Owner,12.7,940.0,51.5,5.0,Jaipur,Individual,289000.0
+CAR00992,Honda,Compact SUV,2009.0,144848.0,Petrol,Manual,Third Owner,14.8,1516.0,118.7,5.0,Ahmedabad,Individual,149000.0
+CAR00993,Tata,Sedan,2015.0,114946.0,Petrol,Manual,Second Owner,15.4,1169.0,172.6,5.0,Hyderabad,Individual,220000.0
+CAR00994,Maruti,Hatchback,2020.0,53242.0,Diesel,Manual,First Owner,,1178.0,60.1,5.0,Pune,Dealer,325000.0
+CAR00995,Hyundai,Hatchback,2012.0,253774.0,Petrol,Manual,Second Owner,20.1,1198.0,75.3,5.0,Bengaluru,Individual,97000.0
+CAR00996,Tata,Compact SUV,2019.0,101730.0,Petrol,Manual,First Owner,15.9,1178.0,100.2,5.0,Hyderabad,Dealer,397000.0
+CAR00997,Tata,Sedan,2015.0,80822.0,Diesel,Manual,First Owner,21.1,1143.0,152.2,5.0,Bengaluru,Individual,262000.0
+CAR00998,Mahindra,SUV,2016.0,133328.0,Petrol,Automatic,First Owner,16.5,2947.0,97.6,5.0,Ahmedabad,Individual,585000.0
+CAR00999,Honda,Sedan,2014.0,187839.0,Petrol,Manual,First Owner,12.8,1661.0,167.5,5.0,Mumbai,Dealer,260000.0
+CAR01000,Maruti,Hatchback,2020.0,39965.0,Petrol,Manual,First Owner,13.2,1242.0,89.1,5.0,Delhi,Individual,318000.0
+CAR01001,Mahindra,SUV,2008.0,260000.0,Petrol,Manual,First Owner,13.9,2708.0,121.3,5.0,Pune,Individual,175000.0
+CAR01002,Maruti,Hatchback,2021.0,52248.0,Diesel,Automatic,First Owner,14.1,1145.0,81.9,5.0,Pune,Dealer,345000.0
+CAR01003,Mahindra,SUV,2013.0,260000.0,Petrol,Automatic,Second Owner,,2624.0,151.2,5.0,Bengaluru,,383000.0
+CAR01004,Maruti,Hatchback,2020.0,13253.0,Petrol,Manual,First Owner,15.2,1155.0,58.2,5.0,Chennai,Dealer,319000.0
+CAR01005,Honda,SUV,2021.0,54094.0,Diesel,Automatic,First Owner,19.1,2739.0,145.9,5.0,Mumbai,Individual,1381000.0
+CAR01006,Maruti,Hatchback,2013.0,98648.0,Diesel,Automatic,First Owner,19.6,1005.0,53.0,5.0,Pune,Individual,140000.0
+CAR01007,Honda,Sedan,2021.0,78325.0,Petrol,Manual,First Owner,13.2,1603.0,137.0,5.0,Bengaluru,Dealer,860000.0
+CAR01008,Maruti,Hatchback,2014.0,111255.0,Petrol,Manual,First Owner,13.2,1019.0,97.6,5.0,Mumbai,Dealer,126000.0
+CAR01009,Hyundai,Hatchback,2022.0,49603.0,CNG,Manual,First Owner,25.1,1018.0,85.9,5.0,Kolkata,Dealer,360000.0
+CAR01010,Honda,Sedan,2021.0,99751.0,Diesel,Manual,Third Owner,22.1,1564.0,134.7,5.0,Chennai,Individual,543000.0
+CAR01011,Mahindra,SUV,2009.0,128938.0,Diesel,Automatic,First Owner,18.5,2848.0,,5.0,Delhi,Individual,257000.0
+CAR01012,Maruti,Hatchback,2018.0,133432.0,Diesel,Manual,First Owner,16.7,870.0,91.8,5.0,Mumbai,Individual,212000.0
+CAR01013,Maruti,Hatchback,2021.0,52494.0,Petrol,Manual,First Owner,15.1,975.0,92.1,5.0,Mumbai,Trustmark Dealer,356000.0
+CAR01014,Skoda,Compact SUV,2018.0,128852.0,Diesel,Manual,First Owner,18.7,1217.0,132.0,5.0,Hyderabad,Dealer,527000.0
+CAR01015,Volkswagen,Compact SUV,2015.0,141779.0,Petrol,Automatic,Third Owner,16.9,1158.0,99.2,5.0,Bengaluru,Individual,302000.0
+CAR01016,Maruti,Hatchback,2015.0,130593.0,Petrol,Automatic,Second Owner,14.1,1291.0,84.4,5.0,Bengaluru,Individual,125000.0
+CAR01017,Toyota,MPV,2016.0,25223.0,Diesel,Automatic,First Owner,18.6,1744.0,128.5,5.0,Delhi,Dealer,1040000.0
+CAR01018,Tata,SUV,2021.0,77633.0,Diesel,Manual,Second Owner,19.4,2303.0,187.5,5.0,Ahmedabad,Individual,712000.0
+CAR01019,Mahindra,MPV,2022.0,57354.0,Diesel,Manual,First Owner,,2444.0,89.9,5.0,Hyderabad,Individual,1107000.0
+CAR01020,Maruti,Compact SUV,2018.0,22965.0,LPG,Automatic,First Owner,22.0,1511.0,75.9,5.0,Delhi,Dealer,
+CAR01021,Hyundai,Hatchback,2019.0,138037.0,Petrol,Manual,Second Owner,13.0,973.0,53.8,,Kolkata,Individual,214000.0
+CAR01022,Volkswagen,Hatchback,2016.0,135599.0,Diesel,Manual,First Owner,17.6,1037.0,82.4,5.0,Kolkata,Individual,216000.0
+CAR01023,Maruti,Sedan,2009.0,192820.0,Petrol,Manual,First Owner,13.9,1293.0,101.9,5.0,Hyderabad,Individual,90000.0
+CAR01024,Volkswagen,Hatchback,2013.0,192579.0,Petrol,Automatic,First Owner,15.6,916.0,57.6,5.0,Kolkata,Trustmark Dealer,191000.0
+CAR01025,Tata,SUV,2021.0,49896.0,Diesel,Automatic,First Owner,20.5,2536.0,102.8,5.0,Delhi,Trustmark Dealer,918000.0
+CAR01026,Kia,Hatchback,2020.0,97135.0,Diesel,Manual,First Owner,19.0,1147.0,50.8,5.0,Pune,Trustmark Dealer,440000.0
+CAR01027,Hyundai,SUV,2016.0,80869.0,Diesel,Manual,Second Owner,24.7,1988.0,91.3,5.0,Bengaluru,Individual,429000.0
+CAR01028,Mahindra,SUV,2017.0,128420.0,Petrol,Manual,First Owner,18.0,2264.0,173.3,5.0,Delhi,Individual,824000.0
+CAR01029,Volkswagen,SUV,2018.0,91406.0,Diesel,Automatic,First Owner,19.3,1668.0,,5.0,Nagpur,Trustmark Dealer,807000.0
+CAR01030,Volkswagen,MPV,2015.0,132517.0,Diesel,Manual,First Owner,17.3,1731.0,113.1,5.0,Bengaluru,Individual,419000.0
+CAR01031,Tata,MPV,2007.0,260000.0,Petrol,Manual,First Owner,17.8,2093.0,117.1,4.0,Chennai,Individual,94000.0
+CAR01032,Maruti,Hatchback,2023.0,36713.0,Diesel,Manual,First Owner,20.5,1134.0,56.3,5.0,Chennai,Dealer,386000.0
+CAR01033,Volkswagen,Hatchback,2024.0,27238.0,CNG,Manual,First Owner,22.5,1152.0,54.5,5.0,Bengaluru,Dealer,789000.0
+CAR01034,Hyundai,Hatchback,2021.0,50856.0,Diesel,Automatic,First Owner,16.9,967.0,58.6,5.0,Delhi,Dealer,359000.0
+CAR01035,Renault,Hatchback,2012.0,260000.0,Petrol,Manual,First Owner,16.1,906.0,49.8,5.0,Jaipur,Individual,71000.0
+CAR01036,Renault,Sedan,2006.0,171275.0,Petrol,Manual,First Owner,17.4,1500.0,102.0,5.0,Delhi,Individual,88000.0
+CAR01037,Hyundai,Sedan,2016.0,89563.0,Petrol,Automatic,First Owner,15.8,2093.0,90.2,7.0,Nagpur,Individual,325000.0
+CAR01038,Toyota,MPV,2022.0,80435.0,Diesel,Automatic,First Owner,17.5,2357.0,103.5,5.0,Hyderabad,Individual,1444000.0
+CAR01039,BMW,SUV,2021.0,64630.0,Petrol,Automatic,First Owner,16.1,2269.0,246.4,5.0,Pune,Dealer,6201000.0
+CAR01040,Renault,Hatchback,2017.0,68086.0,Petrol,Automatic,First Owner,13.5,1216.0,55.7,,Delhi,Dealer,205000.0
+CAR01041,Honda,Luxury,2020.0,75836.0,Petrol,Automatic,First Owner,18.1,2269.0,156.4,5.0,Ahmedabad,Dealer,1111000.0
+CAR01042,Mahindra,Compact SUV,2016.0,127695.0,Electric,Manual,First Owner,2.2,108.0,119.4,5.0,Mumbai,Dealer,408000.0
+CAR01043,Mahindra,SUV,2021.0,83149.0,Diesel,Manual,Second Owner,15.4,,97.7,5.0,Nagpur,Dealer,1055000.0
+CAR01044,Honda,Sedan,2017.0,155156.0,Petrol,Automatic,First Owner,14.8,2093.0,152.9,5.0,Delhi,Dealer,411000.0
+CAR01045,Mahindra,MPV,2020.0,24250.0,Diesel,Manual,Second Owner,20.5,2112.0,177.3,7.0,Delhi,Individual,1091000.0
+CAR01046,Maruti,Hatchback,,222863.0,LPG,Manual,Second Owner,20.9,1086.0,46.3,4.0,Hyderabad,Individual,65000.0
+CAR01047,Tata,SUV,2018.0,45977.0,LPG,Automatic,Fourth & Above,17.7,1603.0,183.8,5.0,Bengaluru,Dealer,466000.0
+CAR01048,Ford,SUV,2007.0,238606.0,Petrol,Manual,First Owner,16.5,2201.0,234.6,6.0,Pune,Individual,150000.0
+CAR01049,Tata,MPV,2024.0,21990.0,Diesel,Automatic,First Owner,21.6,1433.0,144.9,5.0,Delhi,Individual,921000.0
+CAR01050,Honda,SUV,2014.0,227773.0,Petrol,Manual,First Owner,,1818.0,124.9,5.0,Chennai,Individual,270000.0
+CAR01051,Mahindra,SUV,2008.0,260000.0,Petrol,Automatic,Second Owner,14.3,2417.0,90.5,5.0,,Dealer,191000.0
+CAR01052,Kia,Hatchback,2021.0,3946.0,Petrol,Manual,Third Owner,15.3,943.0,90.6,5.0,Pune,Dealer,613000.0
+CAR01053,Maruti,Hatchback,2023.0,8304.0,Petrol,Manual,Second Owner,18.4,1071.0,58.1,5.0,Jaipur,Dealer,439000.0
+CAR01054,,Hatchback,2015.0,214012.0,CNG,Manual,Second Owner,26.2,1173.0,73.9,5.0,Nagpur,Individual,155000.0
+CAR01055,Toyota,SUV,2008.0,194093.0,Petrol,Automatic,Second Owner,13.1,2411.0,173.1,5.0,Chennai,Individual,251000.0
+CAR01056,Honda,MPV,2011.0,142357.0,Petrol,Automatic,First Owner,16.1,1489.0,144.7,5.0,Kolkata,Dealer,259000.0
+CAR01057,Hyundai,Hatchback,2013.0,256967.0,CNG,Manual,First Owner,22.5,877.0,66.0,5.0,Bengaluru,Individual,87000.0
+CAR01058,Hyundai,Luxury,2005.0,260000.0,Petrol,Manual,Third Owner,19.7,3303.0,353.4,5.0,Ahmedabad,Individual,88000.0
+CAR01059,Maruti,SUV,2015.0,200278.0,Diesel,Manual,First Owner,14.3,2142.0,,5.0,Pune,Dealer,304000.0
+CAR01060,Mahindra,MPV,2022.0,86903.0,Diesel,Manual,First Owner,19.7,2044.0,124.7,5.0,,Individual,1350000.0
+CAR01061,Mahindra,SUV,2008.0,137349.0,Diesel,Manual,Third Owner,22.7,2694.0,147.6,7.0,Hyderabad,Dealer,280000.0
+CAR01062,Maruti,Hatchback,2012.0,93811.0,Diesel,Manual,First Owner,19.2,818.0,66.6,5.0,Delhi,Dealer,107000.0
+CAR01063,Maruti,Hatchback,2012.0,162699.0,Diesel,Manual,First Owner,21.2,1136.0,97.1,5.0,Hyderabad,Dealer,102000.0
+CAR01064,Tata,SUV,2012.0,232967.0,Diesel,Manual,First Owner,21.5,2398.0,157.9,5.0,Kolkata,Individual,203000.0
+CAR01065,Ford,MPV,2007.0,260000.0,Diesel,Manual,First Owner,21.8,1529.0,88.6,5.0,Mumbai,Trustmark Dealer,120000.0
+CAR01066,Hyundai,Hatchback,2022.0,49570.0,,Automatic,First Owner,18.9,1013.0,67.8,5.0,Mumbai,Trustmark Dealer,515000.0
+CAR01067,Honda,MPV,2021.0,71310.0,Petrol,Manual,First Owner,16.5,1646.0,165.1,5.0,Kolkata,Individual,780000.0
+CAR01068,Skoda,Hatchback,2019.0,103601.0,Diesel,Automatic,First Owner,20.0,1300.0,91.4,5.0,Kolkata,Dealer,510000.0
+CAR01069,Tata,Hatchback,2020.0,77754.0,Petrol,Manual,First Owner,16.8,877.0,93.1,5.0,Hyderabad,Individual,300000.0
+CAR01070,Renault,Hatchback,2017.0,103745.0,Petrol,Automatic,First Owner,16.1,1193.0,56.6,5.0,Delhi,Dealer,215000.0
+CAR01071,Mahindra,MPV,2008.0,89764.0,Petrol,Automatic,Third Owner,15.4,1528.0,118.4,5.0,Pune,Individual,203000.0
+CAR01072,Mahindra,Compact SUV,2017.0,79659.0,Petrol,Manual,First Owner,,1053.0,107.4,5.0,,Trustmark Dealer,528000.0
+CAR01073,Tata,Sedan,2016.0,92107.0,Petrol,Manual,First Owner,17.0,1376.0,171.3,5.0,Bengaluru,Individual,301000.0
+CAR01074,Ford,Sedan,2018.0,107068.0,Diesel,Manual,First Owner,17.2,1420.0,161.6,5.0,Mumbai,Individual,357000.0
+CAR01075,Toyota,MPV,2024.0,39774.0,Petrol,Manual,First Owner,16.5,1690.0,175.8,5.0,Hyderabad,Individual,1837000.0
+CAR01076,Toyota,MPV,2018.0,142956.0,Diesel,Manual,Third Owner,19.8,2070.0,93.5,5.0,Delhi,Dealer,580000.0
+CAR01077,Maruti,MPV,2021.0,35298.0,Diesel,Manual,First Owner,19.2,2414.0,88.7,7.0,Pune,Individual,678000.0
+CAR01078,Renault,Compact SUV,2022.0,63661.0,CNG,Manual,First Owner,17.9,1639.0,116.8,5.0,Pune,Individual,566000.0
+CAR01079,Kia,Sedan,2021.0,106855.0,LPG,Manual,First Owner,20.0,2069.0,80.8,5.0,Chennai,Individual,802000.0
+CAR01080,Toyota,Hatchback,2019.0,93634.0,Diesel,Manual,First Owner,19.7,836.0,55.5,5.0,Chennai,Individual,494000.0
+CAR01081,Kia,Sedan,2021.0,87627.0,Petrol,Automatic,First Owner,19.3,1328.0,157.7,4.0,Bengaluru,Individual,888000.0
+CAR01082,Toyota,Hatchback,2005.0,260000.0,Petrol,Automatic,First Owner,20.2,886.0,53.0,5.0,Kolkata,Individual,81000.0
+CAR01083,Hyundai,Sedan,2019.0,84360.0,Petrol,Manual,First Owner,20.8,2172.0,169.9,5.0,Pune,Individual,392000.0
+CAR01084,Mahindra,MPV,2023.0,68522.0,Diesel,Manual,First Owner,13.7,2012.0,161.6,5.0,Pune,Dealer,1467000.0
+CAR01085,Mahindra,Luxury,2016.0,90947.0,Petrol,Automatic,First Owner,13.8,1901.0,314.1,5.0,Hyderabad,Trustmark Dealer,993000.0
+CAR01086,Tata,Compact SUV,2016.0,202484.0,Petrol,Automatic,Second Owner,12.8,1755.0,102.8,5.0,Delhi,Individual,222000.0
+CAR01087,Honda,MPV,2021.0,66834.0,Petrol,Manual,First Owner,13.8,2497.0,143.4,4.0,Mumbai,Individual,980000.0
+CAR01088,Maruti,Hatchback,2022.0,30664.0,CNG,Manual,First Owner,23.0,871.0,63.1,5.0,Ahmedabad,Individual,328000.0
+CAR01089,Maruti,SUV,2017.0,189176.0,Diesel,Manual,First Owner,18.6,2659.0,243.6,5.0,Pune,Individual,336000.0
+CAR01090,Renault,Compact SUV,2023.0,65357.0,Petrol,Automatic,First Owner,15.6,1712.0,117.9,5.0,Mumbai,Individual,742000.0
+CAR01091,Mahindra,SUV,2012.0,159205.0,Petrol,Automatic,Second Owner,15.3,2644.0,236.0,7.0,Mumbai,Dealer,399000.0
+CAR01092,Hyundai,Sedan,2013.0,164537.0,LPG,Manual,First Owner,14.7,1100.0,84.0,5.0,Kolkata,Individual,170000.0
+CAR01093,Kia,Luxury,2006.0,260000.0,Diesel,Manual,Third Owner,19.1,2425.0,205.4,5.0,Delhi,Individual,197000.0
+CAR01094,Honda,Sedan,2016.0,144212.0,Petrol,Manual,First Owner,16.3,1564.0,142.8,5.0,Bengaluru,Dealer,365000.0
+CAR01095,Skoda,Hatchback,2014.0,81276.0,Petrol,Manual,First Owner,13.8,956.0,66.4,5.0,Kolkata,Individual,263000.0
+CAR01096,Maruti,Hatchback,2023.0,64906.0,Petrol,Manual,First Owner,16.4,1268.0,76.4,5.0,Ahmedabad,Dealer,346000.0
+CAR01097,BMW,Sedan,2019.0,135314.0,Diesel,Automatic,First Owner,22.1,1708.0,137.3,5.0,Chennai,Individual,2876000.0
+CAR01098,Maruti,Sedan,,49010.0,Diesel,Manual,First Owner,19.3,1791.0,85.0,5.0,Delhi,Individual,375000.0
+CAR01099,Audi,Luxury,2013.0,191446.0,Diesel,Automatic,Third Owner,16.3,,345.3,5.0,Pune,Trustmark Dealer,1965000.0
+CAR01100,Tata,Hatchback,2023.0,59524.0,Petrol,Manual,Second Owner,17.4,1230.0,80.2,5.0,Chennai,Dealer,434000.0
+CAR01101,Renault,MPV,2018.0,127887.0,Petrol,Manual,First Owner,15.2,2237.0,95.5,5.0,Ahmedabad,Dealer,332000.0
+CAR01102,Maruti,Hatchback,2023.0,45247.0,Petrol,Manual,First Owner,18.7,879.0,71.0,5.0,Pune,Dealer,380000.0
+CAR01103,Maruti,,2022.0,44468.0,Petrol,Automatic,Second Owner,15.5,1204.0,70.2,5.0,Chennai,Individual,299000.0
+CAR01104,Toyota,Compact SUV,2005.0,206214.0,CNG,Manual,First Owner,22.5,1533.0,88.7,5.0,Hyderabad,Individual,124000.0
+CAR01105,Kia,Sedan,2023.0,38290.0,CNG,Automatic,First Owner,21.2,1553.0,178.8,5.0,Bengaluru,Dealer,1353000.0
+CAR01106,Volkswagen,Sedan,2017.0,82440.0,Petrol,Manual,First Owner,16.1,2164.0,177.8,5.0,Hyderabad,Individual,589000.0
+CAR01107,Hyundai,Compact SUV,2019.0,162918.0,Petrol,Manual,Fourth & Above,18.0,1223.0,136.4,5.0,Hyderabad,Individual,270000.0
+CAR01108,Hyundai,Hatchback,2021.0,81878.0,Petrol,Manual,First Owner,17.3,839.0,88.6,5.0,Jaipur,Dealer,318000.0
+CAR01109,Volkswagen,Hatchback,2009.0,260000.0,Diesel,Manual,Second Owner,17.7,1243.0,60.7,5.0,Pune,Dealer,79000.0
+CAR01110,Maruti,SUV,2021.0,,Diesel,Manual,First Owner,17.9,2769.0,163.7,5.0,Hyderabad,Individual,855000.0
+CAR01111,Kia,Sedan,2009.0,62167.0,Petrol,Manual,Second Owner,12.5,1893.0,134.6,5.0,Bengaluru,Individual,234000.0
+CAR01112,Maruti,Sedan,2011.0,145756.0,Petrol,Manual,First Owner,14.6,2192.0,81.2,5.0,Bengaluru,Dealer,109000.0
+CAR01113,Tata,Compact SUV,2010.0,116604.0,Petrol,Manual,First Owner,15.5,1335.0,131.1,7.0,Delhi,Dealer,179000.0
+CAR01114,Maruti,SUV,2023.0,29415.0,Petrol,Automatic,First Owner,14.2,2850.0,250.7,5.0,Mumbai,Individual,1049000.0
+CAR01115,Volkswagen,Hatchback,2017.0,162558.0,Petrol,Manual,Second Owner,12.7,1050.0,51.5,5.0,Bengaluru,Individual,219000.0
+CAR01116,Hyundai,Hatchback,2021.0,19909.0,Petrol,Manual,First Owner,14.5,907.0,60.7,5.0,Chennai,Dealer,397000.0
+CAR01117,Maruti,Hatchback,2017.0,201033.0,Diesel,Automatic,First Owner,18.0,1086.0,52.1,5.0,Bengaluru,Individual,144000.0
+CAR01118,Kia,Luxury,2016.0,163558.0,Diesel,Manual,First Owner,18.2,2013.0,275.4,5.0,Chennai,Trustmark Dealer,713000.0
+CAR01119,Toyota,SUV,2022.0,25504.0,Diesel,Automatic,First Owner,17.8,2275.0,239.1,5.0,Mumbai,Dealer,2079000.0
+CAR01120,Kia,SUV,2020.0,62993.0,,Manual,Second Owner,13.7,2469.0,206.6,5.0,Mumbai,Dealer,1291000.0
+CAR01121,Renault,Hatchback,2020.0,116181.0,Diesel,Manual,First Owner,20.0,1261.0,60.8,5.0,Hyderabad,Individual,232000.0
+CAR01122,Toyota,MPV,2017.0,85042.0,Petrol,Automatic,Second Owner,14.6,1898.0,103.6,5.0,Pune,Dealer,782000.0
+CAR01123,Maruti,Hatchback,2021.0,88438.0,Petrol,Manual,Fourth & Above,15.0,1086.0,53.2,5.0,Bengaluru,Individual,183000.0
+CAR01124,Maruti,Hatchback,2010.0,110524.0,Petrol,Manual,First Owner,14.2,1101.0,64.6,5.0,Pune,Individual,95000.0
+CAR01125,Maruti,MPV,2017.0,177318.0,Diesel,Automatic,Third Owner,15.1,1596.0,93.1,5.0,Pune,Individual,279000.0
+CAR01126,Maruti,Hatchback,2016.0,70732.0,CNG,Manual,Third Owner,21.6,1261.0,82.9,5.0,Hyderabad,Dealer,174000.0
+CAR01127,Honda,Sedan,2016.0,133145.0,Petrol,Manual,Third Owner,15.5,1707.0,136.4,5.0,Hyderabad,Dealer,298000.0
+CAR01128,Maruti,MPV,2014.0,220227.0,Diesel,Manual,First Owner,19.4,2499.0,128.5,5.0,Ahmedabad,Trustmark Dealer,210000.0
+CAR01129,Toyota,MPV,2016.0,126954.0,Petrol,Manual,First Owner,15.3,2015.0,153.7,5.0,Delhi,Individual,503000.0
+CAR01130,Audi,SUV,2011.0,229865.0,Diesel,Automatic,First Owner,16.8,1557.0,216.6,5.0,Hyderabad,Dealer,1253000.0
+CAR01131,Volkswagen,MPV,2012.0,214070.0,Diesel,Manual,Third Owner,18.5,1905.0,153.7,7.0,Nagpur,Dealer,242000.0
+CAR01132,Toyota,MPV,2015.0,157373.0,Diesel,Manual,First Owner,16.9,1744.0,146.9,5.0,Pune,Individual,633000.0
+CAR01133,Tata,SUV,2017.0,92060.0,Petrol,Automatic,First Owner,11.9,,108.4,5.0,Kolkata,Dealer,493000.0
+CAR01134,Renault,Luxury,2020.0,67833.0,Petrol,Manual,Second Owner,15.7,3017.0,379.1,5.0,Delhi,Dealer,809000.0
+CAR01135,Maruti,MPV,2015.0,174902.0,Petrol,Automatic,Second Owner,16.6,2495.0,119.2,7.0,Delhi,Dealer,244000.0
+CAR01136,Toyota,Hatchback,2021.0,62999.0,Petrol,Automatic,Second Owner,13.4,989.0,65.3,5.0,,Individual,598000.0
+CAR01137,Honda,Compact SUV,2015.0,125686.0,Diesel,Manual,First Owner,,1061.0,98.5,5.0,Kolkata,Individual,307000.0
+CAR01138,Ford,Hatchback,2021.0,59686.0,Petrol,Automatic,Second Owner,15.9,1270.0,74.9,5.0,Mumbai,Dealer,321000.0
+CAR01139,,Sedan,2022.0,49960.0,Diesel,Manual,First Owner,18.5,1259.0,127.7,5.0,Delhi,Individual,878000.0
+CAR01140,Mahindra,Compact SUV,2023.0,39240.0,Petrol,Manual,First Owner,17.6,1147.0,130.0,5.0,Pune,Individual,1186000.0
+CAR01141,Maruti,Hatchback,2012.0,134716.0,Diesel,Manual,First Owner,,1075.0,76.6,4.0,Delhi,Dealer,107000.0
+CAR01142,Honda,Sedan,2009.0,260000.0,,Manual,Second Owner,14.2,1180.0,85.7,5.0,Jaipur,Individual,80000.0
+CAR01143,Mahindra,Compact SUV,2013.0,140661.0,Petrol,Automatic,Fourth & Above,16.2,1442.0,150.7,5.0,Pune,Individual,296000.0
+CAR01144,Maruti,Hatchback,2022.0,56338.0,Diesel,Manual,First Owner,21.4,996.0,72.8,5.0,Pune,Individual,319000.0
+CAR01145,Kia,SUV,2014.0,103196.0,Diesel,Automatic,First Owner,12.3,2199.0,255.1,5.0,Kolkata,Individual,622000.0
+CAR01146,Hyundai,Compact SUV,2020.0,69279.0,CNG,Automatic,First Owner,21.6,1075.0,158.3,5.0,Pune,Individual,613000.0
+CAR01147,Ford,Hatchback,2013.0,119923.0,Diesel,Manual,Second Owner,17.2,1008.0,77.0,5.0,Kolkata,Individual,114000.0
+CAR01148,Toyota,SUV,2020.0,50717.0,Petrol,Manual,First Owner,13.7,2491.0,126.0,5.0,Pune,Trustmark Dealer,1478000.0
+CAR01149,Hyundai,SUV,2021.0,101322.0,Petrol,Automatic,First Owner,16.2,2133.0,225.8,5.0,Mumbai,Individual,917000.0
+CAR01150,Toyota,Sedan,2023.0,84436.0,Petrol,Automatic,First Owner,16.1,1989.0,175.7,5.0,Pune,Dealer,1501000.0
+CAR01151,Maruti,Hatchback,2016.0,210309.0,Diesel,Manual,Second Owner,20.5,1264.0,51.0,6.0,Kolkata,Individual,91000.0
+CAR01152,Skoda,Sedan,,150456.0,Petrol,Manual,First Owner,17.9,1701.0,118.4,5.0,Nagpur,Individual,268000.0
+CAR01153,Tata,SUV,2010.0,218007.0,CNG,Manual,Second Owner,23.7,2191.0,226.5,5.0,Bengaluru,Dealer,163000.0
+CAR01154,Hyundai,SUV,2021.0,37547.0,Diesel,Manual,First Owner,16.7,2416.0,106.8,5.0,Jaipur,Individual,901000.0
+CAR01155,Tata,Hatchback,2017.0,147930.0,Petrol,Manual,First Owner,18.8,966.0,79.4,4.0,Nagpur,Individual,193000.0
+CAR01156,Skoda,SUV,2019.0,99179.0,Petrol,Manual,Third Owner,15.6,2177.0,240.9,5.0,Delhi,Individual,742000.0
+CAR01157,Hyundai,Sedan,2022.0,13178.0,Petrol,Automatic,First Owner,14.0,1987.0,96.2,5.0,,Trustmark Dealer,788000.0
+CAR01158,Mahindra,Compact SUV,2011.0,122579.0,Diesel,Manual,First Owner,17.8,1495.0,99.6,4.0,Bengaluru,Dealer,277000.0
+CAR01159,Honda,Hatchback,2008.0,260000.0,Petrol,Automatic,Second Owner,15.9,988.0,67.3,4.0,Jaipur,Dealer,77000.0
+CAR01160,Kia,Compact SUV,2022.0,74298.0,Petrol,Manual,First Owner,12.9,1442.0,138.5,5.0,Mumbai,Dealer,1157000.0
+CAR01161,Tata,Hatchback,2009.0,260000.0,Petrol,Manual,Second Owner,13.8,813.0,50.7,5.0,Kolkata,Individual,65000.0
+CAR01162,Ford,Sedan,2009.0,187952.0,Petrol,Manual,Second Owner,12.4,1687.0,88.3,5.0,Nagpur,Individual,93000.0
+CAR01163,Kia,Sedan,2006.0,248808.0,Diesel,Manual,Third Owner,17.9,1894.0,109.5,5.0,Mumbai,Individual,122000.0
+CAR01164,Toyota,MPV,2010.0,260000.0,Diesel,Manual,First Owner,18.6,2055.0,141.2,4.0,Pune,Individual,261000.0
+CAR01165,Hyundai,Hatchback,2020.0,77325.0,Petrol,Manual,First Owner,16.2,1270.0,97.8,5.0,Pune,Individual,396000.0
+CAR01166,Maruti,Compact SUV,2015.0,107179.0,Petrol,Manual,First Owner,12.2,1065.0,98.8,5.0,Jaipur,Individual,174000.0
+CAR01167,Hyundai,Compact SUV,2017.0,260000.0,Electric,Manual,First Owner,3.0,158.0,205.3,,Pune,Individual,220000.0
+CAR01168,Hyundai,Hatchback,2023.0,46976.0,Diesel,Manual,First Owner,15.2,1214.0,45.1,5.0,Pune,Individual,585000.0
+CAR01169,Audi,SUV,2020.0,75752.0,Petrol,Automatic,First Owner,16.7,2512.0,171.8,5.0,Nagpur,Trustmark Dealer,4076000.0
+CAR01170,Tata,MPV,2021.0,74352.0,Petrol,Automatic,First Owner,,1592.0,169.2,5.0,Nagpur,Dealer,704000.0
+CAR01171,Mahindra,MPV,2023.0,45857.0,Diesel,Manual,First Owner,24.1,2283.0,133.4,5.0,Delhi,Individual,1370000.0
+CAR01172,Honda,Hatchback,2019.0,88652.0,CNG,Manual,Second Owner,21.9,810.0,88.4,4.0,Mumbai,Individual,321000.0
+CAR01173,Tata,Compact SUV,2014.0,116851.0,CNG,Automatic,First Owner,21.1,1038.0,98.9,5.0,Delhi,Individual,216000.0
+CAR01174,Kia,Compact SUV,2007.0,204483.0,Petrol,Manual,First Owner,16.3,1511.0,110.6,5.0,Mumbai,Dealer,
+CAR01175,Tata,Hatchback,2016.0,121388.0,Petrol,Manual,First Owner,16.0,984.0,57.1,4.0,Hyderabad,Individual,155000.0
+CAR01176,Audi,Luxury,2014.0,123669.0,Diesel,Automatic,Second Owner,22.0,2703.0,313.0,5.0,Hyderabad,Trustmark Dealer,2907000.0
+CAR01177,Maruti,Hatchback,2010.0,94891.0,Diesel,Automatic,Second Owner,18.8,1196.0,47.4,4.0,Delhi,Individual,67000.0
+CAR01178,Maruti,Compact SUV,2007.0,260000.0,Petrol,Manual,First Owner,,1227.0,147.3,5.0,Jaipur,Individual,65000.0
+CAR01179,BMW,Luxury,2012.0,182736.0,Petrol,Manual,Second Owner,13.7,2201.0,349.8,5.0,Pune,Dealer,1474000.0
+CAR01180,Maruti,Compact SUV,2014.0,194722.0,Petrol,Automatic,First Owner,12.3,1782.0,128.2,5.0,Kolkata,Dealer,220000.0
+CAR01181,Honda,Hatchback,2015.0,90661.0,Petrol,Manual,First Owner,21.2,1202.0,95.4,5.0,Bengaluru,Individual,282000.0
+CAR01182,Honda,Compact SUV,2017.0,170701.0,CNG,Manual,Second Owner,22.9,1252.0,74.4,7.0,Chennai,Individual,319000.0
+CAR01183,Toyota,Sedan,2017.0,126262.0,Petrol,Automatic,First Owner,17.8,1344.0,97.3,5.0,Delhi,Dealer,573000.0
+CAR01184,,Sedan,2022.0,88071.0,Petrol,Manual,First Owner,13.7,1203.0,89.9,5.0,Mumbai,Dealer,3131000.0
+CAR01185,Renault,Sedan,2023.0,41751.0,Petrol,Automatic,First Owner,21.2,1237.0,99.7,4.0,Mumbai,Individual,682000.0
+CAR01186,Tata,Hatchback,2018.0,117847.0,Petrol,Manual,Second Owner,16.5,1274.0,89.8,5.0,Mumbai,Individual,262000.0
+CAR01187,Maruti,Sedan,2017.0,94874.0,Petrol,Manual,First Owner,,1591.0,91.2,7.0,Bengaluru,Individual,233000.0
+CAR01188,Tata,Luxury,2012.0,228449.0,Petrol,Automatic,Third Owner,17.5,1914.0,324.2,5.0,Delhi,Dealer,266000.0
+CAR01189,Ford,MPV,2015.0,85656.0,Diesel,Manual,First Owner,20.0,2437.0,95.7,5.0,Mumbai,Individual,377000.0
+CAR01190,Mercedes-Benz,Compact SUV,2023.0,62070.0,Petrol,Manual,First Owner,13.8,1639.0,128.0,4.0,Jaipur,Dealer,4423000.0
+CAR01191,Tata,SUV,2011.0,138236.0,Petrol,Automatic,First Owner,14.0,1619.0,147.5,5.0,Hyderabad,Dealer,308000.0
+CAR01192,Kia,Sedan,2021.0,72565.0,Petrol,Manual,First Owner,17.2,1633.0,148.9,5.0,Ahmedabad,Individual,937000.0
+CAR01193,Tata,Compact SUV,2018.0,119306.0,Petrol,Manual,First Owner,19.2,1333.0,91.9,5.0,Nagpur,Dealer,298000.0
+CAR01194,Toyota,MPV,2015.0,138429.0,Petrol,Manual,Second Owner,14.5,1485.0,117.4,5.0,Bengaluru,Dealer,443000.0
+CAR01195,Honda,MPV,2018.0,50797.0,Diesel,Manual,Third Owner,14.5,1576.0,118.3,5.0,Hyderabad,Dealer,601000.0
+CAR01196,Toyota,Sedan,2011.0,215620.0,Petrol,Manual,First Owner,17.1,2122.0,124.8,5.0,Mumbai,Trustmark Dealer,269000.0
+CAR01197,Hyundai,Sedan,2021.0,89538.0,Petrol,Manual,First Owner,17.7,1174.0,111.9,5.0,Bengaluru,Dealer,583000.0
+CAR01198,Honda,Sedan,2016.0,33607.0,Petrol,Manual,Second Owner,15.3,1987.0,169.2,5.0,Mumbai,Individual,495000.0
+CAR01199,Hyundai,Hatchback,2016.0,137476.0,Petrol,Manual,First Owner,9.6,1074.0,69.0,5.0,Hyderabad,Individual,176000.0
+CAR01200,Kia,MPV,2006.0,218482.0,Petrol,Manual,First Owner,15.2,1777.0,163.5,7.0,Delhi,Dealer,175000.0
+CAR01201,Mahindra,SUV,2011.0,223625.0,Petrol,Automatic,First Owner,14.9,1799.0,156.1,5.0,Kolkata,Individual,305000.0
+CAR01202,Maruti,Hatchback,2015.0,258186.0,Diesel,Manual,First Owner,14.0,809.0,91.5,5.0,Kolkata,Individual,102000.0
+CAR01203,Mahindra,MPV,2018.0,187250.0,Diesel,Automatic,First Owner,21.4,1711.0,112.6,5.0,Pune,Dealer,670000.0
+CAR01204,Tata,SUV,2013.0,106282.0,Petrol,Automatic,First Owner,11.5,1663.0,170.1,7.0,Jaipur,Individual,331000.0
+CAR01205,Ford,Hatchback,2006.0,260000.0,,Manual,First Owner,13.5,1276.0,98.5,5.0,Chennai,Individual,65000.0
+CAR01206,BMW,Sedan,2010.0,260000.0,Petrol,Automatic,First Owner,20.5,1395.0,161.7,5.0,Pune,Individual,671000.0
+CAR01207,Mahindra,Sedan,2019.0,95404.0,Petrol,Manual,Second Owner,14.1,1653.0,110.4,5.0,Delhi,Individual,575000.0
+CAR01208,Ford,SUV,2017.0,80930.0,Diesel,Manual,First Owner,18.9,2503.0,214.0,7.0,Bengaluru,Individual,656000.0
+CAR01209,Mahindra,Hatchback,2017.0,126780.0,Diesel,Manual,First Owner,21.9,1051.0,55.3,5.0,Bengaluru,Individual,328000.0
+CAR01210,Renault,Sedan,2012.0,183202.0,Petrol,Automatic,First Owner,17.7,1100.0,159.4,5.0,Ahmedabad,Dealer,152000.0
+CAR01211,Volkswagen,Sedan,2013.0,38625.0,Petrol,Manual,Second Owner,12.4,1188.0,164.6,5.0,Nagpur,Individual,402000.0
+CAR01212,Mahindra,SUV,2006.0,153951.0,Petrol,Manual,First Owner,19.2,2154.0,116.4,5.0,Pune,Individual,243000.0
+CAR01213,Maruti,Hatchback,2023.0,50237.0,Diesel,Manual,First Owner,18.3,,72.9,5.0,Delhi,Individual,346000.0
+CAR01214,Mercedes-Benz,Compact SUV,2016.0,96972.0,Petrol,Manual,First Owner,17.6,1701.0,111.1,5.0,Ahmedabad,Individual,1727000.0
+CAR01215,Mahindra,MPV,2022.0,33011.0,Diesel,Manual,First Owner,18.4,2457.0,135.8,5.0,Bengaluru,Individual,1558000.0
+CAR01216,Maruti,Sedan,2022.0,28142.0,Petrol,Manual,Third Owner,17.7,1695.0,103.6,5.0,Nagpur,Individual,465000.0
+CAR01217,Kia,Compact SUV,2006.0,260000.0,Electric,Manual,Fourth & Above,0.0,86.0,224.2,5.0,Bengaluru,Individual,119000.0
+CAR01218,Kia,Sedan,2008.0,162130.0,Petrol,Manual,First Owner,17.6,1810.0,90.9,5.0,Kolkata,Dealer,167000.0
+CAR01219,Ford,Compact SUV,2022.0,49639.0,LPG,Manual,First Owner,20.2,1493.0,97.9,5.0,Hyderabad,Individual,612000.0
+CAR01220,Hyundai,Compact SUV,2014.0,180847.0,Petrol,Manual,First Owner,15.4,1173.0,134.6,4.0,Ahmedabad,Dealer,215000.0
+CAR01221,BMW,Luxury,2015.0,89801.0,Diesel,Automatic,First Owner,,2998.0,400.9,5.0,Delhi,Trustmark Dealer,2936000.0
+CAR01222,Toyota,MPV,2017.0,150485.0,Diesel,Manual,First Owner,22.9,2106.0,154.9,6.0,Mumbai,Individual,756000.0
+CAR01223,Hyundai,MPV,2014.0,182034.0,LPG,Automatic,Third Owner,19.0,2291.0,168.9,7.0,Hyderabad,Trustmark Dealer,284000.0
+CAR01224,Tata,Hatchback,2015.0,153146.0,CNG,Manual,First Owner,23.4,1200.0,49.7,5.0,Jaipur,Individual,117000.0
+CAR01225,Ford,Compact SUV,2009.0,260000.0,Petrol,Manual,Second Owner,17.3,1282.0,152.3,5.0,Delhi,Dealer,89000.0
+CAR01226,Mahindra,SUV,2016.0,146409.0,Petrol,Automatic,First Owner,15.8,2529.0,143.1,5.0,Pune,Individual,654000.0
+CAR01227,Maruti,Compact SUV,2014.0,120070.0,Diesel,Manual,First Owner,16.5,1443.0,108.3,5.0,Mumbai,Individual,225000.0
+CAR01228,Honda,Hatchback,2013.0,185723.0,Petrol,Automatic,Second Owner,19.8,1271.0,72.9,5.0,Nagpur,Individual,130000.0
+CAR01229,Mercedes-Benz,SUV,2011.0,110468.0,Petrol,Automatic,Second Owner,13.5,2848.0,225.9,5.0,Mumbai,Individual,1833000.0
+CAR01230,Toyota,Sedan,2014.0,213025.0,Petrol,Manual,Third Owner,14.0,1104.0,93.6,6.0,Delhi,Dealer,245000.0
+CAR01231,Tata,Compact SUV,2014.0,203988.0,Petrol,Manual,Second Owner,18.9,1066.0,137.3,5.0,Pune,Individual,143000.0
+CAR01232,Hyundai,Hatchback,2019.0,71021.0,CNG,Manual,First Owner,20.4,811.0,92.0,5.0,Hyderabad,Dealer,252000.0
+CAR01233,Mahindra,MPV,2015.0,134753.0,Diesel,Manual,First Owner,18.8,1487.0,155.0,5.0,Mumbai,Dealer,592000.0
+CAR01234,Kia,Compact SUV,2018.0,26809.0,Petrol,Automatic,First Owner,13.3,1229.0,150.5,7.0,Chennai,Dealer,886000.0
+CAR01235,Mahindra,SUV,2022.0,29685.0,Diesel,Manual,Second Owner,19.5,2396.0,125.8,7.0,Ahmedabad,Dealer,1548000.0
+CAR01236,Honda,Compact SUV,2018.0,50993.0,Diesel,Automatic,First Owner,21.3,1247.0,93.1,5.0,Ahmedabad,Individual,533000.0
+CAR01237,Renault,Hatchback,2023.0,74760.0,CNG,Manual,Second Owner,22.5,1083.0,87.3,5.0,Hyderabad,Individual,270000.0
+CAR01238,Hyundai,Sedan,2022.0,47964.0,Petrol,Manual,First Owner,14.3,1774.0,113.6,5.0,Ahmedabad,Dealer,751000.0
+CAR01239,BMW,Luxury,2012.0,207681.0,Petrol,Automatic,First Owner,15.9,3053.0,378.4,5.0,Delhi,Individual,1915000.0
+CAR01240,Maruti,MPV,2011.0,173228.0,Diesel,Automatic,First Owner,25.3,2243.0,138.2,7.0,Jaipur,Dealer,161000.0
+CAR01241,Hyundai,Compact SUV,2014.0,165891.0,CNG,Automatic,Fourth & Above,25.9,1444.0,127.5,5.0,Chennai,Dealer,200000.0
+CAR01242,Hyundai,Hatchback,2009.0,260000.0,CNG,Manual,First Owner,18.6,1081.0,77.1,5.0,Kolkata,Dealer,65000.0
+CAR01243,Toyota,Sedan,2017.0,95187.0,Petrol,Manual,First Owner,15.3,1433.0,87.2,5.0,Pune,Individual,583000.0
+CAR01244,BMW,SUV,2019.0,91759.0,Petrol,Automatic,Third Owner,13.0,1689.0,166.4,5.0,Bengaluru,Dealer,3711000.0
+CAR01245,Mercedes-Benz,SUV,2021.0,70160.0,Diesel,Automatic,First Owner,21.0,1599.0,171.2,5.0,Chennai,Individual,6532000.0
+CAR01246,Tata,Compact SUV,2015.0,118071.0,Diesel,Manual,Third Owner,17.3,1019.0,155.3,6.0,Mumbai,Dealer,217000.0
+CAR01247,Maruti,SUV,2010.0,169173.0,Diesel,Automatic,First Owner,16.5,1815.0,213.7,5.0,Delhi,Dealer,197000.0
+CAR01248,Toyota,Sedan,2023.0,59245.0,CNG,Manual,Second Owner,17.8,1953.0,139.0,5.0,Bengaluru,Individual,931000.0
+CAR01249,Toyota,Hatchback,2023.0,47534.0,Petrol,Manual,First Owner,15.3,819.0,52.0,5.0,Pune,Individual,864000.0
+CAR01250,BMW,Hatchback,2020.0,90335.0,Diesel,Manual,First Owner,20.4,821.0,94.6,5.0,Delhi,Individual,1453000.0
+CAR01251,Volkswagen,Sedan,2009.0,161239.0,Petrol,Automatic,First Owner,11.4,1818.0,155.2,5.0,Hyderabad,Individual,191000.0
+CAR01252,Ford,Sedan,2023.0,38148.0,Diesel,Manual,Third Owner,14.1,1428.0,72.5,5.0,Bengaluru,Individual,581000.0
+CAR01253,Audi,SUV,2018.0,79885.0,Petrol,Automatic,Second Owner,13.7,2200.0,99.0,5.0,Pune,Dealer,3626000.0
+CAR01254,Honda,SUV,2014.0,176688.0,Petrol,Manual,First Owner,16.1,1857.0,156.1,5.0,Bengaluru,Individual,373000.0
+CAR01255,Tata,Compact SUV,2018.0,137883.0,Petrol,Manual,First Owner,14.4,1445.0,75.5,5.0,Delhi,Individual,244000.0
+CAR01256,Hyundai,Hatchback,2023.0,51188.0,Petrol,Manual,First Owner,15.9,888.0,62.8,5.0,Nagpur,Individual,420000.0
+CAR01257,Maruti,Hatchback,2015.0,78384.0,Diesel,Manual,First Owner,17.9,951.0,78.5,5.0,Hyderabad,Dealer,134000.0
+CAR01258,Honda,Hatchback,2017.0,144078.0,Petrol,Manual,First Owner,18.4,1259.0,91.7,5.0,Delhi,Individual,324000.0
+CAR01259,Ford,Hatchback,2016.0,128214.0,Diesel,Manual,First Owner,21.0,1076.0,51.7,5.0,Mumbai,Individual,163000.0
+CAR01260,Honda,Compact SUV,2018.0,79714.0,Diesel,Manual,First Owner,18.4,1295.0,120.0,5.0,Pune,Dealer,589000.0
+CAR01261,Tata,SUV,2020.0,106549.0,Petrol,Manual,First Owner,,2284.0,243.9,5.0,,Dealer,640000.0
+CAR01262,Maruti,Sedan,2011.0,231484.0,Petrol,Manual,Second Owner,14.7,1208.0,149.4,5.0,Mumbai,Dealer,99000.0
+CAR01263,Toyota,SUV,2017.0,131863.0,Petrol,Automatic,First Owner,15.4,2054.0,126.3,7.0,Delhi,Dealer,812000.0
+CAR01264,Tata,Compact SUV,2010.0,229969.0,Petrol,Manual,First Owner,15.3,1165.0,121.5,5.0,Hyderabad,Individual,93000.0
+CAR01265,Maruti,Hatchback,2013.0,221745.0,Petrol,Manual,Third Owner,20.6,1129.0,46.6,5.0,Hyderabad,Individual,65000.0
+CAR01266,Toyota,Compact SUV,2014.0,163043.0,Petrol,Manual,Second Owner,16.5,1456.0,93.9,5.0,Jaipur,Individual,298000.0
+CAR01267,Tata,Sedan,2012.0,188865.0,Diesel,Automatic,First Owner,22.4,1772.0,108.9,6.0,Nagpur,Individual,142000.0
+CAR01268,Maruti,Luxury,2005.0,258020.0,Diesel,Manual,First Owner,18.2,2241.0,428.5,5.0,Kolkata,Trustmark Dealer,127000.0
+CAR01269,Maruti,Hatchback,2015.0,158648.0,Diesel,Automatic,First Owner,18.2,963.0,57.3,5.0,Mumbai,Individual,127000.0
+CAR01270,Hyundai,Sedan,2014.0,201511.0,Diesel,Automatic,Second Owner,21.5,1818.0,77.5,7.0,Kolkata,Dealer,199000.0
+CAR01271,Maruti,Hatchback,2018.0,10600.0,Petrol,Manual,Second Owner,15.2,943.0,84.6,5.0,Hyderabad,Dealer,235000.0
+CAR01272,Audi,Sedan,2022.0,39343.0,Petrol,Automatic,First Owner,14.9,1976.0,87.1,5.0,Delhi,Individual,4213000.0
+CAR01273,Toyota,Compact SUV,2021.0,38163.0,Petrol,Automatic,Third Owner,14.8,1588.0,108.0,5.0,Nagpur,Dealer,941000.0
+CAR01274,Maruti,Hatchback,2019.0,44107.0,Petrol,Manual,First Owner,12.9,1272.0,46.2,5.0,Ahmedabad,Trustmark Dealer,238000.0
+CAR01275,Skoda,SUV,2024.0,42088.0,Petrol,Automatic,First Owner,19.6,2468.0,170.2,5.0,Chennai,Trustmark Dealer,
+CAR01276,Hyundai,SUV,2010.0,73145.0,Petrol,Manual,First Owner,19.5,2176.0,129.5,5.0,Hyderabad,Individual,314000.0
+CAR01277,Mahindra,SUV,2020.0,108483.0,Diesel,Manual,First Owner,20.4,2141.0,110.0,5.0,Mumbai,Dealer,844000.0
+CAR01278,Mercedes-Benz,Sedan,2011.0,254554.0,Petrol,Automatic,First Owner,12.6,1115.0,166.3,5.0,Pune,Individual,979000.0
+CAR01279,Kia,MPV,2019.0,115824.0,Petrol,Manual,Second Owner,18.7,2014.0,148.3,5.0,Mumbai,Individual,810000.0
+CAR01280,Toyota,Sedan,2018.0,97785.0,Diesel,Manual,First Owner,21.3,,104.7,5.0,Mumbai,Individual,643000.0
+CAR01281,Hyundai,Compact SUV,2024.0,21724.0,Petrol,Manual,Second Owner,17.4,1305.0,99.1,5.0,Bengaluru,Dealer,839000.0
+CAR01282,Mahindra,Hatchback,2012.0,137179.0,Petrol,Automatic,First Owner,15.1,822.0,50.3,5.0,Pune,Individual,180000.0
+CAR01283,Mercedes-Benz,Luxury,2010.0,112749.0,LPG,Automatic,First Owner,13.8,3654.0,345.5,7.0,Delhi,Individual,1273000.0
+CAR01284,Kia,Hatchback,2017.0,59544.0,Petrol,Manual,First Owner,19.7,808.0,97.9,5.0,Mumbai,Dealer,437000.0
+CAR01285,Hyundai,Sedan,2017.0,102569.0,Petrol,Manual,First Owner,18.8,1756.0,174.5,7.0,Ahmedabad,,328000.0
+CAR01286,Volkswagen,Compact SUV,,58966.0,Petrol,Manual,First Owner,17.6,1026.0,145.7,4.0,Pune,Individual,1194000.0
+CAR01287,Maruti,Hatchback,2021.0,41109.0,Electric,Manual,First Owner,0.0,117.0,225.6,5.0,Pune,Trustmark Dealer,388000.0
+CAR01288,Mercedes-Benz,Sedan,2014.0,177254.0,Petrol,Automatic,First Owner,18.0,1537.0,100.6,5.0,Chennai,Individual,1250000.0
+CAR01289,Skoda,MPV,2009.0,95479.0,Diesel,Manual,Second Owner,18.4,1844.0,88.9,5.0,Delhi,Individual,209000.0
+CAR01290,Mahindra,SUV,2010.0,195090.0,Diesel,Manual,First Owner,20.9,2478.0,175.2,5.0,Mumbai,Dealer,419000.0
+CAR01291,Maruti,Hatchback,2019.0,100367.0,LPG,Manual,Third Owner,18.2,862.0,63.4,5.0,Chennai,Individual,154000.0
+CAR01292,Toyota,Hatchback,2018.0,98351.0,Petrol,Automatic,Third Owner,14.3,1255.0,90.0,5.0,Delhi,Individual,370000.0
+CAR01293,Maruti,Hatchback,2011.0,248932.0,Petrol,Automatic,First Owner,19.5,1204.0,52.9,5.0,Jaipur,Individual,74000.0
+CAR01294,Ford,MPV,2012.0,220711.0,Petrol,Automatic,Third Owner,15.4,1559.0,121.4,7.0,Delhi,Individual,184000.0
+CAR01295,Honda,Sedan,2022.0,52862.0,Petrol,Manual,Second Owner,16.0,1618.0,166.6,5.0,Nagpur,Dealer,726000.0
+CAR01296,Volkswagen,Sedan,2012.0,118025.0,Petrol,Manual,Second Owner,13.1,1933.0,179.9,5.0,Bengaluru,Trustmark Dealer,290000.0
+CAR01297,Kia,Hatchback,2009.0,133562.0,Diesel,Manual,Second Owner,16.6,1295.0,73.9,5.0,Ahmedabad,Individual,137000.0
+CAR01298,Mercedes-Benz,Luxury,2017.0,126832.0,Petrol,Manual,First Owner,14.5,3618.0,196.0,5.0,Ahmedabad,Trustmark Dealer,4754000.0
+CAR01299,Honda,Sedan,2010.0,224370.0,Petrol,Manual,First Owner,12.8,1596.0,78.9,5.0,Mumbai,Dealer,153000.0
+CAR01300,Hyundai,Hatchback,2015.0,230240.0,Petrol,Automatic,First Owner,14.8,877.0,60.4,5.0,Bengaluru,Dealer,115000.0
+CAR01301,Volkswagen,Sedan,2018.0,119964.0,Petrol,Automatic,Third Owner,19.2,1772.0,114.7,5.0,Pune,Individual,577000.0
+CAR01302,Hyundai,Hatchback,2022.0,17154.0,Diesel,Automatic,Second Owner,17.7,999.0,69.1,5.0,Mumbai,Dealer,486000.0
+CAR01303,Renault,Hatchback,2020.0,68053.0,Petrol,Manual,First Owner,17.9,891.0,79.1,5.0,Nagpur,Individual,313000.0
+CAR01304,Honda,Compact SUV,2010.0,197660.0,Diesel,Automatic,Third Owner,16.5,1666.0,127.0,5.0,Nagpur,Dealer,149000.0
+CAR01305,Maruti,Compact SUV,2017.0,101933.0,CNG,Automatic,Second Owner,19.8,1642.0,77.9,5.0,Bengaluru,Individual,247000.0
+CAR01306,Maruti,Hatchback,2023.0,71004.0,Petrol,Manual,Third Owner,16.6,1258.0,65.2,4.0,Jaipur,Dealer,323000.0
+CAR01307,Skoda,Hatchback,2018.0,82974.0,Diesel,Manual,First Owner,,935.0,91.1,5.0,Pune,Individual,448000.0
+CAR01308,Volkswagen,Sedan,2016.0,161016.0,Petrol,Manual,First Owner,18.3,1944.0,171.8,4.0,Ahmedabad,Individual,381000.0
+CAR01309,Volkswagen,MPV,2015.0,204824.0,Diesel,Manual,First Owner,19.7,2141.0,138.1,5.0,Pune,Individual,499000.0
+CAR01310,Maruti,Compact SUV,2008.0,139194.0,Petrol,Manual,First Owner,13.0,1087.0,79.9,5.0,Nagpur,Individual,83000.0
+CAR01311,Mahindra,MPV,2009.0,257127.0,Petrol,Manual,First Owner,14.7,2439.0,174.0,7.0,Ahmedabad,Individual,220000.0
+CAR01312,Honda,MPV,2024.0,53683.0,Diesel,Manual,Second Owner,15.8,1629.0,154.3,5.0,Nagpur,Individual,1306000.0
+CAR01313,Maruti,Hatchback,2023.0,40257.0,Petrol,Automatic,First Owner,12.8,,90.2,5.0,Bengaluru,Individual,460000.0
+CAR01314,Audi,Sedan,2022.0,59899.0,Diesel,Automatic,Second Owner,20.0,1693.0,130.5,5.0,Bengaluru,Dealer,4319000.0
+CAR01315,Honda,Hatchback,2016.0,127825.0,LPG,Manual,Second Owner,18.8,1016.0,79.8,5.0,Jaipur,Individual,173000.0
+CAR01316,Toyota,MPV,2015.0,175688.0,CNG,Manual,Second Owner,22.8,1749.0,179.9,5.0,Pune,Individual,492000.0
+CAR01317,Kia,Compact SUV,2018.0,108648.0,Diesel,Manual,Second Owner,20.4,1383.0,72.2,5.0,Chennai,Individual,560000.0
+CAR01318,Tata,Compact SUV,2023.0,60553.0,Diesel,Manual,First Owner,17.3,1532.0,80.8,5.0,Hyderabad,Dealer,729000.0
+CAR01319,Honda,Hatchback,2019.0,104890.0,Petrol,Manual,First Owner,18.6,1000.0,69.4,7.0,Delhi,Individual,334000.0
+CAR01320,Tata,Compact SUV,2010.0,189596.0,Petrol,Manual,First Owner,15.1,1591.0,121.1,5.0,Chennai,Dealer,104000.0
+CAR01321,Tata,Sedan,2018.0,168841.0,Petrol,Manual,Fourth & Above,15.3,2147.0,81.8,5.0,Pune,Individual,209000.0
+CAR01322,Renault,Hatchback,2016.0,100912.0,Diesel,Manual,Second Owner,16.5,1174.0,80.5,5.0,Mumbai,Dealer,170000.0
+CAR01323,Hyundai,Hatchback,2013.0,115929.0,CNG,Automatic,First Owner,22.0,1226.0,46.3,4.0,Pune,Dealer,116000.0
+CAR01324,BMW,Luxury,2013.0,160745.0,Petrol,Automatic,First Owner,14.7,3139.0,238.1,5.0,Bengaluru,Individual,1852000.0
+CAR01325,Kia,SUV,2014.0,142420.0,Petrol,Manual,First Owner,14.6,2812.0,228.6,5.0,Ahmedabad,Individual,473000.0
+CAR01326,Toyota,Sedan,2022.0,82392.0,Diesel,Manual,First Owner,19.6,1709.0,124.2,5.0,Kolkata,Trustmark Dealer,1113000.0
+CAR01327,BMW,Luxury,2009.0,204144.0,Diesel,Manual,First Owner,19.1,3661.0,418.8,5.0,Mumbai,Dealer,1240000.0
+CAR01328,Tata,Sedan,2018.0,57758.0,Petrol,Manual,First Owner,17.9,1102.0,179.8,5.0,Nagpur,Individual,404000.0
+CAR01329,Mahindra,MPV,2019.0,21225.0,Diesel,Automatic,First Owner,17.7,1897.0,142.0,5.0,Ahmedabad,Individual,1140000.0
+CAR01330,Kia,Sedan,2014.0,76616.0,Petrol,Manual,Second Owner,,1666.0,139.5,5.0,Delhi,Individual,443000.0
+CAR01331,Mahindra,SUV,2015.0,171278.0,Diesel,Manual,First Owner,21.5,2712.0,118.4,5.0,Chennai,Individual,526000.0
+CAR01332,Kia,MPV,2023.0,53019.0,Petrol,Automatic,First Owner,16.2,2082.0,150.9,5.0,Bengaluru,Individual,1980000.0
+CAR01333,Mahindra,Compact SUV,2021.0,67506.0,Electric,Manual,First Owner,1.8,123.0,156.3,5.0,Jaipur,Trustmark Dealer,876000.0
+CAR01334,Maruti,Compact SUV,2016.0,154007.0,CNG,Automatic,First Owner,20.6,1147.0,126.0,5.0,Bengaluru,Dealer,238000.0
+CAR01335,Hyundai,Hatchback,2017.0,167933.0,Petrol,Manual,Second Owner,13.5,1187.0,99.1,5.0,Delhi,Dealer,191000.0
+CAR01336,Tata,Compact SUV,2012.0,255891.0,Petrol,Manual,First Owner,17.1,1181.0,79.8,5.0,Mumbai,Individual,139000.0
+CAR01337,Mahindra,Compact SUV,2006.0,192055.0,Petrol,Automatic,First Owner,17.7,1796.0,121.5,5.0,Bengaluru,Dealer,158000.0
+CAR01338,Hyundai,Sedan,2010.0,260000.0,Petrol,Manual,First Owner,15.2,1628.0,152.3,5.0,Chennai,Dealer,118000.0
+CAR01339,Honda,SUV,2010.0,58793.0,Petrol,Manual,First Owner,17.9,,108.7,5.0,Pune,Individual,298000.0
+CAR01340,Volkswagen,Sedan,2021.0,98405.0,Petrol,Manual,Second Owner,12.3,2093.0,179.6,5.0,Bengaluru,Dealer,792000.0
+CAR01341,Maruti,Hatchback,2015.0,149082.0,Petrol,Manual,First Owner,17.5,1066.0,68.1,5.0,Bengaluru,Trustmark Dealer,127000.0
+CAR01342,Toyota,Sedan,2020.0,47771.0,Petrol,Automatic,First Owner,17.3,1437.0,151.3,5.0,Jaipur,Individual,1023000.0
+CAR01343,Hyundai,Hatchback,2022.0,34535.0,Petrol,Manual,First Owner,15.8,1109.0,78.4,5.0,Pune,Dealer,387000.0
+CAR01344,Skoda,Compact SUV,2018.0,94728.0,Diesel,Manual,First Owner,16.6,1795.0,87.6,5.0,Pune,Individual,636000.0
+CAR01345,Mahindra,Compact SUV,2020.0,103367.0,Petrol,Automatic,First Owner,14.6,1653.0,75.1,4.0,Mumbai,Trustmark Dealer,874000.0
+CAR01346,Honda,Compact SUV,,142878.0,Diesel,Manual,Second Owner,16.1,1079.0,151.5,5.0,Hyderabad,Individual,283000.0
+CAR01347,Kia,SUV,2009.0,64652.0,Diesel,Manual,First Owner,18.4,1760.0,114.8,5.0,Pune,Individual,401000.0
+CAR01348,Ford,Compact SUV,2020.0,69821.0,Diesel,Manual,First Owner,21.3,1228.0,125.8,4.0,Pune,Individual,597000.0
+CAR01349,Tata,Compact SUV,2022.0,29453.0,Diesel,Manual,Fourth & Above,16.0,1641.0,,5.0,Nagpur,Dealer,543000.0
+CAR01350,Toyota,SUV,2012.0,106784.0,Petrol,Automatic,First Owner,15.6,2033.0,184.9,4.0,Hyderabad,Dealer,669000.0
+CAR01351,Honda,Compact SUV,2015.0,154944.0,CNG,Automatic,First Owner,22.6,1641.0,70.1,5.0,Pune,Dealer,347000.0
+CAR01352,Toyota,Compact SUV,2006.0,242075.0,Diesel,Manual,Second Owner,19.7,1757.0,109.1,5.0,Chennai,Dealer,167000.0
+CAR01353,Maruti,Hatchback,2017.0,117122.0,Diesel,Manual,Second Owner,18.6,925.0,50.4,5.0,Delhi,Individual,149000.0
+CAR01354,Renault,MPV,2011.0,186496.0,Diesel,Manual,First Owner,22.7,2191.0,144.1,7.0,Delhi,Dealer,187000.0
+CAR01355,Maruti,MPV,2012.0,195022.0,Diesel,Manual,Second Owner,17.5,1525.0,87.2,5.0,Bengaluru,Individual,137000.0
+CAR01356,Tata,Sedan,2010.0,260000.0,Diesel,Manual,First Owner,20.8,1211.0,172.2,5.0,Mumbai,Dealer,132000.0
+CAR01357,Kia,Compact SUV,2007.0,138276.0,Petrol,Manual,First Owner,17.2,1609.0,91.2,5.0,Pune,Individual,187000.0
+CAR01358,Hyundai,Hatchback,2014.0,188859.0,Petrol,Automatic,First Owner,14.3,,77.0,5.0,Delhi,Dealer,169000.0
+CAR01359,Mahindra,Compact SUV,2017.0,95028.0,CNG,Automatic,First Owner,24.4,1687.0,128.9,5.0,Delhi,Dealer,748000.0
+CAR01360,Mahindra,Compact SUV,2016.0,100991.0,Diesel,Manual,Second Owner,16.9,1132.0,89.1,5.0,Mumbai,Individual,487000.0
+CAR01361,Honda,MPV,2018.0,146265.0,Diesel,Automatic,Second Owner,18.7,1643.0,151.8,7.0,Hyderabad,Dealer,658000.0
+CAR01362,Renault,Hatchback,2019.0,86096.0,Diesel,Automatic,First Owner,16.2,890.0,53.2,7.0,Bengaluru,Individual,208000.0
+CAR01363,Hyundai,Compact SUV,,126388.0,Petrol,Manual,First Owner,,1053.0,83.8,5.0,Hyderabad,Dealer,462000.0
+CAR01364,Toyota,Sedan,2020.0,98102.0,Diesel,Manual,First Owner,21.4,1856.0,106.6,4.0,Pune,Individual,833000.0
+CAR01365,Maruti,Compact SUV,2013.0,127943.0,Diesel,Automatic,Second Owner,19.4,1558.0,87.0,5.0,Nagpur,Trustmark Dealer,189000.0
+CAR01366,Honda,Sedan,2020.0,127755.0,Diesel,Manual,Second Owner,18.6,1197.0,131.9,5.0,Jaipur,Individual,527000.0
+CAR01367,Toyota,MPV,2021.0,77679.0,Petrol,Manual,First Owner,20.4,1488.0,109.7,7.0,Pune,,1129000.0
+CAR01368,Kia,Luxury,2016.0,142396.0,Diesel,Automatic,First Owner,,2205.0,211.9,5.0,Nagpur,Dealer,962000.0
+CAR01369,Hyundai,Sedan,2013.0,227975.0,Petrol,Manual,First Owner,17.4,1753.0,79.8,5.0,Mumbai,Individual,169000.0
+CAR01370,Honda,SUV,2023.0,46642.0,Petrol,Manual,Second Owner,14.6,,234.3,7.0,Bengaluru,Individual,1072000.0
+CAR01371,Honda,Hatchback,2019.0,83763.0,Petrol,Automatic,First Owner,20.5,1064.0,93.3,5.0,Ahmedabad,Individual,375000.0
+CAR01372,Tata,Hatchback,2017.0,63054.0,Petrol,Manual,First Owner,15.5,912.0,49.6,5.0,Bengaluru,Dealer,202000.0
+CAR01373,Renault,Hatchback,2018.0,99539.0,Petrol,Automatic,Second Owner,14.8,1094.0,63.9,5.0,Bengaluru,Dealer,233000.0
+CAR01374,Maruti,SUV,2017.0,168273.0,Electric,Manual,Third Owner,3.2,71.0,116.4,8.0,Hyderabad,Individual,229000.0
+CAR01375,Mahindra,MPV,2013.0,129945.0,Diesel,Automatic,Second Owner,18.4,,96.6,5.0,Nagpur,Dealer,418000.0
+CAR01376,Mahindra,MPV,2016.0,99822.0,Diesel,Manual,Second Owner,19.1,1523.0,133.7,7.0,Chennai,Individual,539000.0
+CAR01377,Mahindra,MPV,2018.0,74742.0,Diesel,Automatic,Second Owner,22.0,1978.0,126.9,5.0,Mumbai,Dealer,899000.0
+CAR01378,Skoda,Sedan,2015.0,106719.0,Petrol,Manual,Second Owner,13.4,1999.0,167.6,5.0,Bengaluru,Dealer,437000.0
+CAR01379,Hyundai,,2017.0,176111.0,Petrol,Manual,Second Owner,15.7,1702.0,150.6,5.0,Mumbai,Dealer,336000.0
+CAR01380,Volkswagen,Sedan,2023.0,30079.0,Petrol,Manual,First Owner,13.8,1219.0,167.3,5.0,Delhi,Dealer,1037000.0
+CAR01381,Mahindra,SUV,2012.0,114404.0,Petrol,Manual,First Owner,12.7,2582.0,136.9,8.0,Jaipur,Dealer,360000.0
+CAR01382,Volkswagen,MPV,2018.0,130409.0,Diesel,Manual,Fourth & Above,14.3,1999.0,170.8,5.0,Bengaluru,Dealer,594000.0
+CAR01383,Maruti,Hatchback,2006.0,121296.0,Diesel,Manual,First Owner,21.5,843.0,97.7,5.0,Pune,Individual,65000.0
+CAR01384,Toyota,MPV,2018.0,88305.0,Diesel,Automatic,First Owner,20.0,1720.0,157.8,7.0,Delhi,Individual,1064000.0
+CAR01385,Hyundai,Luxury,2014.0,152544.0,LPG,Manual,First Owner,15.0,3247.0,256.9,5.0,Kolkata,Individual,391000.0
+CAR01386,Honda,MPV,2023.0,68136.0,,Manual,First Owner,18.7,1428.0,142.2,5.0,Bengaluru,,1072000.0
+CAR01387,Honda,Hatchback,2020.0,108729.0,Diesel,Manual,First Owner,20.1,920.0,50.5,5.0,Pune,Dealer,441000.0
+CAR01388,Volkswagen,Hatchback,2009.0,156909.0,Petrol,Manual,First Owner,18.3,1162.0,92.0,5.0,Chennai,Dealer,119000.0
+CAR01389,Mahindra,Sedan,2013.0,151853.0,Diesel,Manual,First Owner,20.0,1208.0,99.9,4.0,Hyderabad,Individual,293000.0
+CAR01390,Volkswagen,Compact SUV,2018.0,98652.0,Petrol,Manual,First Owner,14.9,1764.0,149.2,5.0,Kolkata,Individual,547000.0
+CAR01391,Toyota,Sedan,2024.0,25241.0,Petrol,Manual,First Owner,16.3,1957.0,179.0,5.0,Jaipur,Individual,1455000.0
+CAR01392,Mahindra,Hatchback,2018.0,93723.0,Petrol,Manual,First Owner,15.4,1072.0,72.4,5.0,Ahmedabad,Individual,352000.0
+CAR01393,Kia,Sedan,2021.0,76836.0,Diesel,Automatic,First Owner,16.3,1194.0,112.2,5.0,Pune,Dealer,896000.0
+CAR01394,Tata,Hatchback,2006.0,260000.0,Petrol,Manual,First Owner,,1074.0,97.0,5.0,Bengaluru,Individual,65000.0
+CAR01395,Maruti,Sedan,2012.0,260000.0,Petrol,Automatic,Second Owner,14.9,2111.0,165.5,5.0,Delhi,Individual,118000.0
+CAR01396,Honda,Hatchback,2008.0,260000.0,LPG,Automatic,First Owner,20.2,1123.0,99.4,5.0,Delhi,Dealer,73000.0
+CAR01397,Maruti,Compact SUV,2020.0,107807.0,CNG,Automatic,First Owner,20.0,1443.0,121.0,5.0,Kolkata,Dealer,374000.0
+CAR01398,Kia,Compact SUV,2018.0,103271.0,Petrol,Manual,First Owner,17.7,1766.0,87.4,5.0,Hyderabad,Dealer,659000.0
+CAR01399,Toyota,Sedan,2018.0,80311.0,Diesel,Manual,First Owner,15.1,1738.0,144.1,5.0,Bengaluru,Individual,534000.0
+CAR01400,Maruti,Hatchback,2007.0,116406.0,Diesel,Manual,First Owner,20.6,894.0,52.2,5.0,Nagpur,Dealer,68000.0
+CAR01401,Ford,Hatchback,2014.0,68624.0,Petrol,Manual,First Owner,13.7,1005.0,99.3,5.0,Mumbai,Individual,177000.0
+CAR01402,Volkswagen,Sedan,2016.0,199913.0,Petrol,Automatic,First Owner,14.3,1507.0,125.9,5.0,Pune,Dealer,383000.0
+CAR01403,Hyundai,Sedan,2021.0,101498.0,Diesel,Manual,First Owner,19.6,1158.0,150.5,5.0,Kolkata,Individual,523000.0
+CAR01404,Hyundai,Sedan,2016.0,190911.0,CNG,Manual,Second Owner,,1986.0,144.6,5.0,Bengaluru,Trustmark Dealer,228000.0
+CAR01405,Kia,Compact SUV,2013.0,,Petrol,Manual,First Owner,13.6,1390.0,133.4,5.0,Bengaluru,Individual,461000.0
+CAR01406,Hyundai,Sedan,2021.0,21643.0,Diesel,Manual,Second Owner,18.7,1367.0,95.2,5.0,Nagpur,Individual,662000.0
+CAR01407,Mahindra,Compact SUV,2011.0,148000.0,Diesel,Manual,Second Owner,19.8,1583.0,115.3,5.0,Delhi,Dealer,272000.0
+CAR01408,Hyundai,Hatchback,2019.0,135064.0,Petrol,Manual,Second Owner,15.1,916.0,71.4,5.0,Mumbai,Individual,228000.0
+CAR01409,Hyundai,Hatchback,2019.0,105135.0,Petrol,Manual,Second Owner,22.2,817.0,93.3,5.0,Chennai,Individual,242000.0
+CAR01410,Honda,Hatchback,2022.0,76725.0,Petrol,Manual,Fourth & Above,17.3,1224.0,50.9,5.0,Delhi,Individual,320000.0
+CAR01411,Hyundai,Hatchback,2023.0,27555.0,Petrol,Manual,Second Owner,11.5,901.0,48.2,5.0,Hyderabad,Dealer,401000.0
+CAR01412,Tata,SUV,2017.0,71090.0,CNG,Manual,Second Owner,22.8,2399.0,149.3,7.0,Bengaluru,Individual,495000.0
+CAR01413,Honda,Compact SUV,2012.0,144960.0,Petrol,Automatic,First Owner,13.6,1704.0,108.0,5.0,Pune,Individual,291000.0
+CAR01414,Tata,Sedan,2013.0,63424.0,Diesel,Automatic,First Owner,20.1,1496.0,140.1,5.0,Mumbai,Dealer,311000.0
+CAR01415,Mahindra,SUV,2005.0,252917.0,Diesel,Automatic,First Owner,18.8,2711.0,198.3,5.0,Hyderabad,Individual,192000.0
+CAR01416,Maruti,Hatchback,2020.0,83364.0,Petrol,Manual,Fourth & Above,15.1,1231.0,65.5,5.0,Mumbai,Individual,201000.0
+CAR01417,Hyundai,Hatchback,2015.0,159084.0,CNG,Manual,Second Owner,26.3,851.0,47.6,5.0,Mumbai,Individual,137000.0
+CAR01418,Tata,Hatchback,2014.0,199181.0,Diesel,Manual,Fourth & Above,20.6,1209.0,83.8,5.0,Nagpur,Dealer,104000.0
+CAR01419,Toyota,MPV,2018.0,160395.0,Petrol,Manual,First Owner,20.6,1882.0,171.5,5.0,Pune,Individual,733000.0
+CAR01420,Kia,SUV,2017.0,149767.0,Diesel,Automatic,First Owner,20.4,2209.0,163.2,7.0,Mumbai,Individual,826000.0
+CAR01421,Tata,SUV,2021.0,70930.0,Diesel,Manual,First Owner,16.6,1854.0,162.0,7.0,Mumbai,Trustmark Dealer,983000.0
+CAR01422,Maruti,Hatchback,2016.0,116785.0,Petrol,Automatic,First Owner,16.6,1115.0,74.8,5.0,Bengaluru,Dealer,182000.0
+CAR01423,Renault,Hatchback,2015.0,156093.0,Petrol,Automatic,First Owner,17.0,915.0,90.2,5.0,Mumbai,Dealer,147000.0
+CAR01424,Toyota,Compact SUV,2015.0,184370.0,CNG,Manual,First Owner,24.4,1385.0,101.9,7.0,Chennai,Dealer,323000.0
+CAR01425,Renault,Hatchback,2010.0,153050.0,Petrol,Manual,First Owner,19.4,1114.0,78.1,5.0,Mumbai,Dealer,90000.0
+CAR01426,Tata,Compact SUV,2014.0,234683.0,CNG,Manual,Third Owner,25.8,1113.0,89.5,5.0,Mumbai,Individual,110000.0
+CAR01427,Hyundai,Sedan,2021.0,70970.0,Diesel,Manual,First Owner,18.3,1951.0,147.1,5.0,Pune,Dealer,600000.0
+CAR01428,Toyota,Hatchback,2005.0,64624.0,Diesel,Manual,First Owner,16.9,1076.0,87.1,5.0,Bengaluru,Individual,160000.0
+CAR01429,Renault,Hatchback,2018.0,84020.0,Petrol,Manual,First Owner,19.0,999.0,69.2,5.0,Delhi,Individual,230000.0
+CAR01430,Renault,Hatchback,2018.0,101963.0,Diesel,Manual,First Owner,20.3,833.0,98.1,5.0,Pune,Individual,226000.0
+CAR01431,Ford,Hatchback,2017.0,99638.0,Petrol,Automatic,First Owner,18.8,1103.0,81.7,5.0,Mumbai,Dealer,270000.0
+CAR01432,Mahindra,Compact SUV,2020.0,120746.0,Petrol,Manual,Second Owner,11.4,1559.0,101.0,5.0,Mumbai,Individual,707000.0
+CAR01433,Mahindra,SUV,2018.0,128307.0,Diesel,Manual,Third Owner,15.0,2896.0,244.0,7.0,Bengaluru,Individual,710000.0
+CAR01434,Volkswagen,Sedan,2009.0,226278.0,Petrol,Manual,First Owner,17.8,1859.0,74.5,5.0,Ahmedabad,Individual,126000.0
+CAR01435,Honda,MPV,2016.0,171800.0,Diesel,Manual,Third Owner,,1741.0,133.5,7.0,Bengaluru,Dealer,308000.0
+CAR01436,Ford,Hatchback,2021.0,63535.0,Diesel,Manual,Second Owner,19.1,1210.0,90.5,4.0,Pune,Dealer,376000.0
+CAR01437,Hyundai,Sedan,2011.0,148391.0,LPG,Manual,First Owner,16.5,1711.0,95.4,5.0,Mumbai,Individual,126000.0
+CAR01438,Hyundai,Compact SUV,2017.0,131405.0,CNG,Automatic,First Owner,26.2,1759.0,124.4,5.0,Chennai,Individual,357000.0
+CAR01439,Toyota,SUV,2018.0,94189.0,Petrol,Automatic,Second Owner,15.2,2918.0,168.7,5.0,Mumbai,Individual,1153000.0
+CAR01440,Mahindra,Hatchback,2021.0,78438.0,Petrol,Manual,First Owner,13.5,1175.0,95.6,5.0,Pune,Trustmark Dealer,600000.0
+CAR01441,Hyundai,Sedan,2017.0,85647.0,Petrol,Manual,Second Owner,16.9,2000.0,174.7,5.0,Mumbai,Dealer,333000.0
+CAR01442,Tata,Hatchback,2019.0,105355.0,Petrol,Manual,First Owner,14.6,1085.0,,5.0,Delhi,Individual,231000.0
+CAR01443,Ford,Sedan,2021.0,65316.0,Diesel,Manual,First Owner,19.2,2051.0,90.8,5.0,Ahmedabad,Dealer,520000.0
+CAR01444,Tata,SUV,2016.0,184053.0,Petrol,Manual,First Owner,11.3,1905.0,184.6,7.0,Jaipur,Individual,368000.0
+CAR01445,Kia,MPV,2014.0,260000.0,Petrol,Manual,Fourth & Above,16.5,1926.0,108.0,6.0,Pune,Individual,202000.0
+CAR01446,BMW,SUV,2018.0,109747.0,Diesel,Automatic,First Owner,16.5,2427.0,227.8,5.0,Delhi,Dealer,3711000.0
+CAR01447,Maruti,Hatchback,2022.0,92275.0,Petrol,Manual,Fourth & Above,15.1,1164.0,91.3,5.0,Delhi,Individual,223000.0
+CAR01448,Maruti,Compact SUV,2009.0,171379.0,Petrol,Manual,Second Owner,16.2,1442.0,99.0,5.0,Chennai,Dealer,73000.0
+CAR01449,Maruti,Hatchback,2015.0,179901.0,Petrol,Manual,First Owner,,808.0,71.2,5.0,Jaipur,Individual,105000.0
+CAR01450,Honda,Hatchback,2016.0,173489.0,CNG,Manual,First Owner,22.3,1188.0,85.7,5.0,Ahmedabad,Individual,201000.0
+CAR01451,Volkswagen,Hatchback,2011.0,169336.0,Diesel,Manual,First Owner,18.3,1170.0,98.3,5.0,Ahmedabad,Dealer,132000.0
+CAR01452,Toyota,MPV,2012.0,250585.0,Diesel,Automatic,First Owner,19.2,2051.0,138.5,5.0,Delhi,Individual,333000.0
+CAR01453,Tata,Compact SUV,2022.0,69410.0,Electric,Manual,First Owner,0.0,171.0,102.5,5.0,Hyderabad,Individual,500000.0
+CAR01454,Kia,SUV,2012.0,260000.0,Diesel,Automatic,First Owner,20.7,1728.0,246.7,5.0,Delhi,Trustmark Dealer,394000.0
+CAR01455,Kia,SUV,2011.0,170676.0,LPG,Manual,Fourth & Above,15.8,2529.0,97.7,5.0,Chennai,Individual,219000.0
+CAR01456,Volkswagen,Compact SUV,2023.0,34993.0,Petrol,Automatic,Second Owner,18.2,1191.0,99.2,5.0,Bengaluru,Individual,1132000.0
+CAR01457,Maruti,Hatchback,2020.0,119680.0,Petrol,Manual,Second Owner,16.9,884.0,97.3,4.0,Delhi,Individual,202000.0
+CAR01458,Honda,SUV,2016.0,78158.0,Petrol,Manual,First Owner,16.8,2332.0,143.7,5.0,Mumbai,Dealer,656000.0
+CAR01459,Ford,Sedan,2008.0,177769.0,CNG,Automatic,First Owner,24.3,1983.0,93.6,5.0,Jaipur,Individual,104000.0
+CAR01460,Toyota,MPV,2014.0,130315.0,Petrol,Manual,First Owner,16.8,2170.0,179.7,5.0,Ahmedabad,Individual,484000.0
+CAR01461,Honda,Sedan,2015.0,140514.0,Petrol,Manual,First Owner,17.3,1273.0,153.9,5.0,Nagpur,Individual,291000.0
+CAR01462,Kia,Sedan,2013.0,241994.0,Electric,Automatic,First Owner,2.4,101.0,64.2,5.0,Pune,Individual,205000.0
+CAR01463,Toyota,Sedan,2020.0,105058.0,Diesel,Manual,First Owner,,2075.0,100.6,7.0,Jaipur,Dealer,952000.0
+CAR01464,Tata,Hatchback,2018.0,49544.0,Petrol,Manual,Second Owner,17.6,964.0,69.5,7.0,Mumbai,Dealer,209000.0
+CAR01465,Hyundai,Hatchback,2013.0,89960.0,Diesel,Manual,First Owner,16.9,1140.0,98.1,5.0,Chennai,Individual,145000.0
+CAR01466,Renault,Hatchback,2022.0,45274.0,Diesel,Manual,First Owner,18.8,1073.0,84.3,5.0,Mumbai,Individual,425000.0
+CAR01467,,SUV,2020.0,64102.0,Diesel,Manual,First Owner,15.0,2901.0,200.2,5.0,,Individual,1209000.0
+CAR01468,Mercedes-Benz,Luxury,2022.0,62988.0,Petrol,Manual,First Owner,14.3,3767.0,286.7,5.0,Delhi,Individual,8752000.0
+CAR01469,Honda,Compact SUV,2011.0,136780.0,Diesel,Automatic,First Owner,20.1,1330.0,112.6,5.0,Kolkata,Individual,239000.0
+CAR01470,,Hatchback,2019.0,30831.0,Petrol,Manual,Second Owner,15.8,948.0,57.5,5.0,Bengaluru,Dealer,232000.0
+CAR01471,Volkswagen,Sedan,2008.0,189464.0,Petrol,Automatic,First Owner,16.4,2096.0,131.1,5.0,Chennai,Dealer,154000.0
+CAR01472,Mahindra,SUV,2014.0,130704.0,Petrol,Manual,First Owner,10.7,2053.0,174.7,7.0,Delhi,Individual,611000.0
+CAR01473,Toyota,Luxury,2007.0,249364.0,Electric,Automatic,First Owner,0.6,104.0,150.8,5.0,Chennai,Dealer,211000.0
+CAR01474,Hyundai,Hatchback,2009.0,162974.0,Petrol,Automatic,Second Owner,18.7,1251.0,67.5,5.0,Mumbai,Individual,89000.0
+CAR01475,Honda,Compact SUV,2022.0,43789.0,Petrol,Manual,First Owner,17.3,1495.0,81.9,5.0,Chennai,Individual,823000.0
+CAR01476,Mahindra,Hatchback,2022.0,83217.0,Electric,Automatic,First Owner,1.3,148.0,210.2,5.0,Bengaluru,Individual,811000.0
+CAR01477,Tata,Compact SUV,2012.0,167209.0,Diesel,Manual,First Owner,16.2,1689.0,125.7,5.0,Jaipur,Individual,179000.0
+CAR01478,,Compact SUV,2015.0,88381.0,Petrol,Manual,First Owner,15.3,1539.0,127.4,5.0,Chennai,Dealer,494000.0
+CAR01479,Hyundai,SUV,2022.0,35354.0,Diesel,Manual,Second Owner,17.1,2368.0,255.6,5.0,Pune,Individual,1125000.0
+CAR01480,Maruti,Hatchback,2012.0,170249.0,CNG,Manual,First Owner,20.6,995.0,68.6,5.0,Pune,Individual,65000.0
+CAR01481,Hyundai,Hatchback,2020.0,63854.0,Diesel,Manual,First Owner,21.0,1034.0,98.5,5.0,Nagpur,Individual,317000.0
+CAR01482,Mercedes-Benz,Luxury,2014.0,132189.0,Diesel,Automatic,First Owner,16.5,2262.0,228.6,5.0,Delhi,Dealer,2670000.0
+CAR01483,Toyota,MPV,2015.0,178903.0,Petrol,Manual,First Owner,12.7,1499.0,158.9,7.0,Hyderabad,Individual,447000.0
+CAR01484,Honda,Compact SUV,2015.0,127649.0,Petrol,Automatic,Second Owner,15.5,1451.0,116.4,5.0,Delhi,Dealer,336000.0
+CAR01485,Renault,MPV,2021.0,95990.0,Petrol,Manual,First Owner,16.3,2282.0,179.4,5.0,Delhi,Individual,526000.0
+CAR01486,Kia,Hatchback,2019.0,138727.0,Petrol,Manual,Second Owner,13.4,1150.0,84.1,5.0,Delhi,Individual,350000.0
+CAR01487,Mercedes-Benz,Luxury,2006.0,260000.0,Petrol,Automatic,First Owner,15.3,2120.0,446.3,5.0,Ahmedabad,Individual,875000.0
+CAR01488,Renault,SUV,2015.0,101006.0,Diesel,Automatic,First Owner,15.0,1840.0,189.1,6.0,Hyderabad,Dealer,339000.0
+CAR01489,Tata,SUV,2018.0,156395.0,Diesel,Manual,Fourth & Above,19.2,1691.0,187.7,5.0,Kolkata,Individual,346000.0
+CAR01490,Mercedes-Benz,Luxury,2017.0,142540.0,Petrol,Manual,First Owner,12.7,2181.0,210.7,4.0,Pune,Individual,3778000.0
+CAR01491,,Hatchback,2017.0,114919.0,Petrol,Manual,First Owner,,1217.0,85.8,5.0,Hyderabad,Dealer,182000.0
+CAR01492,Mahindra,MPV,2012.0,260000.0,Petrol,Manual,First Owner,13.9,2071.0,95.0,5.0,Mumbai,Dealer,239000.0
+CAR01493,Maruti,Hatchback,2005.0,260000.0,Petrol,Manual,First Owner,11.6,1052.0,77.9,5.0,Delhi,Individual,65000.0
+CAR01494,Maruti,Sedan,2013.0,148702.0,Petrol,Manual,First Owner,18.3,1852.0,153.7,5.0,Pune,Individual,182000.0
+CAR01495,Maruti,Hatchback,2023.0,41819.0,Petrol,Manual,First Owner,13.4,885.0,55.8,5.0,Nagpur,Individual,274000.0
+CAR01496,Mahindra,Hatchback,2021.0,85698.0,Diesel,Manual,First Owner,18.3,938.0,88.4,5.0,Pune,Individual,515000.0
+CAR01497,Kia,MPV,2021.0,63198.0,LPG,Automatic,First Owner,20.5,1440.0,96.8,,Jaipur,Trustmark Dealer,1143000.0
+CAR01498,Hyundai,Hatchback,2015.0,92331.0,Diesel,Manual,Second Owner,15.8,1097.0,99.8,5.0,Bengaluru,Dealer,194000.0
+CAR01499,Ford,SUV,2022.0,36677.0,Diesel,Manual,First Owner,22.4,2149.0,245.1,5.0,Bengaluru,Individual,822000.0
+CAR01500,Toyota,Compact SUV,2011.0,171745.0,Diesel,Automatic,First Owner,17.8,1328.0,131.1,4.0,Bengaluru,Dealer,367000.0
+CAR01501,Maruti,Hatchback,2015.0,130539.0,Diesel,Manual,First Owner,15.6,,51.6,5.0,Bengaluru,Individual,131000.0
+CAR01502,Toyota,SUV,2020.0,164698.0,Petrol,Manual,Second Owner,13.4,1558.0,101.0,6.0,Mumbai,Individual,888000.0
+CAR01503,Ford,Hatchback,2017.0,143826.0,CNG,Manual,Second Owner,24.7,1109.0,61.8,5.0,Mumbai,Individual,134000.0
+CAR01504,Maruti,SUV,2021.0,99442.0,Petrol,Manual,First Owner,16.2,2421.0,104.5,5.0,Bengaluru,Dealer,684000.0
+CAR01505,Maruti,Sedan,2008.0,260000.0,Petrol,Automatic,First Owner,14.4,2024.0,142.2,5.0,Ahmedabad,Dealer,77000.0
+CAR01506,Hyundai,Sedan,2016.0,,Petrol,Manual,Second Owner,14.1,1814.0,136.4,5.0,Bengaluru,Individual,297000.0
+CAR01507,Toyota,MPV,2010.0,258205.0,Diesel,Automatic,First Owner,18.8,1651.0,160.6,5.0,Mumbai,Individual,302000.0
+CAR01508,Maruti,Hatchback,2016.0,178592.0,Diesel,Manual,First Owner,15.2,1047.0,97.7,5.0,Pune,Individual,126000.0
+CAR01509,BMW,Luxury,2011.0,124324.0,Diesel,Automatic,First Owner,20.2,1964.0,272.9,5.0,Chennai,Dealer,2235000.0
+CAR01510,Mahindra,SUV,2012.0,88886.0,Diesel,Automatic,Second Owner,19.5,2105.0,233.4,7.0,Chennai,Dealer,533000.0
+CAR01511,Maruti,Hatchback,2017.0,146781.0,CNG,Manual,First Owner,24.5,1090.0,100.0,5.0,Chennai,Individual,132000.0
+CAR01512,Tata,SUV,2019.0,90524.0,Diesel,Automatic,Second Owner,18.9,1771.0,185.2,5.0,Mumbai,Individual,690000.0
+CAR01513,Hyundai,Hatchback,2017.0,89189.0,Petrol,Automatic,First Owner,18.6,930.0,86.9,5.0,Hyderabad,Individual,237000.0
+CAR01514,Mahindra,Compact SUV,2010.0,209220.0,Petrol,Manual,First Owner,15.3,1276.0,89.7,5.0,Delhi,Dealer,195000.0
+CAR01515,Kia,Compact SUV,2024.0,15344.0,Petrol,Manual,First Owner,15.8,1389.0,86.2,8.0,Delhi,Individual,1319000.0
+CAR01516,Hyundai,Compact SUV,2008.0,139457.0,Petrol,Manual,First Owner,15.0,1566.0,136.3,5.0,Delhi,Individual,142000.0
+CAR01517,Hyundai,Compact SUV,2024.0,54085.0,CNG,Manual,First Owner,22.4,1439.0,136.8,5.0,Ahmedabad,Individual,815000.0
+CAR01518,Honda,SUV,2007.0,260000.0,Diesel,Automatic,Third Owner,15.8,1778.0,114.2,5.0,Mumbai,Individual,120000.0
+CAR01519,Tata,Compact SUV,2013.0,235448.0,Petrol,Manual,First Owner,11.3,1327.0,81.7,5.0,Pune,Individual,164000.0
+CAR01520,Tata,SUV,2017.0,104801.0,Diesel,Manual,First Owner,16.1,1990.0,167.9,7.0,Bengaluru,Individual,560000.0
+CAR01521,Maruti,Hatchback,2022.0,59861.0,Petrol,Automatic,First Owner,16.0,1045.0,87.7,5.0,Pune,Dealer,388000.0
+CAR01522,Tata,MPV,2018.0,31103.0,Diesel,Manual,First Owner,13.8,1787.0,121.6,5.0,Mumbai,Dealer,698000.0
+CAR01523,Renault,Hatchback,2013.0,239896.0,Petrol,Manual,First Owner,15.1,1268.0,59.6,5.0,Delhi,Individual,85000.0
+CAR01524,Mercedes-Benz,Hatchback,2021.0,83221.0,Petrol,Automatic,Second Owner,15.3,812.0,71.8,5.0,Mumbai,Dealer,2261000.0
+CAR01525,Volkswagen,SUV,2010.0,224034.0,Petrol,Manual,Fourth & Above,14.0,2372.0,227.5,5.0,Delhi,Individual,178000.0
+CAR01526,Hyundai,Hatchback,2007.0,188084.0,Petrol,Manual,Second Owner,15.3,1109.0,59.4,5.0,Nagpur,Individual,65000.0
+CAR01527,Kia,SUV,2021.0,74563.0,Petrol,Automatic,First Owner,16.9,1591.0,259.2,4.0,Mumbai,Trustmark Dealer,2001000.0
+CAR01528,Mahindra,Compact SUV,2009.0,152004.0,Petrol,Manual,Third Owner,18.1,1630.0,145.9,5.0,Delhi,Individual,158000.0
+CAR01529,Maruti,Hatchback,2009.0,173178.0,Diesel,Automatic,First Owner,15.6,1106.0,66.1,5.0,Chennai,Individual,65000.0
+CAR01530,Renault,Hatchback,2017.0,114645.0,Diesel,Manual,First Owner,20.5,831.0,80.3,5.0,Hyderabad,Individual,182000.0
+CAR01531,Hyundai,Sedan,2013.0,223524.0,Diesel,Manual,First Owner,22.1,1599.0,72.7,4.0,Jaipur,Individual,148000.0
+CAR01532,Hyundai,Compact SUV,2008.0,218455.0,LPG,Manual,First Owner,14.1,1523.0,157.6,5.0,Mumbai,Individual,107000.0
+CAR01533,Tata,Sedan,2020.0,101048.0,Diesel,Manual,First Owner,21.9,1593.0,89.7,5.0,Jaipur,Dealer,426000.0
+CAR01534,Renault,Hatchback,2014.0,183053.0,Petrol,Manual,First Owner,14.8,1164.0,53.3,5.0,Bengaluru,Individual,117000.0
+CAR01535,Honda,Hatchback,2024.0,25600.0,Petrol,Manual,First Owner,12.0,1251.0,82.7,5.0,Bengaluru,Dealer,710000.0
+CAR01536,Toyota,MPV,2007.0,260000.0,Petrol,Manual,First Owner,16.4,2101.0,100.4,7.0,Kolkata,Dealer,136000.0
+CAR01537,Renault,Compact SUV,2008.0,182744.0,Petrol,Automatic,Second Owner,13.1,1658.0,93.3,5.0,Bengaluru,Dealer,113000.0
+CAR01538,Kia,Sedan,2021.0,38337.0,Diesel,Automatic,First Owner,20.3,,93.5,5.0,Ahmedabad,Dealer,1105000.0
+CAR01539,Maruti,Hatchback,2020.0,64187.0,Diesel,Automatic,First Owner,19.6,1035.0,59.5,5.0,Nagpur,Dealer,340000.0
+CAR01540,Tata,Compact SUV,2023.0,41016.0,Diesel,Automatic,Fourth & Above,17.8,1398.0,159.6,5.0,Jaipur,Individual,510000.0
+CAR01541,Skoda,MPV,2021.0,43125.0,Diesel,Manual,Second Owner,20.9,2488.0,114.7,5.0,Delhi,Individual,1081000.0
+CAR01542,Tata,Sedan,2019.0,101452.0,Petrol,Automatic,First Owner,16.5,1603.0,132.3,6.0,Chennai,Individual,434000.0
+CAR01543,Toyota,Compact SUV,2016.0,151477.0,Diesel,Manual,First Owner,18.7,1293.0,110.9,5.0,Hyderabad,Individual,453000.0
+CAR01544,Hyundai,Compact SUV,2016.0,195414.0,Petrol,Automatic,First Owner,14.6,1507.0,74.0,5.0,Ahmedabad,Dealer,274000.0
+CAR01545,Tata,Hatchback,2009.0,150510.0,Diesel,Manual,First Owner,18.8,1072.0,66.8,5.0,Delhi,Individual,91000.0
+CAR01546,Toyota,MPV,2008.0,164446.0,Diesel,Manual,Second Owner,18.9,1458.0,175.4,7.0,Mumbai,Individual,215000.0
+CAR01547,Toyota,MPV,2018.0,96795.0,Petrol,Manual,Second Owner,17.0,1971.0,80.3,5.0,Pune,Dealer,692000.0
+CAR01548,Maruti,Hatchback,2007.0,260000.0,Diesel,Manual,First Owner,18.1,807.0,46.2,5.0,Delhi,Individual,65000.0
+CAR01549,Tata,Compact SUV,2013.0,170931.0,Petrol,Manual,Third Owner,14.6,1707.0,94.1,5.0,Delhi,Dealer,130000.0
+CAR01550,Honda,Compact SUV,2013.0,213876.0,Diesel,Manual,Second Owner,23.4,1677.0,133.1,5.0,Kolkata,Trustmark Dealer,247000.0
+CAR01551,Hyundai,Hatchback,2018.0,88425.0,Petrol,Manual,First Owner,24.3,1263.0,63.3,7.0,Hyderabad,Individual,235000.0
+CAR01552,Hyundai,MPV,2012.0,260000.0,Petrol,Automatic,First Owner,16.7,1994.0,87.4,5.0,Nagpur,Dealer,177000.0
+CAR01553,Tata,Hatchback,2015.0,118947.0,Petrol,Manual,Third Owner,14.6,989.0,96.7,7.0,Chennai,Dealer,154000.0
+CAR01554,Ford,Luxury,2022.0,49918.0,CNG,Automatic,First Owner,20.3,3206.0,388.2,5.0,Bengaluru,Individual,962000.0
+CAR01555,Renault,Hatchback,2017.0,113048.0,CNG,Automatic,First Owner,24.4,870.0,97.2,5.0,Hyderabad,Dealer,179000.0
+CAR01556,Hyundai,Hatchback,2010.0,55550.0,Petrol,Manual,Third Owner,16.4,962.0,72.3,5.0,Pune,Individual,77000.0
+CAR01557,Toyota,MPV,2008.0,260000.0,Diesel,Manual,First Owner,20.0,1465.0,163.6,5.0,Bengaluru,Individual,211000.0
+CAR01558,Honda,SUV,2016.0,92333.0,Diesel,Manual,Second Owner,19.7,2974.0,105.7,5.0,Chennai,Dealer,483000.0
+CAR01559,Maruti,Sedan,2013.0,105517.0,Petrol,Manual,First Owner,18.7,1433.0,172.8,5.0,Bengaluru,Dealer,175000.0
+CAR01560,Volkswagen,Sedan,2019.0,,CNG,Manual,Second Owner,24.9,1338.0,151.8,5.0,Hyderabad,Dealer,756000.0
+CAR01561,Honda,Sedan,2023.0,42472.0,LPG,Automatic,First Owner,19.5,1852.0,137.3,5.0,Nagpur,Individual,920000.0
+CAR01562,Maruti,Hatchback,2013.0,238081.0,Diesel,Automatic,First Owner,20.3,1095.0,81.6,5.0,Bengaluru,Dealer,108000.0
+CAR01563,Hyundai,Sedan,2012.0,224792.0,Diesel,Manual,First Owner,17.4,1176.0,170.6,5.0,Pune,Individual,166000.0
+CAR01564,Volkswagen,Hatchback,2015.0,74356.0,CNG,Manual,Third Owner,19.9,890.0,68.1,7.0,Pune,Individual,200000.0
+CAR01565,Kia,SUV,2012.0,173703.0,Diesel,Manual,First Owner,19.7,2483.0,160.5,5.0,Chennai,Dealer,510000.0
+CAR01566,BMW,Hatchback,2014.0,176269.0,Petrol,Automatic,Second Owner,15.5,845.0,72.2,5.0,Mumbai,Dealer,733000.0
+CAR01567,Maruti,Sedan,2016.0,180719.0,Petrol,Manual,Second Owner,17.0,1695.0,167.1,,Hyderabad,Individual,178000.0
+CAR01568,Kia,Compact SUV,2013.0,122999.0,Petrol,Manual,First Owner,18.1,1503.0,147.3,5.0,Chennai,Individual,368000.0
+CAR01569,Maruti,Hatchback,2009.0,216029.0,Petrol,Automatic,First Owner,17.1,1104.0,65.8,5.0,Bengaluru,Individual,65000.0
+CAR01570,Renault,Hatchback,2005.0,260000.0,Diesel,Manual,Third Owner,21.6,1228.0,60.0,5.0,Delhi,Individual,65000.0
+CAR01571,Toyota,Hatchback,2012.0,,Petrol,Automatic,First Owner,21.4,975.0,74.8,,Pune,Dealer,253000.0
+CAR01572,Honda,MPV,2019.0,79411.0,Diesel,Manual,First Owner,19.2,1898.0,140.0,5.0,Pune,Individual,761000.0
+CAR01573,Kia,Sedan,2012.0,218940.0,Diesel,Automatic,First Owner,20.7,1391.0,110.8,5.0,Ahmedabad,Dealer,289000.0
+CAR01574,Skoda,Luxury,2023.0,38545.0,Petrol,Automatic,Second Owner,15.2,3745.0,211.9,5.0,Pune,Dealer,2501000.0
+CAR01575,Hyundai,Hatchback,2013.0,206066.0,Diesel,Automatic,Second Owner,18.9,1148.0,73.1,5.0,Hyderabad,Dealer,112000.0
+CAR01576,Hyundai,SUV,2022.0,78193.0,Diesel,Manual,First Owner,18.4,2014.0,180.4,7.0,Pune,Dealer,943000.0
+CAR01577,Toyota,SUV,2015.0,170454.0,Diesel,Automatic,First Owner,19.0,1586.0,182.7,5.0,Pune,Individual,655000.0
+CAR01578,Volkswagen,Sedan,2009.0,199742.0,CNG,Manual,First Owner,26.2,1953.0,133.4,5.0,Mumbai,Individual,163000.0
+CAR01579,Maruti,SUV,2015.0,149581.0,Diesel,Manual,First Owner,23.3,1623.0,221.1,5.0,Delhi,Individual,293000.0
+CAR01580,BMW,Sedan,2014.0,113872.0,Petrol,Automatic,Second Owner,14.5,1182.0,89.1,5.0,Chennai,Individual,1209000.0
+CAR01581,Honda,Sedan,2011.0,176385.0,Diesel,Manual,Second Owner,20.1,1708.0,108.0,5.0,Kolkata,Individual,118000.0
+CAR01582,Hyundai,SUV,2024.0,21912.0,Petrol,Automatic,First Owner,18.2,2414.0,221.9,5.0,Bengaluru,Trustmark Dealer,1637000.0
+CAR01583,Renault,Sedan,2014.0,206722.0,Diesel,Manual,First Owner,15.6,1294.0,170.9,5.0,Mumbai,Individual,177000.0
+CAR01584,Renault,MPV,2020.0,99593.0,Diesel,Manual,First Owner,16.2,1978.0,99.5,5.0,Mumbai,Individual,517000.0
+CAR01585,Mahindra,SUV,2020.0,91433.0,Diesel,Manual,Third Owner,21.7,2389.0,242.8,5.0,Bengaluru,Dealer,995000.0
+CAR01586,Kia,SUV,2012.0,208515.0,Diesel,Manual,First Owner,21.7,2856.0,158.3,7.0,Delhi,Individual,387000.0
+CAR01587,Maruti,Compact SUV,2022.0,36898.0,Petrol,Manual,First Owner,16.2,1725.0,137.9,5.0,Pune,Individual,769000.0
+CAR01588,Hyundai,Hatchback,2016.0,107563.0,Petrol,Manual,Second Owner,11.9,908.0,76.1,6.0,Pune,Individual,97000.0
+CAR01589,Maruti,Hatchback,2010.0,163403.0,Petrol,Manual,First Owner,15.4,1287.0,89.4,5.0,Kolkata,Individual,86000.0
+CAR01590,Hyundai,Sedan,2019.0,69310.0,Petrol,Automatic,Second Owner,19.3,1220.0,178.4,4.0,Bengaluru,Individual,514000.0
+CAR01591,Tata,SUV,2014.0,134229.0,Diesel,Manual,First Owner,20.1,2209.0,226.8,5.0,Bengaluru,Dealer,419000.0
+CAR01592,Maruti,Sedan,2023.0,68099.0,Petrol,Manual,Second Owner,15.1,1927.0,171.5,5.0,Delhi,Individual,599000.0
+CAR01593,Honda,Compact SUV,2017.0,75654.0,CNG,Automatic,First Owner,20.1,1355.0,123.2,5.0,Pune,Individual,508000.0
+CAR01594,Kia,SUV,2018.0,129478.0,Petrol,Manual,First Owner,11.0,1596.0,228.7,5.0,Hyderabad,Dealer,972000.0
+CAR01595,Maruti,Hatchback,2019.0,109602.0,CNG,Automatic,First Owner,23.2,953.0,65.4,4.0,Chennai,Dealer,195000.0
+CAR01596,Hyundai,Hatchback,2020.0,54642.0,CNG,Manual,First Owner,23.0,1249.0,91.3,5.0,Chennai,Trustmark Dealer,348000.0
+CAR01597,Honda,Sedan,2021.0,101623.0,Petrol,Manual,Second Owner,15.4,1438.0,81.5,5.0,Pune,Individual,607000.0
+CAR01598,Hyundai,Hatchback,2017.0,138873.0,Diesel,Automatic,Third Owner,20.1,1181.0,71.5,7.0,Pune,Individual,226000.0
+CAR01599,Volkswagen,Hatchback,2012.0,194659.0,Petrol,Manual,First Owner,18.8,983.0,72.8,5.0,Ahmedabad,Individual,117000.0
+CAR01600,Volkswagen,Compact SUV,2013.0,121820.0,Petrol,Manual,First Owner,12.7,1486.0,76.9,5.0,Nagpur,Individual,290000.0
+CAR01433,Mahindra,SUV,2018.0,128307.0,Diesel,Manual,Third Owner,15.0,2896.0,244.0,7.0,Bengaluru,Individual,710000.0
+CAR00754,Ford,Sedan,2006.0,194938.0,Petrol,Automatic,First Owner,15.2,1413.0,93.7,5.0,Mumbai,Individual,90000.0
+CAR00678,Hyundai,MPV,2014.0,,LPG,Manual,First Owner,18.2,1445.0,135.3,5.0,Mumbai,Trustmark Dealer,250000.0
+CAR01438,Hyundai,Compact SUV,2017.0,131405.0,CNG,Automatic,First Owner,26.2,1759.0,124.4,5.0,Chennai,Individual,357000.0
+CAR00246,Tata,SUV,2024.0,42430.0,Petrol,Automatic,Second Owner,13.6,1531.0,181.8,5.0,Kolkata,Dealer,1163000.0
+CAR01213,Maruti,Hatchback,2023.0,50237.0,Diesel,Manual,First Owner,18.3,,72.9,5.0,Delhi,Individual,346000.0
+CAR01379,Hyundai,,2017.0,176111.0,Petrol,Manual,Second Owner,15.7,1702.0,150.6,5.0,Mumbai,Dealer,336000.0
+CAR00870,Volkswagen,Hatchback,2021.0,81948.0,Diesel,Automatic,Second Owner,18.4,1275.0,71.5,6.0,Hyderabad,Individual,586000.0
+CAR00225,Honda,SUV,2013.0,181608.0,Petrol,Manual,First Owner,17.0,2990.0,191.3,5.0,Mumbai,Trustmark Dealer,360000.0
+CAR00979,Tata,Hatchback,2017.0,169774.0,Diesel,Automatic,Second Owner,18.5,1011.0,48.8,5.0,Delhi,Individual,178000.0
+CAR01560,Volkswagen,Sedan,2019.0,,CNG,Manual,Second Owner,24.9,1338.0,151.8,5.0,Hyderabad,Dealer,756000.0
+CAR00165,Hyundai,Compact SUV,2020.0,49207.0,Diesel,Manual,First Owner,20.2,1645.0,140.1,6.0,Pune,Individual,652000.0
+CAR00652,Honda,Hatchback,2018.0,103492.0,Petrol,Manual,First Owner,,974.0,88.3,5.0,Pune,Individual,298000.0
+CAR00701,Honda,Sedan,2011.0,131580.0,Petrol,Manual,First Owner,15.5,1286.0,86.5,7.0,Mumbai,Dealer,195000.0
